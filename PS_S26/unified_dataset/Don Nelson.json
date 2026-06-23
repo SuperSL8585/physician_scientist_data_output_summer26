@@ -1,0 +1,441 @@
+{
+    "author_name": {
+        "name": "Don Nelson",
+        "clusters_count": 9
+    },
+    "author_data": {
+        "A5112624451": {
+            "gold_id/master_key": "Don_Nelson_1",
+            "ids": [
+                "A5112624451"
+            ],
+            "name": "Don H. Nelson",
+            "name_first": "Don",
+            "name_middle": "H.",
+            "name_last": "Nelson",
+            "field": "Medicine, Medicine, Medicine, Neuroscience, Medicine",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 133,
+            "works": [
+                "W2073656642",
+                "W2056597129",
+                "W2337612462",
+                "W2099744924",
+                "W2025532284",
+                "W1979724643",
+                "W1996717405",
+                "W2089137419",
+                "W1967265097",
+                "W2021795658",
+                "W2341891644",
+                "W2093035792",
+                "W331196707",
+                "W2022366645",
+                "W9131134",
+                "W1875133669",
+                "W2014373138",
+                "W1994425355",
+                "W1996439307",
+                "W1985416401",
+                "W2061452681",
+                "W2043031749",
+                "W2088863702",
+                "W2169659484",
+                "W1980161089",
+                "W2044481581",
+                "W2147511566",
+                "W2153875117",
+                "W2066306806",
+                "W2093493831",
+                "W2170919736",
+                "W1504720427",
+                "W2025337253",
+                "W2061093391",
+                "W2045685498",
+                "W2324725696",
+                "W1541671537",
+                "W2318907954",
+                "W2009761839",
+                "W2057221873",
+                "W1999041073",
+                "W2031818864"
+            ]
+        },
+        "A5103404828": {
+            "gold_id/master_key": "Don_Nelson_2",
+            "ids": [
+                "A5103404828"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Social Sciences, Psychology, Business, Management and Accounting, Psychology, Psychology",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 25,
+            "works": [
+                "W2064317623",
+                "W2008994012",
+                "W1993805758",
+                "W2041340428",
+                "W3020824936",
+                "W1995888444",
+                "W2012398452",
+                "W4246948364",
+                "W1545594225",
+                "W2024241055",
+                "W2070755706",
+                "W1969236807",
+                "W1982069366",
+                "W2345922549",
+                "W1994051465",
+                "W2021244133",
+                "W2035970966",
+                "W4237717280",
+                "W1786957783",
+                "W2002144871",
+                "W2047525602"
+            ]
+        },
+        "A5113804302": {
+            "gold_id/master_key": "Don_Nelson_3",
+            "ids": [
+                "A5113804302"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Earth and Planetary Sciences, Agricultural and Biological Sciences, Earth and Planetary Sciences, Environmental Science, Materials Science",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 35,
+            "works": [
+                "W2173991821",
+                "W2166786544",
+                "W2045428197",
+                "W2126316039",
+                "W1968776205",
+                "W2142403151",
+                "W2002669536",
+                "W2147925649",
+                "W2979598359",
+                "W2067603319",
+                "W1975678123",
+                "W1963550279",
+                "W2049368723",
+                "W2286704885",
+                "W2403424075",
+                "W2413812611"
+            ]
+        },
+        "A5110238646": {
+            "gold_id/master_key": "Don_Nelson_4",
+            "ids": [
+                "A5110238646"
+            ],
+            "name": "Don E. Nelson",
+            "name_first": "Don",
+            "name_middle": "E.",
+            "name_last": "Nelson",
+            "field": "Biochemistry, Genetics and Molecular Biology, Agricultural and Biological Sciences, Computer Science, Environmental Science, Agricultural and Biological Sciences",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 3,
+            "works": [
+                "W2136921856",
+                "W2053658424",
+                "W2013630710",
+                "W2207777486",
+                "W275916312",
+                "W1975369710",
+                "W2061844566",
+                "W2228926500",
+                "W563050775"
+            ]
+        },
+        "A5109621795": {
+            "gold_id/master_key": "Don_Nelson_5",
+            "ids": [
+                "A5109621795"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Engineering, Engineering, Chemistry, Engineering, Materials Science",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 2,
+            "works": [
+                "W2088680716"
+            ]
+        },
+        "A5009991312": {
+            "gold_id/master_key": "Don_Nelson_6",
+            "ids": [
+                "A5009991312"
+            ],
+            "name": "Don J. Nelson",
+            "name_first": "Don",
+            "name_middle": "J.",
+            "name_last": "Nelson",
+            "field": "Computer Science, Computer Science, Computer Science, Computer Science, Computer Science",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 13,
+            "works": [
+                "W3142139441",
+                "W2141281311",
+                "W2164993619",
+                "W2057882817"
+            ]
+        },
+        "A5041434933": {
+            "gold_id/master_key": "Don_Nelson_7",
+            "ids": [
+                "A5041434933"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Agricultural and Biological Sciences, Agricultural and Biological Sciences, Biochemistry, Genetics and Molecular Biology, Biochemistry, Genetics and Molecular Biology, Neuroscience",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 5,
+            "works": [
+                "W1553713556",
+                "W2142741577"
+            ]
+        },
+        "A5018413034": {
+            "gold_id/master_key": "Don_Nelson_8",
+            "ids": [
+                "A5018413034"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Computer Science, Engineering, Agricultural and Biological Sciences, Physics and Astronomy, Environmental Science",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 3,
+            "works": [
+                "W84206499",
+                "W1963799020",
+                "W332043157"
+            ]
+        },
+        "A5082889207": {
+            "gold_id/master_key": "Don_Nelson_9",
+            "ids": [
+                "A5082889207"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Economics, Econometrics and Finance, Environmental Science, Agricultural and Biological Sciences, Social Sciences, Social Sciences",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 5,
+            "works": [
+                "W2144932064",
+                "W2586410884",
+                "W2770052244"
+            ]
+        },
+        "A5092433136": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092433136"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Arts and Humanities, Arts and Humanities, Arts and Humanities",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        },
+        "A5092439785": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092439785"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Decision Sciences, Economics, Econometrics and Finance, Economics, Econometrics and Finance",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        },
+        "A5092439978": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092439978"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Arts and Humanities, Arts and Humanities, Social Sciences",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        },
+        "A5092440163": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092440163"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Arts and Humanities, Arts and Humanities, Arts and Humanities",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        },
+        "A5092433014": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092433014"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Arts and Humanities, Arts and Humanities, Earth and Planetary Sciences",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        },
+        "A5092439779": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092439779"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Environmental Science, Chemistry",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        },
+        "A5092440093": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092440093"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Mathematics, Arts and Humanities, Economics, Econometrics and Finance",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        },
+        "A5092439774": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092439774"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Social Sciences",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        },
+        "A5092440142": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092440142"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Agricultural and Biological Sciences, Arts and Humanities",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        },
+        "A5092435165": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5092435165"
+            ],
+            "name": "Don Nelson",
+            "name_first": "Don",
+            "name_middle": "",
+            "name_last": "Nelson",
+            "field": "Arts and Humanities, Arts and Humanities, Arts and Humanities",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        }
+    }
+}

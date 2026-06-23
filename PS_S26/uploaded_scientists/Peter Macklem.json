@@ -1,0 +1,152 @@
+{
+    "author_name": {
+        "name": "Peter Macklem",
+        "clusters_count": 1
+    },
+    "author_data": {
+        "A5066367926": {
+            "gold_id/master_key": "peter_macklem_1",
+            "ids": [
+                "A5066367926",
+                "A5031157213",
+                "A5120106494",
+                "A5120103602"
+            ],
+            "name": "Peter T. Macklem",
+            "name_first": "Peter",
+            "name_middle": "T.",
+            "name_last": "Macklem",
+            "field": null,
+            "fields": [
+                "Respiratory Medicine",
+                "Respirology"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 341,
+            "works": [
+                "W2319554819",
+                "W1862464476",
+                "W2075359443",
+                "W2416943633",
+                "W4415466560",
+                "W4415458600"
+            ]
+        }
+    },
+    "works_data": {
+        "W2319554819": {
+            "id": "W2319554819",
+            "title": "Site and Nature of Airway Obstruction in Chronic Obstructive Lung Disease",
+            "year": 1968,
+            "authors": [
+                {
+                    "name": "James C. Hogg",
+                    "id": "A5091776168"
+                },
+                {
+                    "name": "Peter T. Macklem",
+                    "id": "A5066367926"
+                },
+                {
+                    "name": "William M. Thurlbeck",
+                    "id": "A5111647498"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W1862464476": {
+            "id": "W1862464476",
+            "title": "Significance of the relationship between lung recoil and maximum expiratory flow.",
+            "year": 1967,
+            "authors": [
+                {
+                    "name": "J. Mead",
+                    "id": "A5108224337"
+                },
+                {
+                    "name": "James M. Turner",
+                    "id": "A5054541116"
+                },
+                {
+                    "name": "Peter T. Macklem",
+                    "id": "A5066367926"
+                },
+                {
+                    "name": "John B. Little",
+                    "id": "A5050473614"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2075359443": {
+            "id": "W2075359443",
+            "title": "Site of Airway Obstruction in Asthma",
+            "year": 1973,
+            "authors": [
+                {
+                    "name": "Peter J. Macklem",
+                    "id": "A5031157213"
+                },
+                {
+                    "name": "P Despas",
+                    "id": "A5069449271"
+                },
+                {
+                    "name": "Michele LeRoux",
+                    "id": "A5024002101"
+                }
+            ],
+            "venue": "CHEST Journal"
+        },
+        "W2416943633": {
+            "id": "W2416943633",
+            "title": "Atherosclerotic lesions in rabbits with hemorrhagic lipemia.",
+            "year": 1957,
+            "authors": [
+                {
+                    "name": "Ritchie Ac",
+                    "id": "A5025022041"
+                },
+                {
+                    "name": "Peter J. Macklem",
+                    "id": "A5031157213"
+                },
+                {
+                    "name": "Weigensberg Bi",
+                    "id": "A5110407414"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W4415466560": {
+            "id": "W4415466560",
+            "title": "Preface",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Jere Mead",
+                    "id": "A5108196064"
+                },
+                {
+                    "name": "Peter T. MacKlem",
+                    "id": "A5120106494"
+                }
+            ],
+            "venue": "Comprehensive physiology"
+        },
+        "W4415458600": {
+            "id": "W4415458600",
+            "title": "Symbols and Abbreviations",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Peter T. Macklem",
+                    "id": "A5120103602"
+                }
+            ],
+            "venue": "Comprehensive physiology"
+        }
+    }
+}

@@ -1,0 +1,426 @@
+{
+    "author_name": {
+        "name": "Joseph Goldstein",
+        "clusters_count": 8
+    },
+    "author_data": {
+        "A5058164552": {
+            "gold_id/master_key": "Joseph_Goldstein_1",
+            "ids": [
+                "A5058164552"
+            ],
+            "name": "Joseph L. Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "L.",
+            "name_last": "Goldstein",
+            "field": "Medicine, Medicine, Biochemistry, Genetics and Molecular Biology, Biochemistry, Genetics and Molecular Biology, Biochemistry, Genetics and Molecular Biology",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 474,
+            "works": [
+                "W2084744450",
+                "W2146544786",
+                "W4252021281",
+                "W2039999119",
+                "W2049401036",
+                "W2162458714",
+                "W2086271423",
+                "W2115420718",
+                "W1522459970",
+                "W2102161788",
+                "W2138466097",
+                "W1485806819",
+                "W2142802148",
+                "W2138486337",
+                "W1995032745",
+                "W1970761589",
+                "W2127791131",
+                "W2160347316",
+                "W2018127398",
+                "W2057394745",
+                "W1492605893",
+                "W2021632088",
+                "W2097632838",
+                "W2091015159",
+                "W2004410658",
+                "W2040641918",
+                "W2035816889",
+                "W1996241166",
+                "W2067324334",
+                "W2098806204",
+                "W2030610610",
+                "W2023719883",
+                "W1940775645",
+                "W2031595603",
+                "W1975189993",
+                "W2100075764",
+                "W2167994535",
+                "W2061864595",
+                "W2136116905",
+                "W2009616432",
+                "W1981704568",
+                "W2057680047",
+                "W2044463379",
+                "W1984662248",
+                "W2007154749",
+                "W2134292324",
+                "W2023846584",
+                "W2020988004",
+                "W2146156622",
+                "W4247555495",
+                "W2016676112",
+                "W2081458493",
+                "W2745669578",
+                "W2122391469",
+                "W2037590835",
+                "W2050412627",
+                "W2046422846"
+            ]
+        },
+        "A5111810731": {
+            "gold_id/master_key": "Joseph_Goldstein_2",
+            "ids": [
+                "A5111810731"
+            ],
+            "name": "Joseph I. Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "I.",
+            "name_last": "Goldstein",
+            "field": "Materials Science, Physics and Astronomy, Physics and Astronomy, Earth and Planetary Sciences, Physics and Astronomy",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 378,
+            "works": []
+        },
+        "A5028972013": {
+            "gold_id/master_key": "Joseph_Goldstein_3",
+            "ids": [
+                "A5028972013"
+            ],
+            "name": "Joseph Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "",
+            "name_last": "Goldstein",
+            "field": "Psychology, Social Sciences, Social Sciences, Social Sciences, Psychology",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 98,
+            "works": [
+                "W2795637364",
+                "W1598768917",
+                "W2797906786",
+                "W2062821548",
+                "W1491225203",
+                "W612408119",
+                "W1626778499",
+                "W1484495806",
+                "W1999670134",
+                "W1558202527",
+                "W629948132",
+                "W1498601176",
+                "W1495367845",
+                "W431956291",
+                "W2055739573",
+                "W4295160947"
+            ]
+        },
+        "A5111477111": {
+            "gold_id/master_key": "Joseph_Goldstein_1",
+            "ids": [
+                "A5111477111"
+            ],
+            "name": "Joseph L Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "L",
+            "name_last": "Goldstein",
+            "field": "Biochemistry, Genetics and Molecular Biology, Biochemistry, Genetics and Molecular Biology, Medicine, Biochemistry, Genetics and Molecular Biology, Medicine",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 4,
+            "works": [
+                "W2127639686",
+                "W2004465970",
+                "W2062956001",
+                "W1596509324",
+                "W2170528463",
+                "W2409518908",
+                "W2062415756",
+                "W1545570358"
+            ]
+        },
+        "A5103439743": {
+            "gold_id/master_key": "Joseph_Goldstein_4",
+            "ids": [
+                "A5103439743"
+            ],
+            "name": "Joseph H. Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "H.",
+            "name_last": "Goldstein",
+            "field": "Medicine, Medicine, Medicine, Medicine, Medicine",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 51,
+            "works": [
+                "W2049550807",
+                "W190108362",
+                "W2090578315",
+                "W2048230834",
+                "W4245022628",
+                "W2041546804",
+                "W2419368726",
+                "W1988339161",
+                "W1999529872",
+                "W2013287115",
+                "W1976759026",
+                "W1973344967",
+                "W2083712210",
+                "W2588439265",
+                "W1833434439",
+                "W2089881937",
+                "W2042500661",
+                "W2053304097",
+                "W144081960",
+                "W1999000994",
+                "W2796173874",
+                "W2016184120",
+                "W2265766810",
+                "W2588095559",
+                "W2057976660",
+                "W2309703113",
+                "W2416420959",
+                "W2074651876",
+                "W2110335986",
+                "W3093247248",
+                "W2110509328",
+                "W1980577512",
+                "W2407696506",
+                "W1964371022",
+                "W2002060762",
+                "W2318457578",
+                "W2401784771",
+                "W2474291943",
+                "W2531455341",
+                "W4252889878",
+                "W616826692",
+                "W73528003",
+                "W1984556660",
+                "W2020346863",
+                "W2242170815",
+                "W2242760463",
+                "W2259585784",
+                "W4233491276"
+            ]
+        },
+        "A5108365849": {
+            "gold_id/master_key": "Joseph_Goldstein_1",
+            "ids": [
+                "A5108365849"
+            ],
+            "name": "Joseph L Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "L",
+            "name_last": "Goldstein",
+            "field": "Medicine, Biochemistry, Genetics and Molecular Biology, Biochemistry, Genetics and Molecular Biology, Medicine, Biochemistry, Genetics and Molecular Biology",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 2,
+            "works": [
+                "W1995193554",
+                "W2035174476"
+            ]
+        },
+        "A5022443911": {
+            "gold_id/master_key": "Joseph_Goldstein_5",
+            "ids": [
+                "A5022443911"
+            ],
+            "name": "Joseph C. Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "C.",
+            "name_last": "Goldstein",
+            "field": "Medicine, Medicine, Engineering, Medicine, Medicine",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 26,
+            "works": [
+                "W3136563048",
+                "W2904643959",
+                "W4392948104",
+                "W3131078348",
+                "W2635968038",
+                "W2791410431",
+                "W3108484930",
+                "W3134790537",
+                "W3197772764",
+                "W4253062085",
+                "W2168795164",
+                "W2413621378",
+                "W2099622810",
+                "W168266705",
+                "W1992189883",
+                "W2396567414",
+                "W2404801590",
+                "W2411865788",
+                "W2461200056",
+                "W3133789673",
+                "W4375857193"
+            ]
+        },
+        "A5004671650": {
+            "gold_id/master_key": "Joseph_Goldstein_6",
+            "ids": [
+                "A5004671650"
+            ],
+            "name": "Joseph D. Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "D.",
+            "name_last": "Goldstein",
+            "field": "Health Professions, Health Professions, Medicine, Medicine, Medicine",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 8,
+            "works": [
+                "W2216366921",
+                "W2312503752",
+                "W1997665610",
+                "W2320107926",
+                "W2415586346",
+                "W2321116480",
+                "W308964856"
+            ]
+        },
+        "A5014037091": {
+            "gold_id/master_key": "Joseph_Goldstein_7",
+            "ids": [
+                "A5014037091"
+            ],
+            "name": "Joseph L Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "L",
+            "name_last": "Goldstein",
+            "field": "Neuroscience, Physics and Astronomy, Psychology, Chemistry",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 3,
+            "works": [
+                "W2020657167",
+                "W2102530543",
+                "W4298230171"
+            ]
+        },
+        "A5103287226": {
+            "gold_id/master_key": "Joseph_Goldstein_8",
+            "ids": [
+                "A5103287226"
+            ],
+            "name": "Joseph L. Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "L.",
+            "name_last": "Goldstein",
+            "field": "Arts and Humanities, Psychology, Psychology, Arts and Humanities, Social Sciences",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 3,
+            "works": [
+                "W560929634"
+            ]
+        },
+        "A5110060593": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5110060593"
+            ],
+            "name": "JOSEPH H. GOLDSTEIN",
+            "name_first": "JOSEPH",
+            "name_middle": "H.",
+            "name_last": "GOLDSTEIN",
+            "field": "Medicine",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": [
+                "W2032866150"
+            ]
+        },
+        "A5122028011": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5122028011"
+            ],
+            "name": "Joseph A. Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "A.",
+            "name_last": "Goldstein",
+            "field": "Medicine, Social Sciences, Economics, Econometrics and Finance",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": [
+                "W7119252197"
+            ]
+        },
+        "A5033663954": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5033663954"
+            ],
+            "name": "Joseph William Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "William",
+            "name_last": "Goldstein",
+            "field": "Business, Management and Accounting, Arts and Humanities, Social Sciences, Arts and Humanities",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 2,
+            "works": [
+                "W265159606"
+            ]
+        },
+        "A5125538192": {
+            "gold_id/master_key": "-1",
+            "ids": [
+                "A5125538192"
+            ],
+            "name": "Joseph L. Goldstein",
+            "name_first": "Joseph",
+            "name_middle": "L.",
+            "name_last": "Goldstein",
+            "field": "Medicine, Medicine, Medicine",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": [
+                "W7128523076"
+            ]
+        }
+    }
+}

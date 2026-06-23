@@ -1,0 +1,94 @@
+{
+    "author_name": {
+        "name": "Margaret Koziel",
+        "clusters_count": 3
+    },
+    "author_data": {
+        "A5112577365": {
+            "gold_id/master_key": "Margaret_Koziel_0",
+            "ids": [
+                "A5112577365"
+            ],
+            "name": "Margaret James Koziel",
+            "name_first": "Margaret",
+            "name_middle": "James",
+            "name_last": "Koziel",
+            "field": "Medicine, Medicine, Medicine, Immunology and Microbiology, Medicine",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 133,
+            "works": [
+                "W2103638317",
+                "W1993484328",
+                "W2018798881",
+                "W2094416250",
+                "W2342068279",
+                "W1981604888",
+                "W2160132227",
+                "W2152911853",
+                "W4365517856",
+                "W2066142228",
+                "W1994529038",
+                "W2106628454",
+                "W2156457356",
+                "W2098618513",
+                "W4295831912",
+                "W2156710432",
+                "W2039383406",
+                "W2045631856",
+                "W2142492514",
+                "W1915439664",
+                "W1813023762",
+                "W2073133565",
+                "W2118544925",
+                "W2065534484",
+                "W2029070336",
+                "W2110178052",
+                "W2128600550",
+                "W2055412440",
+                "W1991020851",
+                "W2074583709",
+                "W2091155081"
+            ]
+        },
+        "A5001614009": {
+            "gold_id/master_key": "Margaret_Koziel_1",
+            "ids": [
+                "A5001614009"
+            ],
+            "name": "Margaret J. Koziel",
+            "name_first": "Margaret",
+            "name_middle": "J.",
+            "name_last": "Koziel",
+            "field": "Medicine, Engineering, Medicine, Health Professions, Medicine",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 3,
+            "works": [
+                "W2572273326",
+                "W2577102202"
+            ]
+        },
+        "A5099878087": {
+            "gold_id/master_key": "Margaret_Koziel_2",
+            "ids": [
+                "A5099878087"
+            ],
+            "name": "Margaret Koziel",
+            "name_first": "Margaret",
+            "name_middle": "",
+            "name_last": "Koziel",
+            "field": "",
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        }
+    }
+}

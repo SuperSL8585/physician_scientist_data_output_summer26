@@ -1,0 +1,169 @@
+{
+    "author_name": {
+        "name": "Stephen Baum",
+        "clusters_count": 6
+    },
+    "author_data": {
+        "A5105470224": {
+            "gold_id/master_key": "Stephen_Baum_1",
+            "ids": [
+                "A5105470224",
+                "A5055306602"
+            ],
+            "name": "Stephen G. Baum",
+            "name_first": "Stephen",
+            "name_middle": "G.",
+            "name_last": "Baum",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 463,
+            "works": [
+                "W2340635209",
+                "W2223739663",
+                "W2069244188",
+                "W1989859405",
+                "W3012096845",
+                "W3015289918",
+                "W3021394800",
+                "W1977374685",
+                "W2340383373",
+                "W1972160946",
+                "W2505207521",
+                "W3013530937",
+                "W3034642954",
+                "W1757736235",
+                "W2141906209",
+                "W1994804321",
+                "W2288774571",
+                "W2337582531",
+                "W3023569400",
+                "W2291922443",
+                "W2294524468",
+                "W2331204877",
+                "W1996860539",
+                "W1510935507",
+                "W2172755723",
+                "W1991322165",
+                "W1536703076",
+                "W2316823481",
+                "W1729320218",
+                "W2970276378",
+                "W2159912944",
+                "W2075951391",
+                "W2303299352",
+                "W2562070087",
+                "W2298111276",
+                "W4255080691"
+            ]
+        },
+        "A5022012813": {
+            "gold_id/master_key": "Stephen_Baum_2",
+            "ids": [
+                "A5022012813"
+            ],
+            "name": "Stephen A. Baum",
+            "name_first": "Stephen",
+            "name_middle": "A.",
+            "name_last": "Baum",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 2,
+            "works": [
+                "W1984308861",
+                "W2224008326"
+            ]
+        },
+        "A5017974148": {
+            "gold_id/master_key": "Stephen_Baum_3",
+            "ids": [
+                "A5017974148",
+                "A5124919993"
+            ],
+            "name": "Stephen Baum",
+            "name_first": "Stephen",
+            "name_middle": "",
+            "name_last": "Baum",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 14,
+            "works": [
+                "W3208956304",
+                "W2969428486",
+                "W4394841311",
+                "W7127544802",
+                "W7127545616",
+                "W7127548013",
+                "W7127549338",
+                "W7127550229",
+                "W7127550352",
+                "W7127551893"
+            ]
+        },
+        "A5074953235": {
+            "gold_id/master_key": "Stephen_Baum_4",
+            "ids": [
+                "A5074953235"
+            ],
+            "name": "Stephen J. Baum",
+            "name_first": "Stephen",
+            "name_middle": "J.",
+            "name_last": "Baum",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 3,
+            "works": [
+                "W4237288730",
+                "W591171264",
+                "W2504844395"
+            ]
+        },
+        "A5079560156": {
+            "gold_id/master_key": "Stephen_Baum_5",
+            "ids": [
+                "A5079560156"
+            ],
+            "name": "Stephen H. Baum",
+            "name_first": "Stephen",
+            "name_middle": "H.",
+            "name_last": "Baum",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 2,
+            "works": [
+                "W1988114474"
+            ]
+        },
+        "A5099831375": {
+            "gold_id/master_key": "Stephen_Baum_6",
+            "ids": [
+                "A5099831375"
+            ],
+            "name": "Stephen Baum",
+            "name_first": "Stephen",
+            "name_middle": "",
+            "name_last": "Baum",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        }
+    }
+}

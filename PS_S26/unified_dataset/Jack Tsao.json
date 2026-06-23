@@ -1,0 +1,3250 @@
+{
+    "author_name": {
+        "name": "Jack Tsao",
+        "clusters_count": 5
+    },
+    "author_data": {
+        "A5102763548": {
+            "gold_id/master_key": "jack_tsao_1",
+            "ids": [
+                "A5102763548",
+                "A5124404418"
+            ],
+            "name": "Jack W. Tsao",
+            "name_first": "Jack",
+            "name_middle": "W.",
+            "name_last": "Tsao",
+            "field": null,
+            "fields": [
+                "Neurology",
+                "Neuroscience",
+                "Trauma",
+                "Rehabilitation"
+            ],
+            "email": "Jack.Tsao@nyulangone.org",
+            "linkedin": "https://www.linkedin.com/in/jack-tsao-1653b38/",
+            "socials": [],
+            "works_count": 226,
+            "works": [
+                "W2016068581",
+                "W2994603864",
+                "W1556806690",
+                "W2119701105",
+                "W2053906837",
+                "W2118735910",
+                "W2806888518",
+                "W1970289689",
+                "W2377661981",
+                "W1980469138",
+                "W2782753193",
+                "W1978310607",
+                "W1974011758",
+                "W2583111697",
+                "W2728213689",
+                "W2072535152",
+                "W1559419490",
+                "W2739867445",
+                "W2768959169",
+                "W2098491868",
+                "W2894362639",
+                "W174346395",
+                "W2172156813",
+                "W2330871910",
+                "W1980815386",
+                "W1843473465",
+                "W1967225900",
+                "W2017878403",
+                "W2168604865",
+                "W2115514898",
+                "W1975725621",
+                "W2789236477",
+                "W2761590157",
+                "W1555250561",
+                "W2072797722",
+                "W2594769739",
+                "W2896415522",
+                "W2892657410",
+                "W2394360752",
+                "W1937787334",
+                "W2461009857",
+                "W1980165224",
+                "W2569935050",
+                "W2954379012",
+                "W3120545464",
+                "W2779378436",
+                "W2946730866",
+                "W1644790619",
+                "W1975617794",
+                "W3113260333",
+                "W2834179574",
+                "W3165056333",
+                "W3199525569",
+                "W4210894946",
+                "W4402236718",
+                "W2952662810",
+                "W4385295455",
+                "W4391715226",
+                "W2169048249",
+                "W2088430963",
+                "W2009350985",
+                "W2051795930",
+                "W1973673702",
+                "W2333850542",
+                "W2921321622"
+            ]
+        },
+        "A5073419669": {
+            "gold_id/master_key": "jack_tsao_2",
+            "ids": [
+                "A5073419669",
+                "A5119475105"
+            ],
+            "name": "Jack Tsao",
+            "name_first": "Jack",
+            "name_middle": "",
+            "name_last": "Tsao",
+            "field": null,
+            "fields": [
+                "Ethics",
+                "Imaging"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 34,
+            "works": [
+                "W2125474765",
+                "W4390959459",
+                "W4416399285",
+                "W2170998104",
+                "W2800844190",
+                "W4399900814",
+                "W4386417034",
+                "W4415775755",
+                "W2075099417",
+                "W3131377991",
+                "W4386402115",
+                "W2021129436",
+                "W4414155430",
+                "W4414939510",
+                "W2316297820",
+                "W2121910256",
+                "W4413825966"
+            ]
+        },
+        "A5108223242": {
+            "gold_id/master_key": "jack_tsao_3",
+            "ids": [
+                "A5108223242"
+            ],
+            "name": "Jack Tsao",
+            "name_first": "Jack",
+            "name_middle": "",
+            "name_last": "Tsao",
+            "field": null,
+            "fields": [
+                "Marine Ecology"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 2,
+            "works": [
+                "W2108655515",
+                "W4414015949"
+            ]
+        },
+        "A5041726731": {
+            "gold_id/master_key": "jack_tsao_4",
+            "ids": [
+                "A5041726731"
+            ],
+            "name": "Jack W Tsao",
+            "name_first": "Jack",
+            "name_middle": "W",
+            "name_last": "Tsao",
+            "field": null,
+            "fields": [
+                "Cardiology",
+                "Stroke"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 2,
+            "works": [
+                "W4245042815",
+                "W4253048820"
+            ]
+        },
+        "A5115485026": {
+            "ids": [
+                "A5115485026",
+                "A5124071048"
+            ],
+            "name": "Jack Tsao",
+            "name_first": "Jack",
+            "name_middle": "",
+            "name_last": "Tsao",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": [
+                "W7125928696"
+            ]
+        }
+    },
+    "works_data": {
+        "W2016068581": {
+            "id": "W2016068581",
+            "title": "Mirror Therapy for Phantom Limb Pain",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Brenda L. Chan",
+                    "id": "A5050044177"
+                },
+                {
+                    "name": "Richard L. Witt",
+                    "id": "A5103646750"
+                },
+                {
+                    "name": "Alexandra Charrow",
+                    "id": "A5057853636"
+                },
+                {
+                    "name": "Amanda Magee",
+                    "id": "A5069620439"
+                },
+                {
+                    "name": "Robin Howard",
+                    "id": "A5103404703"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Kenneth M. Heilman",
+                    "id": "A5064985291"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W2994603864": {
+            "id": "W2994603864",
+            "title": "Telemedicine in neurology",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Jaime M. Hatcher-Martin",
+                    "id": "A5108699619"
+                },
+                {
+                    "name": "Jamie Adams",
+                    "id": "A5037062994"
+                },
+                {
+                    "name": "Eric Anderson",
+                    "id": "A5073221937"
+                },
+                {
+                    "name": "Riley Bove",
+                    "id": "A5051842646"
+                },
+                {
+                    "name": "Tamika M. Burrus",
+                    "id": "A5038267227"
+                },
+                {
+                    "name": "Mahan Chehrenama",
+                    "id": "A5086987813"
+                },
+                {
+                    "name": "Mary Dolan O\u2019Brien",
+                    "id": "A5104037533"
+                },
+                {
+                    "name": "Dawn Eliashiv",
+                    "id": "A5074343960"
+                },
+                {
+                    "name": "Deniz Erten\u2010Lyons",
+                    "id": "A5040419704"
+                },
+                {
+                    "name": "Barbara S. Giesser",
+                    "id": "A5108423740"
+                },
+                {
+                    "name": "Lauren R. Moo",
+                    "id": "A5004917961"
+                },
+                {
+                    "name": "Pushpa Narayanaswami",
+                    "id": "A5028663301"
+                },
+                {
+                    "name": "Marvin A. Rossi",
+                    "id": "A5038366546"
+                },
+                {
+                    "name": "Madhu Soni",
+                    "id": "A5077057414"
+                },
+                {
+                    "name": "Nauman Tariq",
+                    "id": "A5109088508"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Bert B. Vargas",
+                    "id": "A5112019089"
+                },
+                {
+                    "name": "Scott Vota",
+                    "id": "A5053578388"
+                },
+                {
+                    "name": "Scott R. Wessels",
+                    "id": "A5046242238"
+                },
+                {
+                    "name": "Hannah Planalp",
+                    "id": "A5095861462"
+                },
+                {
+                    "name": "Raghav Govindarajan",
+                    "id": "A5101865867"
+                }
+            ],
+            "venue": "Neurology"
+        },
+        "W1556806690": {
+            "id": "W1556806690",
+            "title": "Antimuscarinic Drugs for Overactive Bladder and Their Potential Effects on Cognitive Function in Older Patients",
+            "year": 2005,
+            "authors": [
+                {
+                    "name": "Gary G. Kay",
+                    "id": "A5108679681"
+                },
+                {
+                    "name": "Mohamed B. Abou\u2010Donia",
+                    "id": "A5108807540"
+                },
+                {
+                    "name": "William S. Messer",
+                    "id": "A5054229629"
+                },
+                {
+                    "name": "Declan Murphy",
+                    "id": "A5044519122"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Joseph G. Ouslander",
+                    "id": "A5026726291"
+                }
+            ],
+            "venue": "Journal of the American Geriatrics Society"
+        },
+        "W2119701105": {
+            "id": "W2119701105",
+            "title": "Amelioration of Acute Sequelae of Blast Induced Mild Traumatic Brain Injury by N-Acetyl Cysteine: A Double-Blind, Placebo Controlled Study",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Michael E. Hoffer",
+                    "id": "A5080849439"
+                },
+                {
+                    "name": "Carey D. Balaban",
+                    "id": "A5064860257"
+                },
+                {
+                    "name": "Martin D. Slade",
+                    "id": "A5037155253"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Barry J. Hoffer",
+                    "id": "A5086984046"
+                }
+            ],
+            "venue": "PLoS ONE"
+        },
+        "W2053906837": {
+            "id": "W2053906837",
+            "title": "Phantom Limb Pain",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Sharon R. Weeks",
+                    "id": "A5053269791"
+                },
+                {
+                    "name": "Victoria C. Anderson-Barnes",
+                    "id": "A5112307270"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "The Neurologist"
+        },
+        "W2118735910": {
+            "id": "W2118735910",
+            "title": "Teleneurology applications",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Lawrence R. Wechsler",
+                    "id": "A5020743917"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Steven R. Levine",
+                    "id": "A5033945043"
+                },
+                {
+                    "name": "Rebecca J. Swain\u2010Eng",
+                    "id": "A5062778000"
+                },
+                {
+                    "name": "Robert J. Adams",
+                    "id": "A5038861511"
+                },
+                {
+                    "name": "Bart M. Demaerschalk",
+                    "id": "A5034553945"
+                },
+                {
+                    "name": "David C. Hess",
+                    "id": "A5049702998"
+                },
+                {
+                    "name": "Elena Moro",
+                    "id": "A5049285537"
+                },
+                {
+                    "name": "Lee H. Schwamm",
+                    "id": "A5088527297"
+                },
+                {
+                    "name": "Steve Steffensen",
+                    "id": "A5060210777"
+                },
+                {
+                    "name": "Barney J. Stern",
+                    "id": "A5064413750"
+                },
+                {
+                    "name": "Steven J. Zuckerman",
+                    "id": "A5011233426"
+                },
+                {
+                    "name": "Pratik Bhattacharya",
+                    "id": "A5102837210"
+                },
+                {
+                    "name": "Larry E. Davis",
+                    "id": "A5110567835"
+                },
+                {
+                    "name": "Ilana R. Yurkiewicz",
+                    "id": "A5023853700"
+                },
+                {
+                    "name": "Aimee L. Alphonso",
+                    "id": "A5002034380"
+                }
+            ],
+            "venue": "Neurology"
+        },
+        "W2806888518": {
+            "id": "W2806888518",
+            "title": "A review of current theories and treatments for phantom limb pain",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Kassondra L. Collins",
+                    "id": "A5004147940"
+                },
+                {
+                    "name": "Hannah G. Russell",
+                    "id": "A5110643101"
+                },
+                {
+                    "name": "Patrick J. Schumacher",
+                    "id": "A5059175250"
+                },
+                {
+                    "name": "Katherine E. Robinson-Freeman",
+                    "id": "A5083998303"
+                },
+                {
+                    "name": "Ellen C. O\u2019Conor",
+                    "id": "A5070850348"
+                },
+                {
+                    "name": "Kyla D. Gibney",
+                    "id": "A5054101894"
+                },
+                {
+                    "name": "Olivia Yambem",
+                    "id": "A5066457851"
+                },
+                {
+                    "name": "Robert W. Dykes",
+                    "id": "A5007948215"
+                },
+                {
+                    "name": "Robert S. Waters",
+                    "id": "A5069124200"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W1970289689": {
+            "id": "W1970289689",
+            "title": "Prognostic Significance of Angiographically Confirmed Large Vessel Intracranial Occlusion in Patients Presenting With Acute Brain Ischemia",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Wade S. Smith",
+                    "id": "A5077101946"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Martha E. Billings",
+                    "id": "A5073235037"
+                },
+                {
+                    "name": "S. Claiborne Johnston",
+                    "id": "A5001594817"
+                },
+                {
+                    "name": "J. Claude Hemphill",
+                    "id": "A5010173440"
+                },
+                {
+                    "name": "David C. Bonovich",
+                    "id": "A5084037152"
+                },
+                {
+                    "name": "William P. Dillon",
+                    "id": "A5103704301"
+                }
+            ],
+            "venue": "Neurocritical Care"
+        },
+        "W2377661981": {
+            "id": "W2377661981",
+            "title": "Repeated Low-Level Blast Exposure: A Descriptive Human Subjects Study",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Walter Carr",
+                    "id": "A5085126564"
+                },
+                {
+                    "name": "James R. Stone",
+                    "id": "A5104073431"
+                },
+                {
+                    "name": "Tim Walilko",
+                    "id": "A5061462438"
+                },
+                {
+                    "name": "Lee Ann Young",
+                    "id": "A5109302561"
+                },
+                {
+                    "name": "Tianlu Li Snook",
+                    "id": "A5055204605"
+                },
+                {
+                    "name": "Michelle E. Paggi",
+                    "id": "A5015461191"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Christopher Jankosky",
+                    "id": "A5087524242"
+                },
+                {
+                    "name": "Robert V. Parish",
+                    "id": "A5008467221"
+                },
+                {
+                    "name": "Stephen T. Ahlers",
+                    "id": "A5035740819"
+                }
+            ],
+            "venue": "Military Medicine"
+        },
+        "W1980469138": {
+            "id": "W1980469138",
+            "title": "Radiation\u2010induced Reductions in Macrophage Recruitment Have Only Slight Effects on Myelin Degeneration in Sectioned Peripheral Nerves of Mice",
+            "year": 1995,
+            "authors": [
+                {
+                    "name": "V. Hugh Perry",
+                    "id": "A5044019815"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "S. Feam",
+                    "id": "A5098251004"
+                },
+                {
+                    "name": "Michael C. Brown",
+                    "id": "A5022094836"
+                }
+            ],
+            "venue": "European Journal of Neuroscience"
+        },
+        "W2782753193": {
+            "id": "W2782753193",
+            "title": "The current state of biomarkers of mild traumatic brain injury",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Han\u2010Jun Kim",
+                    "id": "A5100722342"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Ansley Grimes Stanfill",
+                    "id": "A5007391247"
+                }
+            ],
+            "venue": "JCI Insight"
+        },
+        "W1978310607": {
+            "id": "W1978310607",
+            "title": "AltitudeOmics: The Integrative Physiology of Human Acclimatization to Hypobaric Hypoxia and Its Retention upon Reascent",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Andrew W. Subudhi",
+                    "id": "A5069852680"
+                },
+                {
+                    "name": "Nicolas Bourdillon",
+                    "id": "A5081623110"
+                },
+                {
+                    "name": "Jenna Bucher",
+                    "id": "A5008041764"
+                },
+                {
+                    "name": "Christopher Davis",
+                    "id": "A5020285461"
+                },
+                {
+                    "name": "Jonathan E. Elliott",
+                    "id": "A5005863912"
+                },
+                {
+                    "name": "Morgan Eutermoster",
+                    "id": "A5030419877"
+                },
+                {
+                    "name": "Oghenero Evero",
+                    "id": "A5016436189"
+                },
+                {
+                    "name": "Jui\u2010Lin Fan",
+                    "id": "A5059246368"
+                },
+                {
+                    "name": "Sonja Jameson-Van Houten",
+                    "id": "A5030786824"
+                },
+                {
+                    "name": "Colleen G. Julian",
+                    "id": "A5065455714"
+                },
+                {
+                    "name": "Jonathan Kark",
+                    "id": "A5000318165"
+                },
+                {
+                    "name": "Sherri Kark",
+                    "id": "A5009822114"
+                },
+                {
+                    "name": "Bengt Kayser",
+                    "id": "A5091099538"
+                },
+                {
+                    "name": "Julia P. Kern",
+                    "id": "A5006773698"
+                },
+                {
+                    "name": "See Eun Kim",
+                    "id": "A5010513204"
+                },
+                {
+                    "name": "Corinna Lathan",
+                    "id": "A5065731361"
+                },
+                {
+                    "name": "Steven S. Laurie",
+                    "id": "A5037131236"
+                },
+                {
+                    "name": "Andrew T. Lovering",
+                    "id": "A5020536277"
+                },
+                {
+                    "name": "Ryan F. Paterson",
+                    "id": "A5046907236"
+                },
+                {
+                    "name": "David M. Polaner",
+                    "id": "A5062504375"
+                },
+                {
+                    "name": "Benjamin J. Ryan",
+                    "id": "A5011915414"
+                },
+                {
+                    "name": "James Spira",
+                    "id": "A5105717210"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Nadine Wachsmuth",
+                    "id": "A5017340949"
+                },
+                {
+                    "name": "Robert C. Roach",
+                    "id": "A5075776753"
+                }
+            ],
+            "venue": "PLoS ONE"
+        },
+        "W1974011758": {
+            "id": "W1974011758",
+            "title": "Association of brain-derived neurotrophic factor (BDNF) haploinsufficiency with lower adaptive behaviour and reduced cognitive functioning in WAGR/11p13 deletion syndrome",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Joan C. Han",
+                    "id": "A5024394463"
+                },
+                {
+                    "name": "Audrey Thurm",
+                    "id": "A5044691633"
+                },
+                {
+                    "name": "Christine Golden Williams",
+                    "id": "A5023406855"
+                },
+                {
+                    "name": "Lisa Joseph",
+                    "id": "A5061649193"
+                },
+                {
+                    "name": "Wadih M. Zein",
+                    "id": "A5008567088"
+                },
+                {
+                    "name": "Brian P. Brooks",
+                    "id": "A5012945819"
+                },
+                {
+                    "name": "John A. Butman",
+                    "id": "A5026908064"
+                },
+                {
+                    "name": "Sheila M. Brady",
+                    "id": "A5042474348"
+                },
+                {
+                    "name": "Shannon R. Fuhr",
+                    "id": "A5083032300"
+                },
+                {
+                    "name": "Melanie D. Hicks",
+                    "id": "A5085494235"
+                },
+                {
+                    "name": "Amanda E. Huey",
+                    "id": "A5070803476"
+                },
+                {
+                    "name": "Alyson Hanish",
+                    "id": "A5058093951"
+                },
+                {
+                    "name": "Kristen M. Danley",
+                    "id": "A5002168515"
+                },
+                {
+                    "name": "Margarita Raygada",
+                    "id": "A5041431926"
+                },
+                {
+                    "name": "Owen M. Rennert",
+                    "id": "A5112009395"
+                },
+                {
+                    "name": "Keri Martinowich",
+                    "id": "A5003322851"
+                },
+                {
+                    "name": "Stephen J. Sharp",
+                    "id": "A5052443670"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Susan E. Swedo",
+                    "id": "A5019437038"
+                }
+            ],
+            "venue": "Cortex"
+        },
+        "W2583111697": {
+            "id": "W2583111697",
+            "title": "Traumatic Brain Injury Incidence, Clinical Overview, and Policies in the US Military Health System Since 2000",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Thomas M. Swanson",
+                    "id": "A5012843147"
+                },
+                {
+                    "name": "Brad M. Isaacson",
+                    "id": "A5069516248"
+                },
+                {
+                    "name": "Cherina Cyborski",
+                    "id": "A5034115404"
+                },
+                {
+                    "name": "Louis M. French",
+                    "id": "A5013440690"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                }
+            ],
+            "venue": "Public Health Reports"
+        },
+        "W2728213689": {
+            "id": "W2728213689",
+            "title": "A Randomized, Controlled Trial of Mirror Therapy for Upper Extremity Phantom Limb Pain in Male Amputees",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Sacha Finn",
+                    "id": "A5058173629"
+                },
+                {
+                    "name": "Briana N. Perry",
+                    "id": "A5046288530"
+                },
+                {
+                    "name": "Jay E. Clasing",
+                    "id": "A5084989747"
+                },
+                {
+                    "name": "Lisa Smurr Walters",
+                    "id": "A5043940138"
+                },
+                {
+                    "name": "Sandra L. Jarzombek",
+                    "id": "A5068440267"
+                },
+                {
+                    "name": "Sean Curran",
+                    "id": "A5050104515"
+                },
+                {
+                    "name": "Minoo Rouhanian",
+                    "id": "A5038169681"
+                },
+                {
+                    "name": "Mary S. Keszler",
+                    "id": "A5083043544"
+                },
+                {
+                    "name": "Lindsay K. Hussey-Andersen",
+                    "id": "A5061764068"
+                },
+                {
+                    "name": "Sharon R. Weeks",
+                    "id": "A5053269791"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Frontiers in Neurology"
+        },
+        "W2072535152": {
+            "id": "W2072535152",
+            "title": "The Impact of Multiple Concussions on Emotional Distress, Post-Concussive Symptoms, and Neurocognitive Functioning in Active Duty United States Marines Independent of Combat Exposure or Emotional Distress",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "James Spira",
+                    "id": "A5105717210"
+                },
+                {
+                    "name": "Corinna Lathan",
+                    "id": "A5065731361"
+                },
+                {
+                    "name": "Joseph Bleiberg",
+                    "id": "A5061493329"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W1559419490": {
+            "id": "W1559419490",
+            "title": "Temperature Modulation Reveals Three Distinct Stages of Wallerian Degeneration",
+            "year": 1999,
+            "authors": [
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Edwin B. George",
+                    "id": "A5111886116"
+                },
+                {
+                    "name": "John W. Griffin",
+                    "id": "A5103577560"
+                }
+            ],
+            "venue": "Journal of Neuroscience"
+        },
+        "W2739867445": {
+            "id": "W2739867445",
+            "title": "Developing an outline for teleneurology curriculum",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Raghav Govindarajan",
+                    "id": "A5101865867"
+                },
+                {
+                    "name": "Eric Anderson",
+                    "id": "A5073221937"
+                },
+                {
+                    "name": "Roger Hesselbrock",
+                    "id": "A5025967613"
+                },
+                {
+                    "name": "Ramesh Madhavan",
+                    "id": "A5088565333"
+                },
+                {
+                    "name": "Lauren R. Moo",
+                    "id": "A5004917961"
+                },
+                {
+                    "name": "Nima Mowzoon",
+                    "id": "A5088249840"
+                },
+                {
+                    "name": "James Otis",
+                    "id": "A5090849758"
+                },
+                {
+                    "name": "Mark N. Rubin",
+                    "id": "A5023094104"
+                },
+                {
+                    "name": "Madhu Soni",
+                    "id": "A5077057414"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Scott Vota",
+                    "id": "A5053578388"
+                },
+                {
+                    "name": "Hannah Planalp",
+                    "id": "A5095860495"
+                }
+            ],
+            "venue": "Neurology"
+        },
+        "W2768959169": {
+            "id": "W2768959169",
+            "title": "Cortical plasticity as a basis of phantom limb pain: Fact or fiction?",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Jamila Andoh",
+                    "id": "A5019969596"
+                },
+                {
+                    "name": "Christopher Milde",
+                    "id": "A5010482297"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Herta Flor",
+                    "id": "A5044329719"
+                }
+            ],
+            "venue": "Neuroscience"
+        },
+        "W2098491868": {
+            "id": "W2098491868",
+            "title": "Defense Automated Neurobehavioral Assessment (DANA)\u2014Psychometric Properties of a New Field-Deployable Neurocognitive Assessment Tool",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Corinna Lathan",
+                    "id": "A5065731361"
+                },
+                {
+                    "name": "James Spira",
+                    "id": "A5105717210"
+                },
+                {
+                    "name": "Joseph Bleiberg",
+                    "id": "A5061493329"
+                },
+                {
+                    "name": "Jack Vice",
+                    "id": "A5047082851"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Military Medicine"
+        },
+        "W2894362639": {
+            "id": "W2894362639",
+            "title": "Student athlete concussions and postconcussion syndrome",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Marc R. Nuwer",
+                    "id": "A5046368208"
+                },
+                {
+                    "name": "Jamie M. Nuwer",
+                    "id": "A5003928322"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Neurology Clinical Practice"
+        },
+        "W174346395": {
+            "id": "W174346395",
+            "title": "Calcification of bovine pericardium used in cardiac valve bioprostheses. Implications for the mechanisms of bioprosthetic tissue mineralization.",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Frederick J. Schoen",
+                    "id": "A5065318834"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Robert J. Levy",
+                    "id": "A5102969096"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2172156813": {
+            "id": "W2172156813",
+            "title": "Blood\u2013Brain Barrier Permeation and Efflux Exclusion of Anticholinergics Used in the Treatment of Overactive Bladder",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Michael B. Chancellor",
+                    "id": "A5076037136"
+                },
+                {
+                    "name": "David Staskin",
+                    "id": "A5053685634"
+                },
+                {
+                    "name": "Gary G. Kay",
+                    "id": "A5108679681"
+                },
+                {
+                    "name": "Bobby W. Sandage",
+                    "id": "A5073825789"
+                },
+                {
+                    "name": "Michael G. Oefelein",
+                    "id": "A5085711595"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Drugs & Aging"
+        },
+        "W2330871910": {
+            "id": "W2330871910",
+            "title": "Transient Memory Impairment and Hallucinations Associated with Tolterodine Use",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Kenneth M. Heilman",
+                    "id": "A5064985291"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W1980815386": {
+            "id": "W1980815386",
+            "title": "Presentation, Diagnosis, and Management of Arterial Mycotic Pseudoaneurysms in Injection Drug Users",
+            "year": 2002,
+            "authors": [
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Shelley R. Marder",
+                    "id": "A5029386461"
+                },
+                {
+                    "name": "Jerry Goldstone",
+                    "id": "A5110908543"
+                },
+                {
+                    "name": "Allan I. Bloom",
+                    "id": "A5008461035"
+                }
+            ],
+            "venue": "Annals of Vascular Surgery"
+        },
+        "W1843473465": {
+            "id": "W1843473465",
+            "title": "Human Obesity Associated with an Intronic SNP in the Brain-Derived Neurotrophic Factor Locus",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Zongyang Mou",
+                    "id": "A5025500829"
+                },
+                {
+                    "name": "Thomas M. Hyde",
+                    "id": "A5056413476"
+                },
+                {
+                    "name": "Barbara K. Lipska",
+                    "id": "A5054945238"
+                },
+                {
+                    "name": "Keri Martinowich",
+                    "id": "A5003322851"
+                },
+                {
+                    "name": "Peter Wei",
+                    "id": "A5085641809"
+                },
+                {
+                    "name": "Chiew-Jen Ong",
+                    "id": "A5005788537"
+                },
+                {
+                    "name": "Lindsay Hunter",
+                    "id": "A5022685202"
+                },
+                {
+                    "name": "Gladys I. Palaguachi",
+                    "id": "A5054278912"
+                },
+                {
+                    "name": "Eva Morgun",
+                    "id": "A5017312564"
+                },
+                {
+                    "name": "Rujia Teng",
+                    "id": "A5020114880"
+                },
+                {
+                    "name": "Chen Lai",
+                    "id": "A5101551046"
+                },
+                {
+                    "name": "Tania Condarco",
+                    "id": "A5013118877"
+                },
+                {
+                    "name": "Andrew P. Demidowich",
+                    "id": "A5079010730"
+                },
+                {
+                    "name": "Amanda J. Krause",
+                    "id": "A5070269798"
+                },
+                {
+                    "name": "Leslie J. Marshall",
+                    "id": "A5062782949"
+                },
+                {
+                    "name": "Karin Haack",
+                    "id": "A5083104890"
+                },
+                {
+                    "name": "V. Saroja Voruganti",
+                    "id": "A5011148296"
+                },
+                {
+                    "name": "Shelley A. Cole",
+                    "id": "A5074588571"
+                },
+                {
+                    "name": "Nancy F. Butte",
+                    "id": "A5067294454"
+                },
+                {
+                    "name": "Anthony G. Comuzzie",
+                    "id": "A5079020015"
+                },
+                {
+                    "name": "Michael A. Nalls",
+                    "id": "A5107521943"
+                },
+                {
+                    "name": "Alan B. Zonderman",
+                    "id": "A5012457688"
+                },
+                {
+                    "name": "Andrew B. Singleton",
+                    "id": "A5107853259"
+                },
+                {
+                    "name": "Michele K. Evans",
+                    "id": "A5076760605"
+                },
+                {
+                    "name": "Bronwen Martin",
+                    "id": "A5061101747"
+                },
+                {
+                    "name": "Stuart Maudsley",
+                    "id": "A5033862949"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Joel E. Kleinman",
+                    "id": "A5020523652"
+                },
+                {
+                    "name": "Jack A. Yanovski",
+                    "id": "A5068075323"
+                },
+                {
+                    "name": "Joan C. Han",
+                    "id": "A5024394463"
+                }
+            ],
+            "venue": "Cell Reports"
+        },
+        "W1967225900": {
+            "id": "W1967225900",
+            "title": "Cognitive Decline in Older Persons Initiating Anticholinergic Medications",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Raj C. Shah",
+                    "id": "A5022309484"
+                },
+                {
+                    "name": "Alicia L. Janos",
+                    "id": "A5083669233"
+                },
+                {
+                    "name": "Julia E. Kline",
+                    "id": "A5063714712"
+                },
+                {
+                    "name": "Lei Yu",
+                    "id": "A5101937767"
+                },
+                {
+                    "name": "Sue E. Leurgans",
+                    "id": "A5070294274"
+                },
+                {
+                    "name": "R. J. Wilson",
+                    "id": "A5056468812"
+                },
+                {
+                    "name": "Peter Wei",
+                    "id": "A5085641809"
+                },
+                {
+                    "name": "David A. Bennett",
+                    "id": "A5014075642"
+                },
+                {
+                    "name": "Kenneth M. Heilman",
+                    "id": "A5064985291"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "PLoS ONE"
+        },
+        "W2017878403": {
+            "id": "W2017878403",
+            "title": "Phantom limb pain \u2013 A phenomenon of proprioceptive memory?",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "Victoria C. Anderson-Barnes",
+                    "id": "A5112307270"
+                },
+                {
+                    "name": "Caitlin L. McAuliffe",
+                    "id": "A5103415960"
+                },
+                {
+                    "name": "Kelley M. Swanberg",
+                    "id": "A5065875306"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Medical Hypotheses"
+        },
+        "W2168604865": {
+            "id": "W2168604865",
+            "title": "MTHFR C677T Genotype As a Risk Factor for Epilepsy Including Post-Traumatic Epilepsy in a Representative Military Cohort",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "I Scher",
+                    "id": "A5051369493"
+                },
+                {
+                    "name": "Holly Wu",
+                    "id": "A5055780795"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Henk J. Blom",
+                    "id": "A5033176504"
+                },
+                {
+                    "name": "P. Feit",
+                    "id": "A5008594430"
+                },
+                {
+                    "name": "Remington L. Nevin",
+                    "id": "A5086318772"
+                },
+                {
+                    "name": "Karen Schwab",
+                    "id": "A5068837170"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W2115514898": {
+            "id": "W2115514898",
+            "title": "Individuals with posttraumatic stress disorder show a selective deficit in generalization of associative learning.",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Einat Levy\u2010Gigi",
+                    "id": "A5021147267"
+                },
+                {
+                    "name": "Szabolcs K\u00e9ri",
+                    "id": "A5026179396"
+                },
+                {
+                    "name": "Catherine E. Myers",
+                    "id": "A5048541000"
+                },
+                {
+                    "name": "Zvi Lencovsky",
+                    "id": "A5007703470"
+                },
+                {
+                    "name": "Hadas Sharvit-Benbaji",
+                    "id": "A5039218110"
+                },
+                {
+                    "name": "Scott P. Orr",
+                    "id": "A5110835458"
+                },
+                {
+                    "name": "Mark W. Gilbertson",
+                    "id": "A5034319193"
+                },
+                {
+                    "name": "Richard J. Servatius",
+                    "id": "A5055947582"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Mark A. Gluck",
+                    "id": "A5073735097"
+                }
+            ],
+            "venue": "Neuropsychology"
+        },
+        "W1975725621": {
+            "id": "W1975725621",
+            "title": "The Effectiveness of the Gene Which Slows the Rate of Wallerian Degeneration in C57BL/Ola Mice Declines With Age",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "V. Hugh Perry",
+                    "id": "A5044019815"
+                },
+                {
+                    "name": "M. Christian Brown",
+                    "id": "A5089597110"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "European Journal of Neuroscience"
+        },
+        "W2789236477": {
+            "id": "W2789236477",
+            "title": "Initial Clinical Evaluation of the Modular Prosthetic Limb",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Briana N. Perry",
+                    "id": "A5046288530"
+                },
+                {
+                    "name": "Courtney Moran",
+                    "id": "A5084130544"
+                },
+                {
+                    "name": "Robert S. Armiger",
+                    "id": "A5070459390"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Jamie Vandersea",
+                    "id": "A5077340798"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Frontiers in Neurology"
+        },
+        "W2761590157": {
+            "id": "W2761590157",
+            "title": "Effect of concussion and blast exposure on symptoms after military deployment",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Lauren A. Stentz",
+                    "id": "A5029977164"
+                },
+                {
+                    "name": "Minoo Rouhanian",
+                    "id": "A5038169681"
+                },
+                {
+                    "name": "Robin Howard",
+                    "id": "A5103404703"
+                },
+                {
+                    "name": "Briana N. Perry",
+                    "id": "A5046288530"
+                },
+                {
+                    "name": "F. Jay Haran",
+                    "id": "A5061296525"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "M.H. ten Wolde",
+                    "id": "A5079164127"
+                },
+                {
+                    "name": "Carolyn E. Taylor",
+                    "id": "A5042838978"
+                },
+                {
+                    "name": "Radhames E. Lizardo",
+                    "id": "A5076754412"
+                },
+                {
+                    "name": "Scott Liu",
+                    "id": "A5010919487"
+                },
+                {
+                    "name": "Eusebio Flores",
+                    "id": "A5033758453"
+                },
+                {
+                    "name": "Alia H. Creason",
+                    "id": "A5003437781"
+                },
+                {
+                    "name": "Katalina J. Sher",
+                    "id": "A5001545729"
+                }
+            ],
+            "venue": "Neurology"
+        },
+        "W1555250561": {
+            "id": "W1555250561",
+            "title": "Observation of limb movements reduces phantom limb pain in bilateral amputees",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Monica Tung",
+                    "id": "A5054611071"
+                },
+                {
+                    "name": "Ian C. Murphy",
+                    "id": "A5023738214"
+                },
+                {
+                    "name": "Sarah C. Griffin",
+                    "id": "A5034137438"
+                },
+                {
+                    "name": "Aimee L. Alphonso",
+                    "id": "A5002034380"
+                },
+                {
+                    "name": "Lindsey Hussey\u2010Anderson",
+                    "id": "A5005774955"
+                },
+                {
+                    "name": "Katie E. Hughes",
+                    "id": "A5045829655"
+                },
+                {
+                    "name": "Sharon R. Weeks",
+                    "id": "A5053269791"
+                },
+                {
+                    "name": "Victoria C. Merritt",
+                    "id": "A5001693567"
+                },
+                {
+                    "name": "Joseph M. Yetto",
+                    "id": "A5021885095"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Annals of Clinical and Translational Neurology"
+        },
+        "W2072797722": {
+            "id": "W2072797722",
+            "title": "High incidence of \u2018synaesthesia for pain\u2019 in amputees",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Bernadette M. Fitzgibbon",
+                    "id": "A5043783685"
+                },
+                {
+                    "name": "Peter G. Enticott",
+                    "id": "A5071705176"
+                },
+                {
+                    "name": "Anina N. Rich",
+                    "id": "A5020457109"
+                },
+                {
+                    "name": "Melita J. Giummarra",
+                    "id": "A5082359572"
+                },
+                {
+                    "name": "Nellie Georgiou\u2010Karistianis",
+                    "id": "A5005081020"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Sharon R. Weeks",
+                    "id": "A5053269791"
+                },
+                {
+                    "name": "John L. Bradshaw",
+                    "id": "A5014014907"
+                }
+            ],
+            "venue": "Neuropsychologia"
+        },
+        "W2594769739": {
+            "id": "W2594769739",
+            "title": "Trajectory of phantom limb pain relief using mirror therapy: Retrospective analysis of two studies",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Sarah C. Griffin",
+                    "id": "A5034137438"
+                },
+                {
+                    "name": "Sean Curran",
+                    "id": "A5050104515"
+                },
+                {
+                    "name": "Annie Chan",
+                    "id": "A5058077659"
+                },
+                {
+                    "name": "Sacha Finn",
+                    "id": "A5058173629"
+                },
+                {
+                    "name": "Chris I. Baker",
+                    "id": "A5003835357"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Scandinavian Journal of Pain"
+        },
+        "W2896415522": {
+            "id": "W2896415522",
+            "title": "Virtual Integration Environment as an Advanced Prosthetic Limb Training Platform",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Briana N. Perry",
+                    "id": "A5046288530"
+                },
+                {
+                    "name": "Robert S. Armiger",
+                    "id": "A5070459390"
+                },
+                {
+                    "name": "Kristin E. Yu",
+                    "id": "A5065630503"
+                },
+                {
+                    "name": "Ali Alattar",
+                    "id": "A5035139968"
+                },
+                {
+                    "name": "Courtney Moran",
+                    "id": "A5084130544"
+                },
+                {
+                    "name": "M.H. ten Wolde",
+                    "id": "A5079164127"
+                },
+                {
+                    "name": "Kayla A. McFarland",
+                    "id": "A5000828634"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Frontiers in Neurology"
+        },
+        "W2892657410": {
+            "id": "W2892657410",
+            "title": "Clinical Trial of the Virtual Integration Environment to Treat Phantom Limb Pain With Upper Extremity Amputation",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Briana N. Perry",
+                    "id": "A5046288530"
+                },
+                {
+                    "name": "Robert S. Armiger",
+                    "id": "A5070459390"
+                },
+                {
+                    "name": "M.H. ten Wolde",
+                    "id": "A5079164127"
+                },
+                {
+                    "name": "Kayla A. McFarland",
+                    "id": "A5000828634"
+                },
+                {
+                    "name": "Aimee L. Alphonso",
+                    "id": "A5002034380"
+                },
+                {
+                    "name": "Brett T. Monson",
+                    "id": "A5060887957"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Frontiers in Neurology"
+        },
+        "W2394360752": {
+            "id": "W2394360752",
+            "title": "Reversal of phantom pain and hand\u2010to\u2010face remapping after brachial plexus avulsion",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Sacha Finn",
+                    "id": "A5058173629"
+                },
+                {
+                    "name": "Matthew E. Miller",
+                    "id": "A5072598293"
+                }
+            ],
+            "venue": "Annals of Clinical and Translational Neurology"
+        },
+        "W1937787334": {
+            "id": "W1937787334",
+            "title": "Virtual reality therapies for phantom limb pain",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Briana N. Perry",
+                    "id": "A5046288530"
+                },
+                {
+                    "name": "Catherine Mercier",
+                    "id": "A5011085743"
+                },
+                {
+                    "name": "Steve Pettifer",
+                    "id": "A5081272754"
+                },
+                {
+                    "name": "Jonathan Cole",
+                    "id": "A5083815331"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "European Journal of Pain"
+        },
+        "W2461009857": {
+            "id": "W2461009857",
+            "title": "Use of a virtual integrated environment in prosthetic limb development and phantom limb pain.",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Aimee L. Alphonso",
+                    "id": "A5002034380"
+                },
+                {
+                    "name": "Brett T. Monson",
+                    "id": "A5060887957"
+                },
+                {
+                    "name": "Michael J. Zeher",
+                    "id": "A5084544761"
+                },
+                {
+                    "name": "Robert S. Armiger",
+                    "id": "A5070459390"
+                },
+                {
+                    "name": "Sharon R. Weeks",
+                    "id": "A5053269791"
+                },
+                {
+                    "name": "James M. Burck",
+                    "id": "A5083829030"
+                },
+                {
+                    "name": "Courtney Moran",
+                    "id": "A5084130544"
+                },
+                {
+                    "name": "R. Davoodie",
+                    "id": "A5019606282"
+                },
+                {
+                    "name": "Gerald E. Loeb",
+                    "id": "A5075298131"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W1980165224": {
+            "id": "W1980165224",
+            "title": "A mechanism-based classification of phantom limb pain",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Sarah C. Griffin",
+                    "id": "A5034137438"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Pain"
+        },
+        "W2569935050": {
+            "id": "W2569935050",
+            "title": "Where You Look Matters for Body Perception: Preferred Gaze Location Contributes to the Body Inversion Effect",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Joseph Arizpe",
+                    "id": "A5048688639"
+                },
+                {
+                    "name": "Danielle L. McKean",
+                    "id": "A5006963629"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Annie Chan",
+                    "id": "A5058077659"
+                }
+            ],
+            "venue": "PLoS ONE"
+        },
+        "W2954379012": {
+            "id": "W2954379012",
+            "title": "Acute neurocognitive deficits in active duty service members following subconcussive blast exposure",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "F. Jay Haran",
+                    "id": "A5061296525"
+                },
+                {
+                    "name": "Justin D. Handy",
+                    "id": "A5027223524"
+                },
+                {
+                    "name": "Richard J. Servatius",
+                    "id": "A5055947582"
+                },
+                {
+                    "name": "Christopher K. Rhea",
+                    "id": "A5045933338"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Applied Neuropsychology Adult"
+        },
+        "W3120545464": {
+            "id": "W3120545464",
+            "title": "Clinical evaluation of the revolutionizing prosthetics modular prosthetic limb system for upper extremity amputees",
+            "year": 2021,
+            "authors": [
+                {
+                    "name": "Kristin E. Yu",
+                    "id": "A5065630503"
+                },
+                {
+                    "name": "Briana N. Perry",
+                    "id": "A5046288530"
+                },
+                {
+                    "name": "Courtney Moran",
+                    "id": "A5084130544"
+                },
+                {
+                    "name": "Robert S. Armiger",
+                    "id": "A5070459390"
+                },
+                {
+                    "name": "Matthew S. Johannes",
+                    "id": "A5038658610"
+                },
+                {
+                    "name": "Abigail Hawkins",
+                    "id": "A5024831202"
+                },
+                {
+                    "name": "Lauren A. Stentz",
+                    "id": "A5029977164"
+                },
+                {
+                    "name": "Jamie Vandersea",
+                    "id": "A5077340798"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                }
+            ],
+            "venue": "Scientific Reports"
+        },
+        "W2779378436": {
+            "id": "W2779378436",
+            "title": "Neurocognitive and Fine Motor Deficits in Asymptomatic Adolescents during the Subacute Period after Concussion",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Richard J. Servatius",
+                    "id": "A5055947582"
+                },
+                {
+                    "name": "Kevin M. Spiegler",
+                    "id": "A5020764619"
+                },
+                {
+                    "name": "Justin D. Handy",
+                    "id": "A5027223524"
+                },
+                {
+                    "name": "Kevin Pang",
+                    "id": "A5072853922"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Catherine A. Mazzola",
+                    "id": "A5087107859"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W2946730866": {
+            "id": "W2946730866",
+            "title": "Neuroimaging and Neuropsychological Studies in Sports-Related Concussions in Adolescents: Current State and Future Directions",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Shalini Narayana",
+                    "id": "A5027840618"
+                },
+                {
+                    "name": "Christopher A. D. Charles",
+                    "id": "A5030413932"
+                },
+                {
+                    "name": "Kassondra L. Collins",
+                    "id": "A5004147940"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Ansley Grimes Stanfill",
+                    "id": "A5007391247"
+                },
+                {
+                    "name": "Brandon Baughman",
+                    "id": "A5013516914"
+                }
+            ],
+            "venue": "Frontiers in Neurology"
+        },
+        "W1644790619": {
+            "id": "W1644790619",
+            "title": "Telepain Management of Phantom Limb Pain Using Mirror Therapy",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Ariana Gover-Chamlou",
+                    "id": "A5070387049"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Telemedicine Journal and e-Health"
+        },
+        "W1975617794": {
+            "id": "W1975617794",
+            "title": "Mechanisms of Traumatic Brain Injury",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Derek Bauer",
+                    "id": "A5045968949"
+                },
+                {
+                    "name": "Monica Tung",
+                    "id": "A5054611071"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Seminars in Neurology"
+        },
+        "W3113260333": {
+            "id": "W3113260333",
+            "title": "Helmet use in equestrian athletes: opportunities for intervention",
+            "year": 2020,
+            "authors": [
+                {
+                    "name": "Ansley Grimes Stanfill",
+                    "id": "A5007391247"
+                },
+                {
+                    "name": "Kayla Wynja",
+                    "id": "A5087923984"
+                },
+                {
+                    "name": "Xueyuan Cao",
+                    "id": "A5006746068"
+                },
+                {
+                    "name": "Drew Prescott",
+                    "id": "A5065749202"
+                },
+                {
+                    "name": "Sarah Shore",
+                    "id": "A5108604765"
+                },
+                {
+                    "name": "Brandon Baughman",
+                    "id": "A5013516914"
+                },
+                {
+                    "name": "Anthony Oddo",
+                    "id": "A5043839879"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Concussion"
+        },
+        "W2834179574": {
+            "id": "W2834179574",
+            "title": "Importance of Intelligence and Emotional Intelligence for Physicians",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Sarah K. Shore",
+                    "id": "A5103681757"
+                },
+                {
+                    "name": "Sandeford J. Schaeffer",
+                    "id": "A5005714206"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "JAMA"
+        },
+        "W3165056333": {
+            "id": "W3165056333",
+            "title": "Effects of the Medicare Part D comprehensive medication review on medication adherence among patients with Alzheimer\u2019s disease",
+            "year": 2021,
+            "authors": [
+                {
+                    "name": "Xiaobei Dong",
+                    "id": "A5079811543"
+                },
+                {
+                    "name": "Chi Chun Steve Tsang",
+                    "id": "A5035324970"
+                },
+                {
+                    "name": "Shirong Zhao",
+                    "id": "A5025458705"
+                },
+                {
+                    "name": "Jamie A. Browning",
+                    "id": "A5017353586"
+                },
+                {
+                    "name": "Jim Y. Wan",
+                    "id": "A5076984214"
+                },
+                {
+                    "name": "Marie A. Chisholm\u2010Burns",
+                    "id": "A5104035748"
+                },
+                {
+                    "name": "Christopher K. Finch",
+                    "id": "A5010755567"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Lisa E. Hines",
+                    "id": "A5109525399"
+                },
+                {
+                    "name": "Junling Wang",
+                    "id": "A5100671893"
+                }
+            ],
+            "venue": "Current Medical Research and Opinion"
+        },
+        "W3199525569": {
+            "id": "W3199525569",
+            "title": "Characteristics of phantom limb pain in U.S. civilians and service members",
+            "year": 2021,
+            "authors": [
+                {
+                    "name": "Sarah C. Griffin",
+                    "id": "A5034137438"
+                },
+                {
+                    "name": "Aimee L. Alphonso",
+                    "id": "A5002034380"
+                },
+                {
+                    "name": "Monica Tung",
+                    "id": "A5054611071"
+                },
+                {
+                    "name": "Sacha Finn",
+                    "id": "A5058173629"
+                },
+                {
+                    "name": "Briana N. Perry",
+                    "id": "A5046288530"
+                },
+                {
+                    "name": "Wendy Hill",
+                    "id": "A5112717571"
+                },
+                {
+                    "name": "Colleen O\u2019Connell",
+                    "id": "A5020349857"
+                },
+                {
+                    "name": "Steven Hanling",
+                    "id": "A5018679030"
+                },
+                {
+                    "name": "Brandon J. Goff",
+                    "id": "A5048497342"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Scandinavian Journal of Pain"
+        },
+        "W4210894946": {
+            "id": "W4210894946",
+            "title": "Effects of Medicare comprehensive medication review on racial/ethnic disparities in nonadherence to statin medications among patients with Alzheimer\u2019s Disease: an observational analysis",
+            "year": 2022,
+            "authors": [
+                {
+                    "name": "Jamie A. Browning",
+                    "id": "A5017353586"
+                },
+                {
+                    "name": "Chi Chun Steve Tsang",
+                    "id": "A5035324970"
+                },
+                {
+                    "name": "Xiaobei Dong",
+                    "id": "A5079811543"
+                },
+                {
+                    "name": "Jim Y. Wan",
+                    "id": "A5076984214"
+                },
+                {
+                    "name": "Marie A. Chisholm\u2010Burns",
+                    "id": "A5049297278"
+                },
+                {
+                    "name": "Christopher K. Finch",
+                    "id": "A5010755567"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Colin Liu",
+                    "id": "A5053828303"
+                },
+                {
+                    "name": "Junling Wang",
+                    "id": "A5100671893"
+                }
+            ],
+            "venue": "BMC Health Services Research"
+        },
+        "W4402236718": {
+            "id": "W4402236718",
+            "title": "Associations between concussion and more severe TBIs, mild cognitive impairment, and early-onset dementia among military retirees over 40 years",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Jennifer N. Belding",
+                    "id": "A5073056289"
+                },
+                {
+                    "name": "James Bonkowski",
+                    "id": "A5083093163"
+                },
+                {
+                    "name": "Robyn Englert",
+                    "id": "A5032669649"
+                },
+                {
+                    "name": "Ansley Grimes Stanfill",
+                    "id": "A5007391247"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Frontiers in Neurology"
+        },
+        "W2952662810": {
+            "id": "W2952662810",
+            "title": "Practice Current",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Ajal Dave",
+                    "id": "A5038665532"
+                },
+                {
+                    "name": "Aravind Ganesh",
+                    "id": "A5027568070"
+                },
+                {
+                    "name": "Malik Adil",
+                    "id": "A5101634620"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Neurology Clinical Practice"
+        },
+        "W4385295455": {
+            "id": "W4385295455",
+            "title": "Lower jaw\u2010to\u2010forepaw rapid and delayed reorganization in the rat forepaw barrel subfield in primary somatosensory cortex",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "Violeta Pellicer\u2010Morata",
+                    "id": "A5020882823"
+                },
+                {
+                    "name": "Lie Wang",
+                    "id": "A5100744945"
+                },
+                {
+                    "name": "Amy L. de Jongh Curry",
+                    "id": "A5078104720"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Robert S. Waters",
+                    "id": "A5069124200"
+                }
+            ],
+            "venue": "The Journal of Comparative Neurology"
+        },
+        "W4391715226": {
+            "id": "W4391715226",
+            "title": "Effects of Medicare Part D medication therapy management on racial/ethnic disparities in adherence to antidementia medications among patients with Alzheimer's disease and related dementias: An observational study",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Xiaobei Dong",
+                    "id": "A5079811543"
+                },
+                {
+                    "name": "Chi Chun Steve Tsang",
+                    "id": "A5035324970"
+                },
+                {
+                    "name": "Jim Y. Wan",
+                    "id": "A5076984214"
+                },
+                {
+                    "name": "Marie A. Chisholm\u2010Burns",
+                    "id": "A5049297278"
+                },
+                {
+                    "name": "Christopher K. Finch",
+                    "id": "A5010755567"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Jamie A. Browning",
+                    "id": "A5017353586"
+                },
+                {
+                    "name": "Joseph Garuccio",
+                    "id": "A5015618815"
+                },
+                {
+                    "name": "Rose Zeng",
+                    "id": "A5014671184"
+                },
+                {
+                    "name": "Junling Wang",
+                    "id": "A5100671893"
+                }
+            ],
+            "venue": "Exploratory Research in Clinical and Social Pharmacy"
+        },
+        "W2169048249": {
+            "id": "W2169048249",
+            "title": "Initial Glasgow Coma Scale Score Predicts Outcome Following Thrombolysis for Posterior Circulation Stroke",
+            "year": 2005,
+            "authors": [
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "J. Claude Hemphill",
+                    "id": "A5010173440"
+                },
+                {
+                    "name": "S. Claiborne Johnston",
+                    "id": "A5001594817"
+                },
+                {
+                    "name": "Wade S. Smith",
+                    "id": "A5077101946"
+                },
+                {
+                    "name": "David C. Bonovich",
+                    "id": "A5084037152"
+                }
+            ],
+            "venue": "Archives of Neurology"
+        },
+        "W2088430963": {
+            "id": "W2088430963",
+            "title": "Loss of the Compound Action Potential: an Electrophysiological, Biochemical and Morphological Study of Early Events in Axonal Degeneration in the C57BL/Ola Mouse",
+            "year": 1994,
+            "authors": [
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Michael C. Brown",
+                    "id": "A5022094836"
+                },
+                {
+                    "name": "Martin J. Carden",
+                    "id": "A5038683491"
+                },
+                {
+                    "name": "W. Graham McLean",
+                    "id": "A5109970039"
+                },
+                {
+                    "name": "V. Hugh Perry",
+                    "id": "A5044019815"
+                }
+            ],
+            "venue": "European Journal of Neuroscience"
+        },
+        "W2009350985": {
+            "id": "W2009350985",
+            "title": "Intradermal Botulinum Toxin Type A Injection Effectively Reduces Residual Limb Hyperhidrosis in Amputees: A Case Series",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "Alexandra Charrow",
+                    "id": "A5057853636"
+                },
+                {
+                    "name": "Marc DiFazio",
+                    "id": "A5035351325"
+                },
+                {
+                    "name": "L. John R. Foster",
+                    "id": "A5074607733"
+                },
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Archives of Physical Medicine and Rehabilitation"
+        },
+        "W2051795930": {
+            "id": "W2051795930",
+            "title": "Outcomes from a US military neurology and traumatic brain injury telemedicine program",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Ilana R. Yurkiewicz",
+                    "id": "A5023853700"
+                },
+                {
+                    "name": "Charles M. Lappan",
+                    "id": "A5017266145"
+                },
+                {
+                    "name": "Edward T. Neely",
+                    "id": "A5040424336"
+                },
+                {
+                    "name": "Roger Hesselbrock",
+                    "id": "A5025967613"
+                },
+                {
+                    "name": "Philip D. Girard",
+                    "id": "A5039807643"
+                },
+                {
+                    "name": "Aimee L. Alphonso",
+                    "id": "A5002034380"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Neurology"
+        },
+        "W1973673702": {
+            "id": "W1973673702",
+            "title": "AltitudeOmics",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Emma B. Roach",
+                    "id": "A5068838437"
+                },
+                {
+                    "name": "Joseph Bleiberg",
+                    "id": "A5061493329"
+                },
+                {
+                    "name": "Corinna Lathan",
+                    "id": "A5065731361"
+                },
+                {
+                    "name": "Lawrence Wolpert",
+                    "id": "A5019335796"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Robert C. Roach",
+                    "id": "A5075776753"
+                }
+            ],
+            "venue": "Neuroreport"
+        },
+        "W2333850542": {
+            "id": "W2333850542",
+            "title": "Recent advances in bioelectric prostheses",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Paul F. Pasquina",
+                    "id": "A5036948209"
+                },
+                {
+                    "name": "Briana N. Perry",
+                    "id": "A5046288530"
+                },
+                {
+                    "name": "Matthew E. Miller",
+                    "id": "A5072598293"
+                },
+                {
+                    "name": "Geoffrey Ling",
+                    "id": "A5108271457"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                }
+            ],
+            "venue": "Neurology Clinical Practice"
+        },
+        "W2921321622": {
+            "id": "W2921321622",
+            "title": "Haploinsufficiency of the brain-derived neurotrophic factor gene is associated with reduced pain sensitivity",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Matthew R. Sapio",
+                    "id": "A5049304119"
+                },
+                {
+                    "name": "Michael J. Iadarola",
+                    "id": "A5006333981"
+                },
+                {
+                    "name": "Danielle M. LaPaglia",
+                    "id": "A5057503033"
+                },
+                {
+                    "name": "Tanya Lehky",
+                    "id": "A5035684668"
+                },
+                {
+                    "name": "Audrey Thurm",
+                    "id": "A5044691633"
+                },
+                {
+                    "name": "Kristen M. Danley",
+                    "id": "A5002168515"
+                },
+                {
+                    "name": "Shannon R. Fuhr",
+                    "id": "A5083032300"
+                },
+                {
+                    "name": "Mark D. Lee",
+                    "id": "A5063418899"
+                },
+                {
+                    "name": "Amanda E. Huey",
+                    "id": "A5070803476"
+                },
+                {
+                    "name": "Stephen J. Sharp",
+                    "id": "A5052443670"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5102763548"
+                },
+                {
+                    "name": "Jack A. Yanovski",
+                    "id": "A5068075323"
+                },
+                {
+                    "name": "Andrew J. Mannes",
+                    "id": "A5056025887"
+                },
+                {
+                    "name": "Joan C. Han",
+                    "id": "A5024394463"
+                }
+            ],
+            "venue": "Pain"
+        },
+        "W2125474765": {
+            "id": "W2125474765",
+            "title": "Reduction of sidelobe and speckle artifacts in microwave imaging: the CLEAN technique",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "B.D. Steinberg",
+                    "id": "A5113521800"
+                }
+            ],
+            "venue": "IEEE Transactions on Antennas and Propagation"
+        },
+        "W4390959459": {
+            "id": "W4390959459",
+            "title": "Beyond the author: Artificial intelligence, creative writing and intellectual emancipation",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Collier Nogues",
+                    "id": "A5031440064"
+                }
+            ],
+            "venue": "Poetics"
+        },
+        "W4416399285": {
+            "id": "W4416399285",
+            "title": "Trajectories of AI policy in higher education: Interpretations, discourses, and enactments of students and teachers",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                }
+            ],
+            "venue": "Computers and Education Artificial Intelligence"
+        },
+        "W2170998104": {
+            "id": "W2170998104",
+            "title": "Interpolation artifacts in multimodality image registration based on maximization of mutual information",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                }
+            ],
+            "venue": "IEEE Transactions on Medical Imaging"
+        },
+        "W2800844190": {
+            "id": "W2800844190",
+            "title": "Aspirational ambivalence of middle-class secondary students in Hong Kong",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Ian Hardy",
+                    "id": "A5078309034"
+                },
+                {
+                    "name": "Bob Lingard",
+                    "id": "A5090041457"
+                }
+            ],
+            "venue": "British Journal of Sociology of Education"
+        },
+        "W4399900814": {
+            "id": "W4399900814",
+            "title": "Institutionalising a transdisciplinary curriculum: assemblages, territories, and refrains",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Gray Kochhar\u2010Lindgren",
+                    "id": "A5049591686"
+                },
+                {
+                    "name": "Man Ho Adrian Lam",
+                    "id": "A5087889883"
+                }
+            ],
+            "venue": "Higher Education"
+        },
+        "W4386417034": {
+            "id": "W4386417034",
+            "title": "The impacts of International Baccalaureate expansion on professional cultures and assessments in Hong Kong, Taiwan and Singapore",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Yu-Chih Li",
+                    "id": "A5008276196"
+                },
+                {
+                    "name": "Suraiya Hameed",
+                    "id": "A5020942240"
+                }
+            ],
+            "venue": "Cambridge Journal of Education"
+        },
+        "W4415775755": {
+            "id": "W4415775755",
+            "title": "Artificial intelligence and epistemic interoperability: towards a sympoietic approach",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Danielle H. Heinrichs",
+                    "id": "A5064395091"
+                },
+                {
+                    "name": "Michael Camit",
+                    "id": "A5049514655"
+                }
+            ],
+            "venue": "Discourse Studies in the Cultural Politics of Education"
+        },
+        "W2075099417": {
+            "id": "W2075099417",
+            "title": "Design of broadband RF pulses with polynomial-phase response",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Rolf F. Schulte",
+                    "id": "A5013301536"
+                },
+                {
+                    "name": "A Henning",
+                    "id": "A5051585576"
+                },
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Peter Boesiger",
+                    "id": "A5056060306"
+                },
+                {
+                    "name": "KP Pruessmann",
+                    "id": "A5091357193"
+                }
+            ],
+            "venue": "Journal of Magnetic Resonance"
+        },
+        "W3131377991": {
+            "id": "W3131377991",
+            "title": "Schooling in Hong Kong, youth aspirations, and the contesting of Chinese identity",
+            "year": 2021,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Ian Hardy",
+                    "id": "A5078309034"
+                },
+                {
+                    "name": "Bob Lingard",
+                    "id": "A5090041457"
+                }
+            ],
+            "venue": "British Journal of Sociology of Education"
+        },
+        "W4386402115": {
+            "id": "W4386402115",
+            "title": "Mundane matters: entangling moments of student wellbeing across cultures, time, space, and virtual worlds",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "Danielle H. Heinrichs",
+                    "id": "A5064395091"
+                },
+                {
+                    "name": "Suraiya Hameed",
+                    "id": "A5020942240"
+                },
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Katherine McLay",
+                    "id": "A5083642710"
+                },
+                {
+                    "name": "H\u01b0\u01a1ng Thu Nguy\u1ec5n",
+                    "id": "A5048389519"
+                },
+                {
+                    "name": "Sakinah S. J. Alhadad",
+                    "id": "A5000767661"
+                }
+            ],
+            "venue": "Critical Studies in Education"
+        },
+        "W2021129436": {
+            "id": "W2021129436",
+            "title": "Correction to \"Interpolation artifacts in multimodality image registration based on maximization of mutual information\"",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                }
+            ],
+            "venue": "IEEE Transactions on Medical Imaging"
+        },
+        "W4414155430": {
+            "id": "W4414155430",
+            "title": "Response-able, collaborative adaptations of multilingual health messaging: a case study from Australia and Hong Kong, SAR",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Danielle H. Heinrichs",
+                    "id": "A5064395091"
+                },
+                {
+                    "name": "Michael Camit",
+                    "id": "A5049514655"
+                },
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                }
+            ],
+            "venue": "Critical Public Health"
+        },
+        "W4414939510": {
+            "id": "W4414939510",
+            "title": "Perceptions and integration of generative artificial intelligence in creative practices and industries: a scoping review and conceptual model",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Cindy Liang",
+                    "id": "A5085170993"
+                },
+                {
+                    "name": "Collier Nogues",
+                    "id": "A5031440064"
+                },
+                {
+                    "name": "Alice Wong",
+                    "id": "A5113919758"
+                }
+            ],
+            "venue": "AI & Society"
+        },
+        "W2316297820": {
+            "id": "W2316297820",
+            "title": "138 IN VIVO OPTICAL IMAGING OF TUMOR AND MICROVASCULAR RESPONSE TO IONIZING RADIATION",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Azusa Maeda",
+                    "id": "A5087835055"
+                },
+                {
+                    "name": "Leigh Conroy",
+                    "id": "A5021485835"
+                },
+                {
+                    "name": "Y. Chen",
+                    "id": "A5079768123"
+                },
+                {
+                    "name": "Patricia Lindsay",
+                    "id": "A5110242785"
+                },
+                {
+                    "name": "Shani Mintzberg",
+                    "id": "A5012442205"
+                },
+                {
+                    "name": "Carl Virtanen",
+                    "id": "A5035022718"
+                },
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                },
+                {
+                    "name": "Neil Winegarden",
+                    "id": "A5067476138"
+                },
+                {
+                    "name": "Yinzhou Wang",
+                    "id": "A5090710665"
+                },
+                {
+                    "name": "Lily Morikawa",
+                    "id": "A5089721171"
+                },
+                {
+                    "name": "I. Alex Vitkin",
+                    "id": "A5006843894"
+                },
+                {
+                    "name": "David A. Jaffray",
+                    "id": "A5008048551"
+                },
+                {
+                    "name": "Ronald J. Hill",
+                    "id": "A5043721826"
+                },
+                {
+                    "name": "Ralph S. DaCosta",
+                    "id": "A5073742440"
+                }
+            ],
+            "venue": "Radiotherapy and Oncology"
+        },
+        "W2121910256": {
+            "id": "W2121910256",
+            "title": "Extension of finite-support extrapolation using the generalized series model for MR spectroscopic imaging",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5073419669"
+                }
+            ],
+            "venue": "IEEE Transactions on Medical Imaging"
+        },
+        "W2108655515": {
+            "id": "W2108655515",
+            "title": "Spatiotemporal Patterns of Host-Seeking &lt;I&gt;Ixodes scapularis&lt;/I&gt; Nymphs (Acari: Ixodidae) in the United States",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Maria A. Diuk\u2010Wasser",
+                    "id": "A5083010900"
+                },
+                {
+                    "name": "Anne G. Gatewood",
+                    "id": "A5017459559"
+                },
+                {
+                    "name": "Roberto Cortinas",
+                    "id": "A5005850275"
+                },
+                {
+                    "name": "S. Yaremych-Hamer",
+                    "id": "A5028196912"
+                },
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5108223242"
+                },
+                {
+                    "name": "Uriel Kitron",
+                    "id": "A5110041103"
+                },
+                {
+                    "name": "Graham J. Hickling",
+                    "id": "A5043863092"
+                },
+                {
+                    "name": "John S. Brownstein",
+                    "id": "A5087882430"
+                },
+                {
+                    "name": "Edward D. Walker",
+                    "id": "A5048767088"
+                },
+                {
+                    "name": "Joseph Piesman",
+                    "id": "A5005382742"
+                },
+                {
+                    "name": "Durland Fish",
+                    "id": "A5056393413"
+                }
+            ],
+            "venue": "Journal of Medical Entomology"
+        },
+        "W4414015949": {
+            "id": "W4414015949",
+            "title": "Development and application of <scp>BRUVS</scp> \u2010Lite: A stereo\u2010 <scp>BRUV</scp> system with integrated lighting for benthic marine monitoring in northern latitudes",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Jessica Sajtovich",
+                    "id": "A5119549122"
+                },
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5108223242"
+                },
+                {
+                    "name": "Stephane Kirchhoff",
+                    "id": "A5032021544"
+                },
+                {
+                    "name": "Craig J. Brown",
+                    "id": "A5076479959"
+                }
+            ],
+            "venue": "Methods in Ecology and Evolution"
+        },
+        "W4413825966": {
+            "id": "W4413825966",
+            "title": "The role of generative <scp>AI</scp> in collaborative problem\u2010solving of authentic challenges",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Nancy Law",
+                    "id": "A5012991678"
+                },
+                {
+                    "name": "Nan Wang",
+                    "id": "A5100332727"
+                },
+                {
+                    "name": "Ma Ming",
+                    "id": "A5110378040"
+                },
+                {
+                    "name": "Zhichun Liu",
+                    "id": "A5101615116"
+                },
+                {
+                    "name": "Chi\u2010Un Lei",
+                    "id": "A5037634722"
+                },
+                {
+                    "name": "Shihui Feng",
+                    "id": "A5021896082"
+                },
+                {
+                    "name": "Xiao Hu",
+                    "id": "A5052775912"
+                },
+                {
+                    "name": "Jack Tsao",
+                    "id": "A5119475105"
+                }
+            ],
+            "venue": "British Journal of Educational Technology"
+        },
+        "W4245042815": {
+            "id": "W4245042815",
+            "title": "Safety and Speed of a CT Imaging Protocol for the Entire Cerebrovascular Axis During Acute Stroke",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "Wade S Smith",
+                    "id": "A5042260844"
+                },
+                {
+                    "name": "S. Claiborne Johnston",
+                    "id": "A5001594817"
+                },
+                {
+                    "name": "Jack W Tsao",
+                    "id": "A5041726731"
+                },
+                {
+                    "name": "William P. Dillon",
+                    "id": "A5103704301"
+                },
+                {
+                    "name": "Heidi Roberts",
+                    "id": "A5113086938"
+                }
+            ],
+            "venue": "Stroke"
+        },
+        "W4253048820": {
+            "id": "W4253048820",
+            "title": "Outcomes following thrombolysis for posterior circulation stroke",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "Jack W Tsao",
+                    "id": "A5041726731"
+                },
+                {
+                    "name": "Wade S Smith",
+                    "id": "A5042260844"
+                },
+                {
+                    "name": "J. Claude Hemphill",
+                    "id": "A5010173440"
+                },
+                {
+                    "name": "David C. Bonovich",
+                    "id": "A5084037152"
+                }
+            ],
+            "venue": "Stroke"
+        },
+        "W7125928696": {
+            "id": "W7125928696",
+            "title": "Somerville Dissertation Defense",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "Ansley Grimes Stanfill",
+                    "id": "A5007391247"
+                },
+                {
+                    "name": "Jack W. Tsao",
+                    "id": "A5124071048"
+                },
+                {
+                    "name": "Brandon C. Baughman",
+                    "id": "A5124136884"
+                },
+                {
+                    "name": "Leah Somerville",
+                    "id": "A5124079084"
+                }
+            ],
+            "venue": "Open MIND"
+        }
+    }
+}

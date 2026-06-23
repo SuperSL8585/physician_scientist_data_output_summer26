@@ -1,0 +1,3917 @@
+{
+    "author_name": {
+        "name": "Randall Urban",
+        "clusters_count": 1
+    },
+    "author_data": {
+        "A5048481221": {
+            "gold_id/master_key": "randall_urban_1",
+            "ids": [
+                "A5048481221",
+                "A5108232279"
+            ],
+            "name": "Randall J. Urban",
+            "name_first": "Randall",
+            "name_middle": "J.",
+            "name_last": "Urban",
+            "field": null,
+            "fields": [
+                "Endocrinology",
+                "Geriatrics",
+                "Neuroendocrinology"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 223,
+            "works": [
+                "W2075118988",
+                "W2185952775",
+                "W2136743230",
+                "W2135301191",
+                "W2008295589",
+                "W2049205408",
+                "W2146343352",
+                "W2143745192",
+                "W1975148982",
+                "W2114787201",
+                "W2105083335",
+                "W24912373",
+                "W2121854592",
+                "W2019963902",
+                "W2110692189",
+                "W2022644027",
+                "W2062291205",
+                "W3029315012",
+                "W2996471060",
+                "W2875073268",
+                "W1818039308",
+                "W2796502593",
+                "W2472523518",
+                "W2171267119",
+                "W3037240533",
+                "W4392754843",
+                "W4389547382",
+                "W1996846143",
+                "W4247027611",
+                "W2072258435",
+                "W2127475498",
+                "W2119084562",
+                "W1971528602",
+                "W1983379274",
+                "W2185328935",
+                "W2116002543",
+                "W2027362748",
+                "W2086212974",
+                "W2229236042",
+                "W2077751940",
+                "W2890700999",
+                "W2058174948",
+                "W1965935098",
+                "W2416181345",
+                "W1977860582",
+                "W2533220367",
+                "W2047592324",
+                "W2553618798",
+                "W2993433278",
+                "W49129270",
+                "W2096323238",
+                "W2086163647",
+                "W2080203410",
+                "W1838375727",
+                "W2027040814",
+                "W1978187711",
+                "W2119391156",
+                "W2356566903",
+                "W4287448188",
+                "W2983303957",
+                "W3028134213",
+                "W4388802428",
+                "W4225140978",
+                "W4387457470",
+                "W2964786200",
+                "W2045801016",
+                "W4393066545",
+                "W4399817478",
+                "W4388802374",
+                "W2078488883",
+                "W4366830540",
+                "W4411090443",
+                "W2159101625",
+                "W2075983421",
+                "W2075186505",
+                "W1977367668",
+                "W2039565811",
+                "W2083626903",
+                "W2025241722",
+                "W2055263354",
+                "W2044137112",
+                "W2151297658",
+                "W1967452644",
+                "W1984302646",
+                "W2020471695",
+                "W2142661035",
+                "W1560976911",
+                "W2029661067",
+                "W2090852533",
+                "W2328465796",
+                "W2797479550",
+                "W2969992503",
+                "W2794208528",
+                "W2949372319",
+                "W2146665323",
+                "W2118631832",
+                "W2029547778",
+                "W2050203654",
+                "W2042933138",
+                "W2115392872"
+            ]
+        }
+    },
+    "works_data": {
+        "W2075118988": {
+            "id": "W2075118988",
+            "title": "Adverse Events Associated With Testosterone Replacement in Middle-Aged and Older Men: A Meta-Analysis of Randomized, Placebo-Controlled Trials",
+            "year": 2005,
+            "authors": [
+                {
+                    "name": "Olga M. Calof",
+                    "id": "A5004148010"
+                },
+                {
+                    "name": "Atam B. Singh",
+                    "id": "A5112106980"
+                },
+                {
+                    "name": "M. L. Lee",
+                    "id": "A5014734646"
+                },
+                {
+                    "name": "Rose Anne Kenny",
+                    "id": "A5027947710"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "J. Lisa Tenover",
+                    "id": "A5077157097"
+                },
+                {
+                    "name": "Shalender Bhasin",
+                    "id": "A5110029215"
+                }
+            ],
+            "venue": "The Journals of Gerontology Series A"
+        },
+        "W2185952775": {
+            "id": "W2185952775",
+            "title": "Testosterone administration to elderly men increases skeletal muscle strength and protein synthesis",
+            "year": 1995,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Yvonne Bodenburg",
+                    "id": "A5080130039"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "J. Foxworth",
+                    "id": "A5052836758"
+                },
+                {
+                    "name": "Andrew R. Coggan",
+                    "id": "A5008283215"
+                },
+                {
+                    "name": "Robert R. Wolfe",
+                    "id": "A5060298854"
+                },
+                {
+                    "name": "Arny A. Ferrando",
+                    "id": "A5055903272"
+                }
+            ],
+            "venue": "American Journal of Physiology-Endocrinology and Metabolism"
+        },
+        "W2136743230": {
+            "id": "W2136743230",
+            "title": "Testosterone administration to older men improves muscle function: molecular and physiological mechanisms",
+            "year": 2002,
+            "authors": [
+                {
+                    "name": "Arny A. Ferrando",
+                    "id": "A5055903272"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Catherine W. Yeckel",
+                    "id": "A5029368660"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Jie Jiang",
+                    "id": "A5061877876"
+                },
+                {
+                    "name": "Alison Achacosa",
+                    "id": "A5062610999"
+                },
+                {
+                    "name": "Steven Lieberman",
+                    "id": "A5113680731"
+                },
+                {
+                    "name": "Kevin D. Tipton",
+                    "id": "A5069254209"
+                },
+                {
+                    "name": "Robert R. Wolfe",
+                    "id": "A5060298854"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "American Journal of Physiology-Endocrinology and Metabolism"
+        },
+        "W2135301191": {
+            "id": "W2135301191",
+            "title": "The Role of Androgens and Estrogens on Healthy Aging and Longevity",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Astrid M. Horstman",
+                    "id": "A5010064446"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "The Journals of Gerontology Series A"
+        },
+        "W2008295589": {
+            "id": "W2008295589",
+            "title": "Testosterone Deficiency in Young Men: Marked Alterations in Whole Body Protein Kinetics, Strength, and Adiposity<sup>1</sup>",
+            "year": 1998,
+            "authors": [
+                {
+                    "name": "Nelly Mauras",
+                    "id": "A5043773015"
+                },
+                {
+                    "name": "Valerie Y. Hayes",
+                    "id": "A5023705273"
+                },
+                {
+                    "name": "Susan Welch",
+                    "id": "A5089293388"
+                },
+                {
+                    "name": "Annie Rini",
+                    "id": "A5081217865"
+                },
+                {
+                    "name": "Kevin Helgeson",
+                    "id": "A5053070691"
+                },
+                {
+                    "name": "Maryanne L. Dokler",
+                    "id": "A5081984585"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5003698342"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2049205408": {
+            "id": "W2049205408",
+            "title": "Prevalence of Neuroendocrine Dysfunction in Patients Recovering from Traumatic Brain Injury<sup>1</sup>",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "Steven Lieberman",
+                    "id": "A5113680731"
+                },
+                {
+                    "name": "Asra L. Oberoi",
+                    "id": "A5043682056"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2146343352": {
+            "id": "W2146343352",
+            "title": "Mechanical load increases muscle IGF-I and androgen receptor mRNA concentrations in humans",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "Marcas M. Bamman",
+                    "id": "A5058873829"
+                },
+                {
+                    "name": "James R. Shipp",
+                    "id": "A5069032018"
+                },
+                {
+                    "name": "Jie Jiang",
+                    "id": "A5061877876"
+                },
+                {
+                    "name": "Barbara A. Gower",
+                    "id": "A5054322475"
+                },
+                {
+                    "name": "Gary R. Hunter",
+                    "id": "A5081479561"
+                },
+                {
+                    "name": "Ashley G. Goodman",
+                    "id": "A5036533241"
+                },
+                {
+                    "name": "Charles L. McLafferty",
+                    "id": "A5067865918"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "American Journal of Physiology-Endocrinology and Metabolism"
+        },
+        "W2143745192": {
+            "id": "W2143745192",
+            "title": "Essential Amino Acid and Carbohydrate Supplementation Ameliorates Muscle Protein Loss in Humans during 28 Days Bedrest",
+            "year": 2004,
+            "authors": [
+                {
+                    "name": "Douglas Paddon\u2010Jones",
+                    "id": "A5074476359"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Arthur P. Sanford",
+                    "id": "A5114008366"
+                },
+                {
+                    "name": "Asle Aarsland",
+                    "id": "A5075773160"
+                },
+                {
+                    "name": "Robert R. Wolfe",
+                    "id": "A5060298854"
+                },
+                {
+                    "name": "Arny A. Ferrando",
+                    "id": "A5055903272"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W1975148982": {
+            "id": "W1975148982",
+            "title": "Trends in Androgen Prescribing in the United States, 2001 to 2011",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Kenneth J. Ottenbacher",
+                    "id": "A5059592671"
+                },
+                {
+                    "name": "Karen Pierson",
+                    "id": "A5032805999"
+                },
+                {
+                    "name": "James S. Goodwin",
+                    "id": "A5036241160"
+                }
+            ],
+            "venue": "JAMA Internal Medicine"
+        },
+        "W2114787201": {
+            "id": "W2114787201",
+            "title": "Amino Acid Supplementation Increases Lean Body Mass, Basal Muscle Protein Synthesis, and Insulin-Like Growth Factor-I Expression in Older Women",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Douglas Paddon\u2010Jones",
+                    "id": "A5074476359"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Arthur P. Sanford",
+                    "id": "A5114008366"
+                },
+                {
+                    "name": "Shanon Casperson",
+                    "id": "A5001857734"
+                },
+                {
+                    "name": "Jie Jiang",
+                    "id": "A5061877876"
+                },
+                {
+                    "name": "David L. Chinkes",
+                    "id": "A5088819443"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2105083335": {
+            "id": "W2105083335",
+            "title": "Intramuscular and Liver Triglycerides Are Increased in the Elderly",
+            "year": 2004,
+            "authors": [
+                {
+                    "name": "Melanie Cree\u2010Green",
+                    "id": "A5077027324"
+                },
+                {
+                    "name": "Bradley R. Newcomer",
+                    "id": "A5008803357"
+                },
+                {
+                    "name": "Christos S. Katsanos",
+                    "id": "A5074138380"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "David L. Chinkes",
+                    "id": "A5088819443"
+                },
+                {
+                    "name": "Asle Aarsland",
+                    "id": "A5075773160"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Robert R. Wolfe",
+                    "id": "A5060298854"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W24912373": {
+            "id": "W24912373",
+            "title": "Management of blood glucose in type 2 diabetes mellitus.",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "Cynthia M. Ripsin",
+                    "id": "A5025776105"
+                },
+                {
+                    "name": "Helen H. Kang",
+                    "id": "A5112188404"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2121854592": {
+            "id": "W2121854592",
+            "title": "Consensus guidelines on screening for hypopituitarism following traumatic brain injury",
+            "year": 2005,
+            "authors": [
+                {
+                    "name": "Ezio Ghigo",
+                    "id": "A5007907892"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Gianluca Aimaretti",
+                    "id": "A5019524070"
+                },
+                {
+                    "name": "Jos\u00e9 Le\u00f3n\u2010Carri\u00f3n",
+                    "id": "A5111921005"
+                },
+                {
+                    "name": "Felipe F. Casanueva",
+                    "id": "A5032467307"
+                },
+                {
+                    "name": "M. R. Dom\u00ednguez-Morales",
+                    "id": "A5017868853"
+                },
+                {
+                    "name": "Elie P. Elovic",
+                    "id": "A5033799609"
+                },
+                {
+                    "name": "Kristian Perrone",
+                    "id": "A5044735881"
+                },
+                {
+                    "name": "G. K. Stalla",
+                    "id": "A5108414703"
+                },
+                {
+                    "name": "Chris Thompson",
+                    "id": "A5050120092"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Brain Injury"
+        },
+        "W2019963902": {
+            "id": "W2019963902",
+            "title": "Production of stem cells with embryonic characteristics from human umbilical cord blood",
+            "year": 2005,
+            "authors": [
+                {
+                    "name": "Colin McGuckin",
+                    "id": "A5085436818"
+                },
+                {
+                    "name": "Nico Forraz",
+                    "id": "A5046282465"
+                },
+                {
+                    "name": "Marc\u2010Olivier Baradez",
+                    "id": "A5112851840"
+                },
+                {
+                    "name": "Steve Navran",
+                    "id": "A5047546458"
+                },
+                {
+                    "name": "Junhan Zhao",
+                    "id": "A5033670526"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Richard C. Tilton",
+                    "id": "A5110034005"
+                },
+                {
+                    "name": "Larry Denner",
+                    "id": "A5112341949"
+                }
+            ],
+            "venue": "Cell Proliferation"
+        },
+        "W2110692189": {
+            "id": "W2110692189",
+            "title": "Risk of Myocardial Infarction in Older Men Receiving Testosterone Therapy",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Yong\u2010Fang Kuo",
+                    "id": "A5046827767"
+                },
+                {
+                    "name": "Kenneth J. Ottenbacher",
+                    "id": "A5059592671"
+                },
+                {
+                    "name": "Mukaila A. Raji",
+                    "id": "A5113920920"
+                },
+                {
+                    "name": "Fei Du",
+                    "id": "A5101811430"
+                },
+                {
+                    "name": "Yu\u2010Li Lin",
+                    "id": "A5077859412"
+                },
+                {
+                    "name": "James S. Goodwin",
+                    "id": "A5036241160"
+                }
+            ],
+            "venue": "Annals of Pharmacotherapy"
+        },
+        "W2022644027": {
+            "id": "W2022644027",
+            "title": "Effect of Growth Hormone Replacement Therapy on Cognition after Traumatic Brain Injury",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Walter M. High",
+                    "id": "A5084936208"
+                },
+                {
+                    "name": "Maria Briones-Galang",
+                    "id": "A5040914019"
+                },
+                {
+                    "name": "Jessica A. Clark",
+                    "id": "A5109271673"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Kurt A. Mossberg",
+                    "id": "A5009106777"
+                },
+                {
+                    "name": "Dennis J. Zgaljardic",
+                    "id": "A5003767186"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W2062291205": {
+            "id": "W2062291205",
+            "title": "Differential Anabolic Effects of Testosterone and Amino Acid Feeding in Older Men",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Arny A. Ferrando",
+                    "id": "A5055903272"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Douglas Paddon\u2010Jones",
+                    "id": "A5074476359"
+                },
+                {
+                    "name": "Robert R. Wolfe",
+                    "id": "A5060298854"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W3029315012": {
+            "id": "W3029315012",
+            "title": "Sex Hormones and Novel Corona Virus Infectious Disease (COVID-19)",
+            "year": 2020,
+            "authors": [
+                {
+                    "name": "Rasha A. Al-Lami",
+                    "id": "A5040299368"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Elena Volpi",
+                    "id": "A5014318990"
+                },
+                {
+                    "name": "Ammar M.A. Algburi",
+                    "id": "A5042317990"
+                },
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                }
+            ],
+            "venue": "Mayo Clinic Proceedings"
+        },
+        "W2996471060": {
+            "id": "W2996471060",
+            "title": "Altered Fecal Microbiome Years after Traumatic Brain Injury",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                },
+                {
+                    "name": "Christopher J. Stewart",
+                    "id": "A5029828038"
+                },
+                {
+                    "name": "Nadim J. Ajami",
+                    "id": "A5021359372"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Jennifer R. Summons",
+                    "id": "A5016883814"
+                },
+                {
+                    "name": "Charan Singh",
+                    "id": "A5081211064"
+                },
+                {
+                    "name": "Melissa Morrison",
+                    "id": "A5057820773"
+                },
+                {
+                    "name": "Lisa A. Kreber",
+                    "id": "A5067785191"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Aaron L. Miller",
+                    "id": "A5103911478"
+                },
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W2875073268": {
+            "id": "W2875073268",
+            "title": "Testosterone Prescribing in the United States, 2002-2016",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                },
+                {
+                    "name": "Yong\u2010Fang Kuo",
+                    "id": "A5046827767"
+                },
+                {
+                    "name": "Jordan Westra",
+                    "id": "A5025824989"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "James S. Goodwin",
+                    "id": "A5036241160"
+                }
+            ],
+            "venue": "JAMA"
+        },
+        "W1818039308": {
+            "id": "W1818039308",
+            "title": "Risk of Venous Thromboembolism in Men Receiving Testosterone Therapy",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Abraham Morgentaler",
+                    "id": "A5069888995"
+                },
+                {
+                    "name": "Charles J. Glueck",
+                    "id": "A5079058910"
+                },
+                {
+                    "name": "Gwen Baillargeon",
+                    "id": "A5110220011"
+                },
+                {
+                    "name": "Gulshan Sharma",
+                    "id": "A5085981490"
+                },
+                {
+                    "name": "Yong\u2010Fang Kuo",
+                    "id": "A5046827767"
+                }
+            ],
+            "venue": "Mayo Clinic Proceedings"
+        },
+        "W2796502593": {
+            "id": "W2796502593",
+            "title": "A randomized trial of adjunct testosterone for cancer\u2010related muscle loss in men and women",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Albert Chamberlain",
+                    "id": "A5029591789"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Astrid M. Horstman",
+                    "id": "A5010064446"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Maurice Willis",
+                    "id": "A5018634940"
+                },
+                {
+                    "name": "Gwyn Richardson",
+                    "id": "A5110255851"
+                },
+                {
+                    "name": "Sandra S. Hatch",
+                    "id": "A5017187563"
+                },
+                {
+                    "name": "Daniel C. Jupiter",
+                    "id": "A5074729675"
+                },
+                {
+                    "name": "Susan McCammon",
+                    "id": "A5077614613"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "Journal of Cachexia Sarcopenia and Muscle"
+        },
+        "W2472523518": {
+            "id": "W2472523518",
+            "title": "Hypogonadism and the risk of rheumatic autoimmune disease",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                },
+                {
+                    "name": "Soham Al Snih",
+                    "id": "A5090967772"
+                },
+                {
+                    "name": "Mukaila A. Raji",
+                    "id": "A5113920920"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Gulshan Sharma",
+                    "id": "A5085981490"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "David S. L\u00f3pez",
+                    "id": "A5073926506"
+                },
+                {
+                    "name": "Gwen Baillargeon",
+                    "id": "A5110220011"
+                },
+                {
+                    "name": "Yong\u2010Fang Kuo",
+                    "id": "A5046827767"
+                }
+            ],
+            "venue": "Clinical Rheumatology"
+        },
+        "W2171267119": {
+            "id": "W2171267119",
+            "title": "Isotopic decay of urinary or plasma 3\u2010methylhistidine as a potential biomarker of pathologic skeletal muscle loss",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Shanon Casperson",
+                    "id": "A5001857734"
+                },
+                {
+                    "name": "Gregory R. White",
+                    "id": "A5047651756"
+                },
+                {
+                    "name": "Kristofer Jennings",
+                    "id": "A5033969355"
+                },
+                {
+                    "name": "John A. Rathmacher",
+                    "id": "A5088368639"
+                },
+                {
+                    "name": "Sally A. Schuette",
+                    "id": "A5109898786"
+                },
+                {
+                    "name": "Morteza Janghorbani",
+                    "id": "A5078018987"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Vivi Hoang",
+                    "id": "A5110491744"
+                },
+                {
+                    "name": "Maurice Willis",
+                    "id": "A5018634940"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                }
+            ],
+            "venue": "Journal of Cachexia Sarcopenia and Muscle"
+        },
+        "W3037240533": {
+            "id": "W3037240533",
+            "title": "Alterations of the GH/IGF-I Axis and Gut Microbiome after Traumatic Brain Injury: A New Clinical Syndrome?",
+            "year": 2020,
+            "authors": [
+                {
+                    "name": "Kevin C.J. Yuen",
+                    "id": "A5047720768"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Kent Reifschneider",
+                    "id": "A5000034945"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W4392754843": {
+            "id": "W4392754843",
+            "title": "The altered TBI fecal microbiome is stable and functionally distinct",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                },
+                {
+                    "name": "Aaron L. Miller",
+                    "id": "A5103911478"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Carrie Maxwell",
+                    "id": "A5108656823"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Kristen A. McGovern",
+                    "id": "A5033176401"
+                },
+                {
+                    "name": "J. Vargas",
+                    "id": "A5045092514"
+                },
+                {
+                    "name": "Peyton A. Armstrong",
+                    "id": "A5089527476"
+                },
+                {
+                    "name": "Lisa A. Kreber",
+                    "id": "A5067785191"
+                },
+                {
+                    "name": "Giuliana Cumpa",
+                    "id": "A5094139156"
+                },
+                {
+                    "name": "Kevin J. Randall",
+                    "id": "A5109999354"
+                },
+                {
+                    "name": "Melissa Morrison",
+                    "id": "A5057820773"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                }
+            ],
+            "venue": "Frontiers in Molecular Neuroscience"
+        },
+        "W4389547382": {
+            "id": "W4389547382",
+            "title": "Efficient assessment of brain fog and fatigue: Development of the Fatigue and Altered Cognition Scale (FACs)",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "Timothy R. Elliott",
+                    "id": "A5030270951"
+                },
+                {
+                    "name": "Yu\u2010Yu Hsiao",
+                    "id": "A5053181769"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "T Wexler",
+                    "id": "A5088831526"
+                },
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                }
+            ],
+            "venue": "PLoS ONE"
+        },
+        "W1996846143": {
+            "id": "W1996846143",
+            "title": "Contemporary Aspects of Discrete Peak-Detection Algorithms. II. The Paradigm of the Luteinizing Hormone Pulse Signal in Women*",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "WILLIAM S. EVANS",
+                    "id": "A5113553942"
+                },
+                {
+                    "name": "Michael J. Sollenberger",
+                    "id": "A5090944116"
+                },
+                {
+                    "name": "R Booth",
+                    "id": "A5109282635"
+                },
+                {
+                    "name": "Alan D. Rogol",
+                    "id": "A5028139163"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "ELISABETH C. CARLSEN",
+                    "id": "A5075947913"
+                },
+                {
+                    "name": "Michael L. Johnson",
+                    "id": "A5101704002"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5003698342"
+                }
+            ],
+            "venue": "Endocrine Reviews"
+        },
+        "W4247027611": {
+            "id": "W4247027611",
+            "title": "Contemporary Aspects of Discrete Peak-Detection Algorithms. I. The Paradigm of the Luteinizing Hormone Pulse Signal in Men*",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "William S. Evans",
+                    "id": "A5102733283"
+                },
+                {
+                    "name": "Alan D. Rogol",
+                    "id": "A5028139163"
+                },
+                {
+                    "name": "Donald L. Kaiser",
+                    "id": "A5108522858"
+                },
+                {
+                    "name": "Mark L. Johnson",
+                    "id": "A5111759161"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5003698342"
+                }
+            ],
+            "venue": "Endocrine Reviews"
+        },
+        "W2072258435": {
+            "id": "W2072258435",
+            "title": "Operating Characteristics of the Male Hypothalamo-Pituitary-Gonadal Axis: Pulsatile Release of Testosterone and Follicle-Stimulating Hormone and Their Temporal Coupling with Luteinizing Hormone*",
+            "year": 1987,
+            "authors": [
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5109239386"
+                },
+                {
+                    "name": "John C. King",
+                    "id": "A5108397326"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Alan D. Rogol",
+                    "id": "A5028139163"
+                },
+                {
+                    "name": "William S. Evans",
+                    "id": "A5102733283"
+                },
+                {
+                    "name": "Lisa A. Kolp",
+                    "id": "A5051555660"
+                },
+                {
+                    "name": "MICHAEL L. JOHNSON",
+                    "id": "A5111604167"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2127475498": {
+            "id": "W2127475498",
+            "title": "Short-Term Oxandrolone Administration Stimulates Net Muscle Protein Synthesis in Young Men1",
+            "year": 1999,
+            "authors": [
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Steven E. Wolf",
+                    "id": "A5041106533"
+                },
+                {
+                    "name": "Jie Jiang",
+                    "id": "A5061877876"
+                },
+                {
+                    "name": "Don H. Catlin",
+                    "id": "A5041585721"
+                },
+                {
+                    "name": "David N. Herndon",
+                    "id": "A5014429489"
+                },
+                {
+                    "name": "Robert R. Wolfe",
+                    "id": "A5060298854"
+                },
+                {
+                    "name": "Arny A. Ferrando",
+                    "id": "A5055903272"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2119084562": {
+            "id": "W2119084562",
+            "title": "Single and Combined Effects of Growth Hormone and Testosterone Administration on Measures of Body Composition, Physical Performance, Mood, Sexual Function, Bone Turnover, and Muscle Gene Expression in Healthy Older Men",
+            "year": 2002,
+            "authors": [
+                {
+                    "name": "Kimberly T. Brill",
+                    "id": "A5083520344"
+                },
+                {
+                    "name": "Arthur Weltman",
+                    "id": "A5047868387"
+                },
+                {
+                    "name": "Angela Gentili",
+                    "id": "A5077081887"
+                },
+                {
+                    "name": "James T. Patrie",
+                    "id": "A5012190278"
+                },
+                {
+                    "name": "David A. Fryburg",
+                    "id": "A5033782560"
+                },
+                {
+                    "name": "John B. Hanks",
+                    "id": "A5111556448"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5003698342"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W1971528602": {
+            "id": "W1971528602",
+            "title": "Attenuation of luteinizing hormone secretory burst amplitude as a proximate basis for the hypoandrogenism of healthy aging in men.",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "J. D. Veldhuis",
+                    "id": "A5113664308"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "GERMAN LIZARRALDE",
+                    "id": "A5056710046"
+                },
+                {
+                    "name": "Mark L. Johnson",
+                    "id": "A5111759161"
+                },
+                {
+                    "name": "A. Iranmanesh",
+                    "id": "A5111659270"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W1983379274": {
+            "id": "W1983379274",
+            "title": "An overview of the endocrinology of skeletal muscle",
+            "year": 2004,
+            "authors": [
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Trends in Endocrinology and Metabolism"
+        },
+        "W2185328935": {
+            "id": "W2185328935",
+            "title": "Comparison of GH, IGF-I, and testosterone with mRNA of receptors and myostatin in skeletal muscle in older men",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "T. J. Marcell",
+                    "id": "A5063394792"
+                },
+                {
+                    "name": "S. Mitchell Harman",
+                    "id": "A5079428284"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Daniel D. Metz",
+                    "id": "A5030599505"
+                },
+                {
+                    "name": "Buel D. Rodgers",
+                    "id": "A5042062669"
+                },
+                {
+                    "name": "Marc R. Blackman",
+                    "id": "A5109179819"
+                }
+            ],
+            "venue": "American Journal of Physiology-Endocrinology and Metabolism"
+        },
+        "W2116002543": {
+            "id": "W2116002543",
+            "title": "Amino acid metabolism and inflammatory burden in ovarian cancer patients undergoing intense oncological therapy",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Elena Volpi",
+                    "id": "A5014318990"
+                },
+                {
+                    "name": "Robert R. Wolfe",
+                    "id": "A5060298854"
+                },
+                {
+                    "name": "Sandeep Sinha",
+                    "id": "A5085145621"
+                },
+                {
+                    "name": "Arthur P. Sanford",
+                    "id": "A5114008366"
+                },
+                {
+                    "name": "Concepcion D. Arrastia",
+                    "id": "A5024538419"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Shanon Casperson",
+                    "id": "A5001857734"
+                },
+                {
+                    "name": "Douglas Paddon\u2010Jones",
+                    "id": "A5074476359"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "Clinical Nutrition"
+        },
+        "W2027362748": {
+            "id": "W2027362748",
+            "title": "Pathogenesis of muscle wasting in cancer cachexia: targeted anabolic and anticatabolic therapies",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Kimberlee A. Burckart",
+                    "id": "A5073865908"
+                },
+                {
+                    "name": "Sorin Beca",
+                    "id": "A5029103624"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "Current Opinion in Clinical Nutrition & Metabolic Care"
+        },
+        "W2086212974": {
+            "id": "W2086212974",
+            "title": "Androgen Therapy Induces Muscle Protein Anabolism in Older Women",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Douglas Paddon\u2010Jones",
+                    "id": "A5074476359"
+                },
+                {
+                    "name": "Shanon Casperson",
+                    "id": "A5001857734"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Elena Volpi",
+                    "id": "A5014318990"
+                },
+                {
+                    "name": "Steven E. Wolf",
+                    "id": "A5041106533"
+                },
+                {
+                    "name": "Jie Jiang",
+                    "id": "A5061877876"
+                },
+                {
+                    "name": "Judah Rosenblatt",
+                    "id": "A5113535562"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2229236042": {
+            "id": "W2229236042",
+            "title": "Screening and Monitoring in Men Prescribed Testosterone Therapy in the U.S., 2001\u20132010",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Yong\u2010Fang Kuo",
+                    "id": "A5046827767"
+                },
+                {
+                    "name": "Holly M. Holmes",
+                    "id": "A5086297574"
+                },
+                {
+                    "name": "Mukaila A. Raji",
+                    "id": "A5113920920"
+                },
+                {
+                    "name": "Abraham Morgentaler",
+                    "id": "A5069888995"
+                },
+                {
+                    "name": "Bret Howrey",
+                    "id": "A5058035417"
+                },
+                {
+                    "name": "Yu\u2010Li Lin",
+                    "id": "A5077859412"
+                },
+                {
+                    "name": "Kenneth J. Ottenbacher",
+                    "id": "A5059592671"
+                }
+            ],
+            "venue": "Public Health Reports"
+        },
+        "W2077751940": {
+            "id": "W2077751940",
+            "title": "Anterior hypopituitarism following traumatic brain injury",
+            "year": 2004,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Paul L. Harris",
+                    "id": "A5039525707"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                }
+            ],
+            "venue": "Brain Injury"
+        },
+        "W2890700999": {
+            "id": "W2890700999",
+            "title": "Testosterone replacement therapy and hospitalization rates in men with COPD",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Wei Zhang",
+                    "id": "A5100324997"
+                },
+                {
+                    "name": "Mohammed Fathi Zaiden",
+                    "id": "A5070666879"
+                },
+                {
+                    "name": "Zulqarnain Javed",
+                    "id": "A5080459985"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Yong\u2010Fang Kuo",
+                    "id": "A5046827767"
+                },
+                {
+                    "name": "Gulshan Sharma",
+                    "id": "A5085981490"
+                }
+            ],
+            "venue": "Chronic Respiratory Disease"
+        },
+        "W2058174948": {
+            "id": "W2058174948",
+            "title": "A Randomized Pilot Study of Monthly Cycled Testosterone Replacement or Continuous Testosterone Replacement<i>Versus</i>Placebo in Older Men",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Shanon Casperson",
+                    "id": "A5001857734"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Douglas Paddon\u2010Jones",
+                    "id": "A5074476359"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "James J. Grady",
+                    "id": "A5084984818"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W1965935098": {
+            "id": "W1965935098",
+            "title": "Troglitazone is a competitive inhibitor of 3\u03b2-hydroxysteroid dehydrogenase enzyme in the ovary",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "Slavisa Gasic",
+                    "id": "A5078192948"
+                },
+                {
+                    "name": "M. Nagamani",
+                    "id": "A5110217635"
+                },
+                {
+                    "name": "Allan Green",
+                    "id": "A5112090890"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "American Journal of Obstetrics and Gynecology"
+        },
+        "W2416181345": {
+            "id": "W2416181345",
+            "title": "Testosterone and Muscle Protein Metabolism",
+            "year": 2000,
+            "authors": [
+                {
+                    "name": "Robert Wolfe",
+                    "id": "A5037981078"
+                },
+                {
+                    "name": "Arny A. Ferrando",
+                    "id": "A5055903272"
+                },
+                {
+                    "name": "Melinda Sheffield-Moore",
+                    "id": "A5090751207"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Mayo Clinic Proceedings"
+        },
+        "W1977860582": {
+            "id": "W1977860582",
+            "title": "Growth Hormone and Testosterone: Anabolic Effects on Muscle",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Hormone Research in Paediatrics"
+        },
+        "W2533220367": {
+            "id": "W2533220367",
+            "title": "Functional Changes after Recombinant Human Growth Hormone Replacement in Patients with Chronic Traumatic Brain Injury and Abnormal Growth Hormone Secretion",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Kurt A. Mossberg",
+                    "id": "A5009106777"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Dennis J. Zgaljardic",
+                    "id": "A5003767186"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W2047592324": {
+            "id": "W2047592324",
+            "title": "Aerobic Capacity and Growth Hormone Deficiency after Traumatic Brain Injury",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "Kurt A. Mossberg",
+                    "id": "A5009106777"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2553618798": {
+            "id": "W2553618798",
+            "title": "Glucocorticoids increase skeletal muscle <scp>NF</scp>\u2010<i>\u03ba</i>B inducing kinase (<scp>NIK</scp>): links to muscle atrophy",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Christopher S. Fry",
+                    "id": "A5064501385"
+                },
+                {
+                    "name": "Syed Z. Nayeem",
+                    "id": "A5003684541"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Partha S. Sarkar",
+                    "id": "A5040794773"
+                },
+                {
+                    "name": "Batbayar Tumurbaatar",
+                    "id": "A5078973868"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Ronald G. Tilton",
+                    "id": "A5068799586"
+                },
+                {
+                    "name": "Sanjeev Choudhary",
+                    "id": "A5005402925"
+                }
+            ],
+            "venue": "Physiological Reports"
+        },
+        "W2993433278": {
+            "id": "W2993433278",
+            "title": "Growth Hormone Alters Brain Morphometry, Connectivity, and Behavior in Subjects with Fatigue after Mild Traumatic Brain Injury",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "William Durham",
+                    "id": "A5111133510"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Christof Karmonik",
+                    "id": "A5068635066"
+                },
+                {
+                    "name": "Dennis J. Zgaljardic",
+                    "id": "A5003767186"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "James H. Bishop",
+                    "id": "A5062935608"
+                },
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                },
+                {
+                    "name": "Rachael D. Seidler",
+                    "id": "A5026777353"
+                },
+                {
+                    "name": "Ashton Hierholzer",
+                    "id": "A5030411201"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W49129270": {
+            "id": "W49129270",
+            "title": "Translational studies in older men using testosterone to treat sarcopenia.",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Sanjeev Choudhary",
+                    "id": "A5005402925"
+                },
+                {
+                    "name": "Yan Zhao",
+                    "id": "A5009828453"
+                },
+                {
+                    "name": "Astrid M. Horstman",
+                    "id": "A5010064446"
+                },
+                {
+                    "name": "Ronald G. Tilton",
+                    "id": "A5068799586"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2096323238": {
+            "id": "W2096323238",
+            "title": "Identification of ERK and JNK as signaling mediators on protein kinase C activation in cultured granulosa cells",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "Venkataraman Sriraman",
+                    "id": "A5005024581"
+                },
+                {
+                    "name": "Swati R. Modi",
+                    "id": "A5004817397"
+                },
+                {
+                    "name": "Yvonne Bodenburg",
+                    "id": "A5080130039"
+                },
+                {
+                    "name": "Larry Denner",
+                    "id": "A5112341949"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Molecular and Cellular Endocrinology"
+        },
+        "W2086163647": {
+            "id": "W2086163647",
+            "title": "Neuropsychological and physiological correlates of fatigue following traumatic brain injury",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Dennis J. Zgaljardic",
+                    "id": "A5003767186"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Kurt A. Mossberg",
+                    "id": "A5009106777"
+                },
+                {
+                    "name": "Jack Foreman",
+                    "id": "A5011294828"
+                },
+                {
+                    "name": "Keta Joshipura",
+                    "id": "A5078005709"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "Brain Injury"
+        },
+        "W2080203410": {
+            "id": "W2080203410",
+            "title": "Effect of recombinant growth hormone replacement in a growth hormone deficient subject recovering from mild traumatic brain injury: A case report",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Vinita Bhagia",
+                    "id": "A5007599000"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "R. H. Fitts",
+                    "id": "A5026677714"
+                },
+                {
+                    "name": "Dennis J. Zgaljardic",
+                    "id": "A5003767186"
+                },
+                {
+                    "name": "Walter M. High",
+                    "id": "A5084936208"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Kurt A. Mossberg",
+                    "id": "A5009106777"
+                }
+            ],
+            "venue": "Brain Injury"
+        },
+        "W1838375727": {
+            "id": "W1838375727",
+            "title": "Chronic Endocrinopathies in Traumatic Brain Injury Disease",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W2027040814": {
+            "id": "W2027040814",
+            "title": "Hormone treatment and muscle anabolism during aging: Androgens",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "Clinical Nutrition"
+        },
+        "W1978187711": {
+            "id": "W1978187711",
+            "title": "Traumatic Brain Injury: Rehabilitative Treatment and Case Management",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Adam H. Maghrabi",
+                    "id": "A5035937257"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "David L. Ripley",
+                    "id": "A5114378318"
+                }
+            ],
+            "venue": "Medical Entomology and Zoology"
+        },
+        "W2119391156": {
+            "id": "W2119391156",
+            "title": "Serum IGF-1 concentrations in a sample of patients with traumatic brain injury as a diagnostic marker of growth hormone secretory response to glucagon stimulation testing",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Dennis J. Zgaljardic",
+                    "id": "A5003767186"
+                },
+                {
+                    "name": "Sreedevi Guttikonda",
+                    "id": "A5089535711"
+                },
+                {
+                    "name": "James J. Grady",
+                    "id": "A5084984818"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Kurt A. Mossberg",
+                    "id": "A5009106777"
+                },
+                {
+                    "name": "Walter M. High",
+                    "id": "A5084936208"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Clinical Endocrinology"
+        },
+        "W2356566903": {
+            "id": "W2356566903",
+            "title": "Hypoaminoacidemia Characterizes Chronic Traumatic Brain Injury",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Jack Foreman",
+                    "id": "A5011294828"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Heidi Spratt",
+                    "id": "A5050012500"
+                },
+                {
+                    "name": "Brian D. Masel",
+                    "id": "A5047767500"
+                },
+                {
+                    "name": "Jennifer R. Summons",
+                    "id": "A5016883814"
+                },
+                {
+                    "name": "Charan Singh",
+                    "id": "A5081211064"
+                },
+                {
+                    "name": "Melissa Morrison",
+                    "id": "A5057820773"
+                },
+                {
+                    "name": "Cl\u00e0udia Robles",
+                    "id": "A5001249310"
+                },
+                {
+                    "name": "Cindy Wolfram",
+                    "id": "A5068328373"
+                },
+                {
+                    "name": "Lisa A. Kreber",
+                    "id": "A5067785191"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W4287448188": {
+            "id": "W4287448188",
+            "title": "A consensus on optimization of care in patients with growth hormone deficiency and mild traumatic brain injury",
+            "year": 2022,
+            "authors": [
+                {
+                    "name": "Kevin C.J. Yuen",
+                    "id": "A5047720768"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Michael S. Jaffee",
+                    "id": "A5007465970"
+                },
+                {
+                    "name": "Gregory J. O\u2019Shanick",
+                    "id": "A5043158819"
+                },
+                {
+                    "name": "T Wexler",
+                    "id": "A5088831526"
+                },
+                {
+                    "name": "Kent Reifschneider",
+                    "id": "A5000034945"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Sophie Hoang",
+                    "id": "A5112502722"
+                },
+                {
+                    "name": "Nicky Kelepouris",
+                    "id": "A5091576358"
+                },
+                {
+                    "name": "Andrew R. Hoffman",
+                    "id": "A5008024833"
+                }
+            ],
+            "venue": "Growth Hormone & IGF Research"
+        },
+        "W2983303957": {
+            "id": "W2983303957",
+            "title": "A Treatable Syndrome in Patients with Traumatic Brain Injury",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Journal of Neurotrauma"
+        },
+        "W3028134213": {
+            "id": "W3028134213",
+            "title": "Exercise and Testosterone Countermeasures to Mitigate Metabolic Changes during Bed Rest",
+            "year": 2020,
+            "authors": [
+                {
+                    "name": "Meghan E. Downs",
+                    "id": "A5013627555"
+                },
+                {
+                    "name": "Jessica M. Scott",
+                    "id": "A5084402542"
+                },
+                {
+                    "name": "Lori L. Ploutz\u2010Snyder",
+                    "id": "A5019157653"
+                },
+                {
+                    "name": "Robert Ploutz\u2010Snyder",
+                    "id": "A5008461870"
+                },
+                {
+                    "name": "Elizabeth Goetchius",
+                    "id": "A5080607549"
+                },
+                {
+                    "name": "Roxanne Buxton",
+                    "id": "A5019889970"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                }
+            ],
+            "venue": "Life Sciences in Space Research"
+        },
+        "W4388802428": {
+            "id": "W4388802428",
+            "title": "Traumatic brain injury, abnormal growth hormone secretion, and gut dysbiosis",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "Peyton A. Armstrong",
+                    "id": "A5089527476"
+                },
+                {
+                    "name": "Navneet K. Venugopal",
+                    "id": "A5037381269"
+                },
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Richard D Batson",
+                    "id": "A5025311624"
+                },
+                {
+                    "name": "Kevin C.J. Yuen",
+                    "id": "A5047720768"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                }
+            ],
+            "venue": "Best Practice & Research Clinical Endocrinology & Metabolism"
+        },
+        "W4225140978": {
+            "id": "W4225140978",
+            "title": "Association of testosterone therapy with disease progression in older males with COVID\u201019",
+            "year": 2022,
+            "authors": [
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                },
+                {
+                    "name": "Yong\u2010Fang Kuo",
+                    "id": "A5046827767"
+                },
+                {
+                    "name": "Jordan Westra",
+                    "id": "A5025824989"
+                },
+                {
+                    "name": "David S. L\u00f3pez",
+                    "id": "A5073926506"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Stephen B. Williams",
+                    "id": "A5057298411"
+                },
+                {
+                    "name": "Mukaila A. Raji",
+                    "id": "A5113920920"
+                }
+            ],
+            "venue": "Andrology"
+        },
+        "W4387457470": {
+            "id": "W4387457470",
+            "title": "Low growth hormone secretion associated with post-acute sequelae SARS-CoV-2 infection (PASC) neurologic symptoms: A case-control pilot study",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Rachel Deer",
+                    "id": "A5002192313"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Kristen A. McGovern",
+                    "id": "A5033176401"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Weston W. Ward",
+                    "id": "A5029127133"
+                },
+                {
+                    "name": "J. Vargas",
+                    "id": "A5045092514"
+                },
+                {
+                    "name": "Peyton A. Armstrong",
+                    "id": "A5089527476"
+                },
+                {
+                    "name": "Sarah E. Lindsay",
+                    "id": "A5037430047"
+                },
+                {
+                    "name": "Mohammed Zaidan",
+                    "id": "A5066746983"
+                },
+                {
+                    "name": "Justin Seashore",
+                    "id": "A5111506548"
+                },
+                {
+                    "name": "T Wexler",
+                    "id": "A5088831526"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Molecular and Cellular Endocrinology"
+        },
+        "W2964786200": {
+            "id": "W2964786200",
+            "title": "Effects of adjunct testosterone on cardiac morphology and function in advanced cancers: an ancillary analysis of a randomized controlled trial",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Jessica M. Scott",
+                    "id": "A5084402542"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Michael P. Kinsky",
+                    "id": "A5017880752"
+                },
+                {
+                    "name": "Albert Chamberlain",
+                    "id": "A5029591789"
+                },
+                {
+                    "name": "Susan McCammon",
+                    "id": "A5077614613"
+                },
+                {
+                    "name": "Daniel C. Jupiter",
+                    "id": "A5074729675"
+                },
+                {
+                    "name": "Maurice Willis",
+                    "id": "A5018634940"
+                },
+                {
+                    "name": "Sandra Hatch",
+                    "id": "A5030080515"
+                },
+                {
+                    "name": "Gwyn Richardson",
+                    "id": "A5110255851"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "William Durham",
+                    "id": "A5111133510"
+                },
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "BMC Cancer"
+        },
+        "W2045801016": {
+            "id": "W2045801016",
+            "title": "What are critical outcome measures for patients receiving pituitary replacement following brain injury?",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "Sorin Beca",
+                    "id": "A5029103624"
+                },
+                {
+                    "name": "Walter M. High",
+                    "id": "A5084936208"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Kurt A. Mossberg",
+                    "id": "A5009106777"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Pituitary"
+        },
+        "W4393066545": {
+            "id": "W4393066545",
+            "title": "Prevalence of fatigue and cognitive impairment after traumatic brain injury",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Timothy R. Elliott",
+                    "id": "A5030270951"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "PLoS ONE"
+        },
+        "W4399817478": {
+            "id": "W4399817478",
+            "title": "Growth hormone treatment for neurologic symptoms of post\u2010acute sequelae of COVID\u201019",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Kristen A. McGovern",
+                    "id": "A5033176401"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Sarah E. Lindsay",
+                    "id": "A5037430047"
+                },
+                {
+                    "name": "Mohammed Zaidan",
+                    "id": "A5066746983"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Clinical and Translational Science"
+        },
+        "W4388802374": {
+            "id": "W4388802374",
+            "title": "Is there a role for growth hormone replacement in adults to control acute and post-acute COVID-19?",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "Navneet K. Venugopal",
+                    "id": "A5037381269"
+                },
+                {
+                    "name": "Peyton A. Armstrong",
+                    "id": "A5089527476"
+                },
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Richard D. Batson",
+                    "id": "A5060178079"
+                },
+                {
+                    "name": "Kevin C.J. Yuen",
+                    "id": "A5047720768"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Richard B. Pyles",
+                    "id": "A5077662103"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Best Practice & Research Clinical Endocrinology & Metabolism"
+        },
+        "W2078488883": {
+            "id": "W2078488883",
+            "title": "Pituitary dysfunction after traumatic brain injury: screening and hormone replacement",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Sreedevi Guttikonda",
+                    "id": "A5089535711"
+                },
+                {
+                    "name": "Sara Ahmadi",
+                    "id": "A5064055509"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Expert Review of Endocrinology & Metabolism"
+        },
+        "W4366830540": {
+            "id": "W4366830540",
+            "title": "341 The Impact of Critical Social Determinants of Health on Personal Medical Decisions: Analysis of Older Americans in All of Us",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "Suresh K. Bhavnani",
+                    "id": "A5076841533"
+                },
+                {
+                    "name": "Weibin Zhang",
+                    "id": "A5100448773"
+                },
+                {
+                    "name": "Daniel Bao",
+                    "id": "A5071726155"
+                },
+                {
+                    "name": "Yong\u2010Fang Kuo",
+                    "id": "A5046827767"
+                },
+                {
+                    "name": "Timothy Reistetter",
+                    "id": "A5015369125"
+                },
+                {
+                    "name": "Sandra S. Hatch",
+                    "id": "A5017187563"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Mukaila Raji",
+                    "id": "A5113801360"
+                },
+                {
+                    "name": "Brian Downer",
+                    "id": "A5013041963"
+                }
+            ],
+            "venue": "Journal of Clinical and Translational Science"
+        },
+        "W4411090443": {
+            "id": "W4411090443",
+            "title": "Outcomes of recombinant growth hormone therapy in the traumatic brain injury population: A scoping review",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Richard D Batson",
+                    "id": "A5025311624"
+                },
+                {
+                    "name": "Joshua Z. Goldenberg",
+                    "id": "A5054011306"
+                },
+                {
+                    "name": "Ryan S. Wexler",
+                    "id": "A5062841046"
+                },
+                {
+                    "name": "Traver J. Wright",
+                    "id": "A5075791816"
+                },
+                {
+                    "name": "Eddy Chua",
+                    "id": "A5076748842"
+                },
+                {
+                    "name": "Alexander Yuen",
+                    "id": "A5075315746"
+                },
+                {
+                    "name": "Michael Freeman",
+                    "id": "A5002937079"
+                },
+                {
+                    "name": "T Wexler",
+                    "id": "A5088831526"
+                },
+                {
+                    "name": "Walter M. High",
+                    "id": "A5084936208"
+                },
+                {
+                    "name": "Brent E. Masel",
+                    "id": "A5066115671"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Kevin C.J. Yuen",
+                    "id": "A5047720768"
+                }
+            ],
+            "venue": "Best Practice & Research Clinical Endocrinology & Metabolism"
+        },
+        "W2159101625": {
+            "id": "W2159101625",
+            "title": "<i>In Vivo</i>Biological Validation and Biophysical Modeling of the Sensitivity and Positive Accuracy of Endocrine Peak Detection. I. The LH Pulse Signal*",
+            "year": 1989,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Michael L. Johnson",
+                    "id": "A5101704002"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5003698342"
+                }
+            ],
+            "venue": "Endocrinology"
+        },
+        "W2075983421": {
+            "id": "W2075983421",
+            "title": "Troglitazone Inhibits Progesterone Production in Porcine Granulosa Cells**This work was supported by a grant from the Sankyo Corporation (to R.J.U. and A.G.) and NIH Grant RO1-CA45181 (to M.N.).",
+            "year": 1998,
+            "authors": [
+                {
+                    "name": "Slavisa Gasic",
+                    "id": "A5078192948"
+                },
+                {
+                    "name": "Yvonne Bodenburg",
+                    "id": "A5080130039"
+                },
+                {
+                    "name": "M. Nagamani",
+                    "id": "A5110217635"
+                },
+                {
+                    "name": "Allan Green",
+                    "id": "A5112090890"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Endocrinology"
+        },
+        "W2075186505": {
+            "id": "W2075186505",
+            "title": "Directed engineering of umbilical cord blood stem cells to produce C\u2010peptide and insulin",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Larry Denner",
+                    "id": "A5112341949"
+                },
+                {
+                    "name": "Yvonne Bodenburg",
+                    "id": "A5080130039"
+                },
+                {
+                    "name": "Junhan Zhao",
+                    "id": "A5114128116"
+                },
+                {
+                    "name": "Margaret Corbett Howe",
+                    "id": "A5089700422"
+                },
+                {
+                    "name": "J. Cappo",
+                    "id": "A5056661843"
+                },
+                {
+                    "name": "Ronald G. Tilton",
+                    "id": "A5068799586"
+                },
+                {
+                    "name": "John A. Copland",
+                    "id": "A5091514582"
+                },
+                {
+                    "name": "Nico Forraz",
+                    "id": "A5046282465"
+                },
+                {
+                    "name": "Colin McGuckin",
+                    "id": "A5085436818"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Cell Proliferation"
+        },
+        "W1977367668": {
+            "id": "W1977367668",
+            "title": "Polypyrimidine Tract-Binding Protein-Associated Splicing Factor Is a Negative Regulator of Transcriptional Activity of the Porcine P450scc Insulin-Like Growth Factor Response Element",
+            "year": 2000,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Yvonne Bodenburg",
+                    "id": "A5080130039"
+                },
+                {
+                    "name": "Alexander Kurosky",
+                    "id": "A5111571011"
+                },
+                {
+                    "name": "Thomas G. Wood",
+                    "id": "A5106512573"
+                },
+                {
+                    "name": "Slavisa Gasic",
+                    "id": "A5078192948"
+                }
+            ],
+            "venue": "Molecular Endocrinology"
+        },
+        "W2039565811": {
+            "id": "W2039565811",
+            "title": "Insulin-Like Growth Factor Type I Increases Concentrations of Messenger Ribonucleic Acid Encoding Cytochrome P450 Cholesterol Side-Chain Cleavage Enzyme in Primary Cultures of Porcine Granulosa Cells*",
+            "year": 1990,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "James C. Garmey",
+                    "id": "A5031832359"
+                },
+                {
+                    "name": "Margaret A. Shupnik",
+                    "id": "A5084642276"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5003698342"
+                }
+            ],
+            "venue": "Endocrinology"
+        },
+        "W2083626903": {
+            "id": "W2083626903",
+            "title": "The Catabolic Effects of Prolonged Inactivity and Acute Hypercortisolemia Are Offset by Dietary Supplementation",
+            "year": 2005,
+            "authors": [
+                {
+                    "name": "Douglas Paddon\u2010Jones",
+                    "id": "A5074476359"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Asle Aarsland",
+                    "id": "A5075773160"
+                },
+                {
+                    "name": "Robert R. Wolfe",
+                    "id": "A5060298854"
+                },
+                {
+                    "name": "Arny A. Ferrando",
+                    "id": "A5055903272"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2025241722": {
+            "id": "W2025241722",
+            "title": "Muscle protein metabolism responds similarly to exogenous amino acids in healthy younger and older adults during NO-induced hyperemia",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Shanon Casperson",
+                    "id": "A5001857734"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Elena Volpi",
+                    "id": "A5014318990"
+                },
+                {
+                    "name": "Masood Ahmad",
+                    "id": "A5101466141"
+                },
+                {
+                    "name": "Michael P. Kinsky",
+                    "id": "A5017880752"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "American Journal of Physiology-Regulatory, Integrative and Comparative Physiology"
+        },
+        "W2055263354": {
+            "id": "W2055263354",
+            "title": "Differential responses of biologically active luteinizing hormone secretion in older versus young men to interruption of androgen negative feedback.",
+            "year": 1994,
+            "authors": [
+                {
+                    "name": "Paula P. Veldhuis",
+                    "id": "A5061603193"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Maria Dufau",
+                    "id": "A5033924828"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2044137112": {
+            "id": "W2044137112",
+            "title": "Hypopituitarism after acute brain injury",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Growth Hormone & IGF Research"
+        },
+        "W2151297658": {
+            "id": "W2151297658",
+            "title": "Cancer cachexia and anabolic interventions: a case report",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Gurjot Basra",
+                    "id": "A5031500743"
+                },
+                {
+                    "name": "Astrid M. Horstman",
+                    "id": "A5010064446"
+                },
+                {
+                    "name": "Shanon Casperson",
+                    "id": "A5001857734"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Concepcion Diaz\u2010Arrastia",
+                    "id": "A5109242512"
+                },
+                {
+                    "name": "Lyuba Levine",
+                    "id": "A5110875856"
+                },
+                {
+                    "name": "Sandra S. Hatch",
+                    "id": "A5017187563"
+                },
+                {
+                    "name": "Maurice Willis",
+                    "id": "A5018634940"
+                },
+                {
+                    "name": "Gwyn Richardson",
+                    "id": "A5110255851"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "Journal of Cachexia Sarcopenia and Muscle"
+        },
+        "W1967452644": {
+            "id": "W1967452644",
+            "title": "Novel Noninvasive Breath Test Method for Screening Individuals at Risk for Diabetes",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Morteza Janghorbani",
+                    "id": "A5078018987"
+                },
+                {
+                    "name": "James A. Angel",
+                    "id": "A5034424546"
+                },
+                {
+                    "name": "Shanon Casperson",
+                    "id": "A5001857734"
+                },
+                {
+                    "name": "James J. Grady",
+                    "id": "A5084984818"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Elena Volpi",
+                    "id": "A5014318990"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "Diabetes Care"
+        },
+        "W1984302646": {
+            "id": "W1984302646",
+            "title": "Development of a novel protocol for isolation and purification of human granulosa cells",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Rebecca Chilvers",
+                    "id": "A5036126921"
+                },
+                {
+                    "name": "Yvonne Bodenburg",
+                    "id": "A5080130039"
+                },
+                {
+                    "name": "Larry Denner",
+                    "id": "A5112341949"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Journal of Assisted Reproduction and Genetics"
+        },
+        "W2020471695": {
+            "id": "W2020471695",
+            "title": "Weekly Versus Monthly Testosterone Administration on Fast and Slow Skeletal Muscle Fibers in Older Adult Males",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "R. H. Fitts",
+                    "id": "A5026677714"
+                },
+                {
+                    "name": "James R. Peters",
+                    "id": "A5010903957"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2142661035": {
+            "id": "W2142661035",
+            "title": "Identification of serum biomarkers for aging and anabolic response",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Camellia Banerjee",
+                    "id": "A5064898695"
+                },
+                {
+                    "name": "Jagadish Ulloor",
+                    "id": "A5059571637"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Qusai A. Dahodwala",
+                    "id": "A5090128925"
+                },
+                {
+                    "name": "Brittani Franklin",
+                    "id": "A5012762770"
+                },
+                {
+                    "name": "Thomas W. Storer",
+                    "id": "A5068496436"
+                },
+                {
+                    "name": "Paola Sebastiani",
+                    "id": "A5003627453"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Shalender Bhasin",
+                    "id": "A5071176339"
+                },
+                {
+                    "name": "Monty Montano",
+                    "id": "A5005213263"
+                }
+            ],
+            "venue": "Immunity & Ageing"
+        },
+        "W1560976911": {
+            "id": "W1560976911",
+            "title": "Noncompliance with medical treatment: pseudomalabsorption of levothyroxine.",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "Mohsen Eledrisi",
+                    "id": "A5026106545"
+                },
+                {
+                    "name": "Alexandria Szymajda",
+                    "id": "A5070206308"
+                },
+                {
+                    "name": "Mohammad Alshanti",
+                    "id": "A5072644762"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2029661067": {
+            "id": "W2029661067",
+            "title": "IGF-1 controls GLUT3 expression in muscle via the transcriptional factor Sp1",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "John A. Copland",
+                    "id": "A5091514582"
+                },
+                {
+                    "name": "Aaron W. Pardini",
+                    "id": "A5018041149"
+                },
+                {
+                    "name": "Thomas G. Wood",
+                    "id": "A5106512573"
+                },
+                {
+                    "name": "Deling Yin",
+                    "id": "A5082257904"
+                },
+                {
+                    "name": "Allan Green",
+                    "id": "A5041635820"
+                },
+                {
+                    "name": "Yvonne Bodenburg",
+                    "id": "A5080130039"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Charles Stuart",
+                    "id": "A5005633362"
+                }
+            ],
+            "venue": "Biochimica et Biophysica Acta (BBA) - Gene Structure and Expression"
+        },
+        "W2090852533": {
+            "id": "W2090852533",
+            "title": "Sex steroid receptors in skeletal differentiation and epithelial neoplasia: is tissue\u2010specific intervention possible?",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "John A. Copland",
+                    "id": "A5091514582"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Nina Koldzic\u2010Zivanovic",
+                    "id": "A5053499604"
+                },
+                {
+                    "name": "Sean Gentry",
+                    "id": "A5030741155"
+                },
+                {
+                    "name": "George \u0399. Lambrou",
+                    "id": "A5072379918"
+                },
+                {
+                    "name": "Fotini Tzortzatou\u2010Stathopoulou",
+                    "id": "A5069420342"
+                },
+                {
+                    "name": "Vassilis Zoumpourlis",
+                    "id": "A5020964577"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Spiros Vlahopoulos",
+                    "id": "A5071471828"
+                }
+            ],
+            "venue": "BioEssays"
+        },
+        "W2328465796": {
+            "id": "W2328465796",
+            "title": "Neuroendocrine consequences of traumatic brain injury",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Alejandro Munoz",
+                    "id": "A5052425684"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Current Opinion in Endocrinology Diabetes and Obesity"
+        },
+        "W2797479550": {
+            "id": "W2797479550",
+            "title": "Efficacy of Testosterone plus NASA Exercise Countermeasures during Head-Down Bed Rest",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Lori L. Ploutz\u2010Snyder",
+                    "id": "A5019157653"
+                },
+                {
+                    "name": "Jeffrey W. Ryder",
+                    "id": "A5041589315"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Medicine & Science in Sports & Exercise"
+        },
+        "W2969992503": {
+            "id": "W2969992503",
+            "title": "Opioid-Induced Hypogonadism in the United States",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Jacques Baillargeon",
+                    "id": "A5033007086"
+                },
+                {
+                    "name": "Mukaila Raji",
+                    "id": "A5010248913"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "David S. L\u00f3pez",
+                    "id": "A5073926506"
+                },
+                {
+                    "name": "Stephen B. Williams",
+                    "id": "A5057298411"
+                },
+                {
+                    "name": "Jordan Westra",
+                    "id": "A5025824989"
+                },
+                {
+                    "name": "Yong\u2010Fang Kuo",
+                    "id": "A5046827767"
+                }
+            ],
+            "venue": "Mayo Clinic Proceedings Innovations Quality & Outcomes"
+        },
+        "W2794208528": {
+            "id": "W2794208528",
+            "title": "Efficacy of Exercise and Testosterone to Mitigate Atrophic Cardiovascular Remodeling",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Jessica M. Scott",
+                    "id": "A5084402542"
+                },
+                {
+                    "name": "David S. Martin",
+                    "id": "A5103158450"
+                },
+                {
+                    "name": "Robert Ploutz\u2010Snyder",
+                    "id": "A5008461870"
+                },
+                {
+                    "name": "Meghan E. Downs",
+                    "id": "A5013627555"
+                },
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Lori L. Ploutz\u2010Snyder",
+                    "id": "A5019157653"
+                }
+            ],
+            "venue": "Medicine & Science in Sports & Exercise"
+        },
+        "W2949372319": {
+            "id": "W2949372319",
+            "title": "Proteomic investigation of human skeletal muscle before and after 70 days of head down bed rest with or without exercise and testosterone countermeasures",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "E. Lichar Dillon",
+                    "id": "A5020268611"
+                },
+                {
+                    "name": "Kizhake V. Soman",
+                    "id": "A5006258797"
+                },
+                {
+                    "name": "John E. Wiktorowicz",
+                    "id": "A5021280019"
+                },
+                {
+                    "name": "Ria Sur",
+                    "id": "A5055013039"
+                },
+                {
+                    "name": "Daniel C. Jupiter",
+                    "id": "A5074729675"
+                },
+                {
+                    "name": "Christopher P. Danesi",
+                    "id": "A5040280848"
+                },
+                {
+                    "name": "Kathleen M. Randolph",
+                    "id": "A5007454087"
+                },
+                {
+                    "name": "Charles R. Gilkison",
+                    "id": "A5031685239"
+                },
+                {
+                    "name": "William J. Durham",
+                    "id": "A5110028583"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Melinda Sheffield\u2010Moore",
+                    "id": "A5059467218"
+                }
+            ],
+            "venue": "PLoS ONE"
+        },
+        "W2146665323": {
+            "id": "W2146665323",
+            "title": "Insulin-Like Growth Factor-I Activates Extracellularly Regulated Kinase to Regulate the P450 Side-Chain Cleavage Insulin-Like Response Element in Granulosa Cells",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Larry Denner",
+                    "id": "A5112341949"
+                },
+                {
+                    "name": "Yvonne Bodenburg",
+                    "id": "A5080130039"
+                },
+                {
+                    "name": "Jie Jiang",
+                    "id": "A5061877876"
+                },
+                {
+                    "name": "Gilles Pag\u00e8s",
+                    "id": "A5090083053"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                }
+            ],
+            "venue": "Endocrinology"
+        },
+        "W2118631832": {
+            "id": "W2118631832",
+            "title": "Evidence for attenuation of hypothalamic gonadotropin-releasing hormone (GnRH) impulse strength with preservation of GnRH pulse frequency in men with chronic renal failure.",
+            "year": 1993,
+            "authors": [
+                {
+                    "name": "J. D. Veldhuis",
+                    "id": "A5113664308"
+                },
+                {
+                    "name": "Michael J. Wilkowski",
+                    "id": "A5065193060"
+                },
+                {
+                    "name": "Alexander D. Zwart",
+                    "id": "A5036312428"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "GERMAN LIZARRALDE",
+                    "id": "A5056710046"
+                },
+                {
+                    "name": "A. Iranmanesh",
+                    "id": "A5111659270"
+                },
+                {
+                    "name": "W. Kline Bolton",
+                    "id": "A5026445443"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2029547778": {
+            "id": "W2029547778",
+            "title": "Pulsatile secretion of parathyroid hormone in normal young subjects: assessment by deconvolution analysis.",
+            "year": 1993,
+            "authors": [
+                {
+                    "name": "Mary H. Samuels",
+                    "id": "A5002041230"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5003698342"
+                },
+                {
+                    "name": "C. Cawley",
+                    "id": "A5047505338"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "M Luther",
+                    "id": "A5111056359"
+                },
+                {
+                    "name": "Richard L. Bauer",
+                    "id": "A5039104775"
+                },
+                {
+                    "name": "Gregory R. Mundy",
+                    "id": "A5110026446"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2050203654": {
+            "id": "W2050203654",
+            "title": "A selective serotonin reuptake inhibitor, fluoxetine hydrochloride, modulates the pulsatile release of prolactin in postmenopausal women",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5113561400"
+                }
+            ],
+            "venue": "American Journal of Obstetrics and Gynecology"
+        },
+        "W2042933138": {
+            "id": "W2042933138",
+            "title": "Follicle-Stimulating Hormone Increases Concentrations of Messenger Ribonucleic Acid Encoding Cytochrome P450 Cholesterol Side-Chain Cleavage Enzyme in Primary Cultures of Porcine Granulosa Cells*",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "James C. Garmey",
+                    "id": "A5031832359"
+                },
+                {
+                    "name": "Margaret A. Shupnik",
+                    "id": "A5084642276"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5003698342"
+                }
+            ],
+            "venue": "Endocrinology"
+        },
+        "W2115392872": {
+            "id": "W2115392872",
+            "title": "Calcium Ions Positively Modulate Follicle-Stimulating Hormone- and Exogenous Cyclic 3\u2032,5\u2032-Adenosine Monophosphate-Driven Transcription of the P450scc Gene in Porcine Granulosa Cells*",
+            "year": 2000,
+            "authors": [
+                {
+                    "name": "Friederike L. Jayes",
+                    "id": "A5034436925"
+                },
+                {
+                    "name": "Richard N. Day",
+                    "id": "A5041748417"
+                },
+                {
+                    "name": "James C. Garmey",
+                    "id": "A5031832359"
+                },
+                {
+                    "name": "Randall J. Urban",
+                    "id": "A5048481221"
+                },
+                {
+                    "name": "G. Zhang",
+                    "id": "A5075414926"
+                },
+                {
+                    "name": "Johannes D. Veldhuis",
+                    "id": "A5003698342"
+                }
+            ],
+            "venue": "Endocrinology"
+        },
+        "W4393899956": {
+            "id": "W4393899956",
+            "title": "285 \u201cStages\u201d of Hope: Theater as a Research and Outreach Modality for Generating Knowledge, Understanding, and Healing",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Sharon Croisant",
+                    "id": "A5110058218"
+                },
+                {
+                    "name": "Krista Bohn",
+                    "id": "A5003626398"
+                },
+                {
+                    "name": "Leslie Gauna",
+                    "id": "A5053008540"
+                },
+                {
+                    "name": "Lance Hallberg",
+                    "id": "A5040337157"
+                },
+                {
+                    "name": "C. Claire Hallmark",
+                    "id": "A5004587526"
+                },
+                {
+                    "name": "Adrian Juarez",
+                    "id": "A5111161502"
+                },
+                {
+                    "name": "Monique R. Pappadis",
+                    "id": "A5029177578"
+                },
+                {
+                    "name": "Emma Tumilty",
+                    "id": "A5002049095"
+                },
+                {
+                    "name": "Ramiro Salas",
+                    "id": "A5081592596"
+                },
+                {
+                    "name": "Randall M. Urban",
+                    "id": "A5104270394"
+                }
+            ],
+            "venue": "Journal of Clinical and Translational Science"
+        }
+    }
+}

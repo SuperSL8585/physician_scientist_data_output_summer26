@@ -1,0 +1,69 @@
+{
+    "author_name": {
+        "name": "Orlando Gutierrez",
+        "clusters_count": 3
+    },
+    "author_data": {
+        "A5112172312": {
+            "gold_id/master_key": "Orlando_Gutierrez_1",
+            "ids": [
+                "A5112172312"
+            ],
+            "name": "Orlando C. Gutierrez",
+            "name_first": "Orlando",
+            "name_middle": "C.",
+            "name_last": "Gutierrez",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 5,
+            "works": [
+                "W1996781741",
+                "W1977426949",
+                "W2004192597",
+                "W2423712975",
+                "W3092609179"
+            ]
+        },
+        "A5105266882": {
+            "gold_id/master_key": "Orlando_Gutierrez_2",
+            "ids": [
+                "A5105266882"
+            ],
+            "name": "Orlando M Gutierrez",
+            "name_first": "Orlando",
+            "name_middle": "M",
+            "name_last": "Gutierrez",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": [
+                "W4395080502"
+            ]
+        },
+        "A5124546300": {
+            "gold_id/master_key": "Orlando_Gutierrez_3",
+            "ids": [
+                "A5124546300"
+            ],
+            "name": "Orlando Norberto Farias Gutierrez",
+            "name_first": "Orlando",
+            "name_middle": "Norberto Farias",
+            "name_last": "Gutierrez",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": [
+                "W7126938532"
+            ]
+        }
+    }
+}

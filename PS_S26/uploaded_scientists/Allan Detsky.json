@@ -1,0 +1,159 @@
+{
+    "author_name": {
+        "name": "Allan Detsky",
+        "clusters_count": 1
+    },
+    "author_data": {
+        "A5012295293": {
+            "gold_id/master_key": "allan_detsky_1",
+            "ids": [
+                "A5012295293"
+            ],
+            "name": "Allan S. Detsky",
+            "name_first": "Allan",
+            "name_middle": "S.",
+            "name_last": "Detsky",
+            "field": null,
+            "fields": [
+                "Health Care",
+                "Medicine",
+                "Economics"
+            ],
+            "email": "Allan.Detsky@sinaihealthsystem.ca",
+            "linkedin": null,
+            "socials": [],
+            "works_count": 391,
+            "works": [
+                "W2082302018",
+                "W1859092351",
+                "W2073968460"
+            ]
+        }
+    },
+    "works_data": {
+        "W2082302018": {
+            "id": "W2082302018",
+            "title": "The Inevitable Application of Big Data to Health Care",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Travis B. Murdoch",
+                    "id": "A5106235226"
+                },
+                {
+                    "name": "Allan S. Detsky",
+                    "id": "A5012295293"
+                }
+            ],
+            "venue": "JAMA"
+        },
+        "W1859092351": {
+            "id": "W1859092351",
+            "title": "How attractive does a new technology have to be to warrant adoption and utilization? Tentative guidelines for using clinical and economic evaluations.",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "A. Laupacis",
+                    "id": "A5111992882"
+                },
+                {
+                    "name": "David Feeny",
+                    "id": "A5035248555"
+                },
+                {
+                    "name": "Allan S. Detsky",
+                    "id": "A5012295293"
+                },
+                {
+                    "name": "Peter Tugwell",
+                    "id": "A5022067453"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2073968460": {
+            "id": "W2073968460",
+            "title": "Nutritional Assessment",
+            "year": 1982,
+            "authors": [
+                {
+                    "name": "Jeffrey P. Baker",
+                    "id": "A5110031157"
+                },
+                {
+                    "name": "Allan S. Detsky",
+                    "id": "A5012295293"
+                },
+                {
+                    "name": "David E. Wesson",
+                    "id": "A5007024764"
+                },
+                {
+                    "name": "Stephen L. Wolman",
+                    "id": "A5109042217"
+                },
+                {
+                    "name": "Sandra Stewart",
+                    "id": "A5103590796"
+                },
+                {
+                    "name": "Jocelyn Whitewell",
+                    "id": "A5043635087"
+                },
+                {
+                    "name": "Bernard Langer",
+                    "id": "A5111877019"
+                },
+                {
+                    "name": "Khursheed N. Jeejeebhoy",
+                    "id": "A5110881573"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W2004733889": {
+            "id": "W2004733889",
+            "title": "My Father's Voice",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "Allan S. Detsky",
+                    "id": "A5111629088"
+                }
+            ],
+            "venue": "JAMA"
+        },
+        "W2750226081": {
+            "id": "W2750226081",
+            "title": "Untitled publication",
+            "year": 1980,
+            "authors": [
+                {
+                    "name": "Allan S. Detsky",
+                    "id": "A5111629088"
+                }
+            ],
+            "venue": "Social Science & Medicine Part A Medical Sociology"
+        },
+        "W4410764328": {
+            "id": "W4410764328",
+            "title": "Defying gravity or failing to launch?",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Allan S Detsky",
+                    "id": "A5117709009"
+                },
+                {
+                    "name": "Samuel C. Gutekunst",
+                    "id": "A5044065045"
+                },
+                {
+                    "name": "Christopher Kopac",
+                    "id": "A5117709010"
+                }
+            ],
+            "venue": "Significance"
+        }
+    }
+}

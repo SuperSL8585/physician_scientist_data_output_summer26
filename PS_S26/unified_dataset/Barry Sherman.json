@@ -1,0 +1,2567 @@
+{
+    "author_name": {
+        "name": "Barry Sherman",
+        "clusters_count": 3
+    },
+    "author_data": {
+        "A5111585354": {
+            "gold_id/master_key": "barry_sherman_1",
+            "ids": [
+                "A5111585354"
+            ],
+            "name": "Barry M. Sherman",
+            "name_first": "Barry",
+            "name_middle": "M.",
+            "name_last": "Sherman",
+            "field": null,
+            "fields": [
+                "Endocrinology",
+                "Reproductive Biology"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 121,
+            "works": [
+                "W2111429259",
+                "W2166196669",
+                "W1987502538",
+                "W1958159155",
+                "W2145469049",
+                "W2109637259",
+                "W2054548024",
+                "W1983706883",
+                "W2058975208",
+                "W1972213198",
+                "W1499643285",
+                "W2343141906",
+                "W2014990405",
+                "W2031477801",
+                "W2044385295",
+                "W2148285186",
+                "W2075693449",
+                "W2101994739",
+                "W2093677261",
+                "W2077700473",
+                "W1983481453",
+                "W2131223501",
+                "W2079710799",
+                "W2042740009",
+                "W2124269158",
+                "W2058338892",
+                "W2340291575",
+                "W2297256947",
+                "W2030820876",
+                "W2155134500",
+                "W2063185826",
+                "W2065879561",
+                "W1976203756",
+                "W2033851921",
+                "W2170960412",
+                "W2137666490",
+                "W115044886",
+                "W2007040674",
+                "W1972016132",
+                "W2337334425",
+                "W2029671510",
+                "W1963855856",
+                "W2004313785",
+                "W2123568197",
+                "W1583199041",
+                "W2138306015",
+                "W2148853126",
+                "W2313883860",
+                "W1643378484",
+                "W2116570443",
+                "W2044495110",
+                "W2057389667",
+                "W2267546867",
+                "W1996209049",
+                "W1988885714",
+                "W2022447306",
+                "W2092219783",
+                "W2097482261",
+                "W1992636253",
+                "W1979887033",
+                "W584169164",
+                "W2229602416",
+                "W2115948507",
+                "W2019969085",
+                "W2086022330",
+                "W1969541007",
+                "W2080745754",
+                "W1982480866",
+                "W2039449463",
+                "W2043662798",
+                "W2397396714"
+            ]
+        },
+        "A5039555087": {
+            "gold_id/master_key": "barry_sherman_2",
+            "ids": [
+                "A5039555087"
+            ],
+            "name": "Barry W. Sherman",
+            "name_first": "Barry",
+            "name_middle": "W.",
+            "name_last": "Sherman",
+            "field": null,
+            "fields": [
+                "Education",
+                "Development"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 3,
+            "works": [
+                "W651496036",
+                "W214795331",
+                "W288560528"
+            ]
+        },
+        "A5000925945": {
+            "gold_id/master_key": "barry_sherman_3",
+            "ids": [
+                "A5000925945"
+            ],
+            "name": "Barry L. Sherman",
+            "name_first": "Barry",
+            "name_middle": "L.",
+            "name_last": "Sherman",
+            "field": null,
+            "fields": [
+                "Communication",
+                "Policy",
+                "Media",
+                "Gender Studies"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 12,
+            "works": [
+                "W2096157368",
+                "W1911823069"
+            ]
+        }
+    },
+    "works_data": {
+        "W2111429259": {
+            "id": "W2111429259",
+            "title": "Iniparib plus Chemotherapy in Metastatic Triple-Negative Breast Cancer",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Joyce O\u2019Shaughnessy",
+                    "id": "A5041912334"
+                },
+                {
+                    "name": "Cynthia Osborne",
+                    "id": "A5114156432"
+                },
+                {
+                    "name": "John Pippen",
+                    "id": "A5010188774"
+                },
+                {
+                    "name": "M. Yoffe",
+                    "id": "A5011777605"
+                },
+                {
+                    "name": "Debra A. Patt",
+                    "id": "A5088119887"
+                },
+                {
+                    "name": "C L Rocha",
+                    "id": "A5011680737"
+                },
+                {
+                    "name": "Ingrid Chou Koo",
+                    "id": "A5048905496"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "C. R. Bradley",
+                    "id": "A5001553294"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W2166196669": {
+            "id": "W2166196669",
+            "title": "Hormonal characteristics of the human menstrual cycle throughout reproductive life.",
+            "year": 1975,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Stanley G. Korenman",
+                    "id": "A5031354188"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W1987502538": {
+            "id": "W1987502538",
+            "title": "The Menopausal Transition: Analysis of LH, FSH, Estradiol, and Progesterone Concentrations During Menstrual Cycles of Older Women",
+            "year": 1976,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Joanne H. West",
+                    "id": "A5017789147"
+                },
+                {
+                    "name": "Stanley G. Korenman",
+                    "id": "A5031354188"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W1958159155": {
+            "id": "W1958159155",
+            "title": "VARIATIONS IN THE REPORTING OF MENSTRUAL HISTORIES",
+            "year": 1979,
+            "authors": [
+                {
+                    "name": "Judy A. Bean",
+                    "id": "A5111449805"
+                },
+                {
+                    "name": "James D. Leeper",
+                    "id": "A5075564650"
+                },
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "H Jagger",
+                    "id": "A5032626743"
+                }
+            ],
+            "venue": "American Journal of Epidemiology"
+        },
+        "W2145469049": {
+            "id": "W2145469049",
+            "title": "Upregulation of Poly (ADP-Ribose) Polymerase-1 (PARP1) in Triple-Negative Breast Cancer and Other Primary Human Tumor Types",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Valeria Ossovskaya",
+                    "id": "A5088751118"
+                },
+                {
+                    "name": "Ingrid Chou Koo",
+                    "id": "A5048905496"
+                },
+                {
+                    "name": "Eric Kaldjian",
+                    "id": "A5010999026"
+                },
+                {
+                    "name": "C. Alvares",
+                    "id": "A5014421761"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Genes & Cancer"
+        },
+        "W2109637259": {
+            "id": "W2109637259",
+            "title": "Long Term Follow-Up of Women with Surgically Treated Prolactin-Secreting Pituitary Tumors*",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Janet Schlechte",
+                    "id": "A5028434645"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "F K Chapler",
+                    "id": "A5109276639"
+                },
+                {
+                    "name": "John C. VanGilder",
+                    "id": "A5067762800"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2054548024": {
+            "id": "W2054548024",
+            "title": "Effects of Short Term Administration of Recombinant Human Growth Hormone to Elderly People*",
+            "year": 1990,
+            "authors": [
+                {
+                    "name": "Robert Marcus",
+                    "id": "A5049045696"
+                },
+                {
+                    "name": "G. E. Butterfield",
+                    "id": "A5109205965"
+                },
+                {
+                    "name": "Leah Holloway",
+                    "id": "A5015296880"
+                },
+                {
+                    "name": "LINDA GILLILAND",
+                    "id": "A5110104781"
+                },
+                {
+                    "name": "David J. Baylink",
+                    "id": "A5024383216"
+                },
+                {
+                    "name": "Raymond L. Hintz",
+                    "id": "A5110186924"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W1983706883": {
+            "id": "W1983706883",
+            "title": "Age-Related Changes in the Circadian Rhythm of Plasma Cortisol in Man*",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "WYSHAM WYSHAM",
+                    "id": "A5098063507"
+                },
+                {
+                    "name": "BRUCE PFOH",
+                    "id": "A5114951961"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2058975208": {
+            "id": "W2058975208",
+            "title": "Measurement of Serum LH, FSH, Estradiol and Progesterone in Disorders of the Human Menstrual Cycle: The Inadequate Luteal Phase",
+            "year": 1974,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Stanley G. Korenman",
+                    "id": "A5031354188"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W1972213198": {
+            "id": "W1972213198",
+            "title": "Evidence for partial growth hormone insensitivity among patients with idiopathic short stature",
+            "year": 1995,
+            "authors": [
+                {
+                    "name": "Kenneth M. Attie",
+                    "id": "A5051400084"
+                },
+                {
+                    "name": "Lena Carlsson",
+                    "id": "A5056446861"
+                },
+                {
+                    "name": "Amy Chen Rundle",
+                    "id": "A5114003652"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Pediatrics"
+        },
+        "W1499643285": {
+            "id": "W1499643285",
+            "title": "Probability of menopause with increasing duration of amenorrhea in middle-aged women",
+            "year": 1979,
+            "authors": [
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Judy A. Bean",
+                    "id": "A5111449805"
+                },
+                {
+                    "name": "Alan E. Treloar",
+                    "id": "A5110062253"
+                },
+                {
+                    "name": "L. Schlabaugh",
+                    "id": "A5037860855"
+                }
+            ],
+            "venue": "American Journal of Obstetrics and Gynecology"
+        },
+        "W2343141906": {
+            "id": "W2343141906",
+            "title": "A phase IB study evaluating BSI-201 in combination with chemotherapy in subjects with advanced solid tumors",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "J. J. Mahany",
+                    "id": "A5057204740"
+                },
+                {
+                    "name": "N. Lewis",
+                    "id": "A5011600252"
+                },
+                {
+                    "name": "Elisabeth I. Heath",
+                    "id": "A5000198604"
+                },
+                {
+                    "name": "Patricia LoRusso",
+                    "id": "A5064953304"
+                },
+                {
+                    "name": "Monica Mita",
+                    "id": "A5109341340"
+                },
+                {
+                    "name": "Jordi Rod\u00f3n",
+                    "id": "A5031165814"
+                },
+                {
+                    "name": "A. W. Tolcher",
+                    "id": "A5040603366"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "C. R. Bradley",
+                    "id": "A5001553294"
+                },
+                {
+                    "name": "Kyriakos P. Papadopoulos",
+                    "id": "A5022467575"
+                }
+            ],
+            "venue": "Journal of Clinical Oncology"
+        },
+        "W2014990405": {
+            "id": "W2014990405",
+            "title": "A Comparison of Adrenal Cortical Function in Patients with Depressive Illness and Cushing&amp;rsquo;s Disease",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Janet Schlechte",
+                    "id": "A5028434645"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Bruce Pfohl",
+                    "id": "A5056467103"
+                }
+            ],
+            "venue": "Hormone Research"
+        },
+        "W2031477801": {
+            "id": "W2031477801",
+            "title": "The menopausal transition: endocrinological and epidemiological considerations",
+            "year": 1979,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                },
+                {
+                    "name": "Alan E. Treloar",
+                    "id": "A5110062253"
+                }
+            ],
+            "venue": "Journal of Biosocial Science"
+        },
+        "W2044385295": {
+            "id": "W2044385295",
+            "title": "ESTRADIOL RADIOIMMUNOASSAY WITHOUT CHROMATOGRAPHY: PROCEDURE, VALIDATION AND NORMAL VALUES",
+            "year": 1974,
+            "authors": [
+                {
+                    "name": "Stanley G. Korenman",
+                    "id": "A5031354188"
+                },
+                {
+                    "name": "Reggie H. Stevens",
+                    "id": "A5104387192"
+                },
+                {
+                    "name": "Leslie Ann Carpenter",
+                    "id": "A5080041386"
+                },
+                {
+                    "name": "Marianne Robb",
+                    "id": "A5001065863"
+                },
+                {
+                    "name": "G. D. Niswender",
+                    "id": "A5112248364"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2148285186": {
+            "id": "W2148285186",
+            "title": "Bone Density in Amenorrheic Women with and without Hyperprolactinemia*",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "Janet Schlechte",
+                    "id": "A5028434645"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Robert K. Martin",
+                    "id": "A5104091603"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2075693449": {
+            "id": "W2075693449",
+            "title": "Measurement of Plasma LH, FSH, Estradiol and Progesterone in Disorders of the Human Menstrual Cycle: The Short Luteal Phase",
+            "year": 1974,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Stanley G. Korenman",
+                    "id": "A5031354188"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2101994739": {
+            "id": "W2101994739",
+            "title": "Relationship of Body Weight to Menarcheal and Menopausal Age: Implications for Breast Cancer Risk*",
+            "year": 1981,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                },
+                {
+                    "name": "Judy A. Bean",
+                    "id": "A5111449805"
+                },
+                {
+                    "name": "L. Schlabaugh",
+                    "id": "A5037860855"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2093677261": {
+            "id": "W2093677261",
+            "title": "Endocrine Consequences of Continuous Antiestrogen Therapy with Tamoxifen in Premenopausal Women",
+            "year": 1979,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Frederick K. Chapler",
+                    "id": "A5109093228"
+                },
+                {
+                    "name": "Kent Crickard",
+                    "id": "A5088607152"
+                },
+                {
+                    "name": "Dorothy Wycoff",
+                    "id": "A5082073162"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W2077700473": {
+            "id": "W2077700473",
+            "title": "Regulation of the glucocorticoid receptor in human lymphocytes",
+            "year": 1982,
+            "authors": [
+                {
+                    "name": "Janet Schlechte",
+                    "id": "A5028434645"
+                },
+                {
+                    "name": "Barry H. Ginsberg",
+                    "id": "A5018129833"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Journal of Steroid Biochemistry"
+        },
+        "W1983481453": {
+            "id": "W1983481453",
+            "title": "Prolactin-Secreting Pituitary Tumors in Amenorrheic Women: A Comprehensive Study*",
+            "year": 1980,
+            "authors": [
+                {
+                    "name": "Janet Schlechte",
+                    "id": "A5028434645"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "N. S. Halmi",
+                    "id": "A5109010645"
+                },
+                {
+                    "name": "John C. VanGilder",
+                    "id": "A5067762800"
+                },
+                {
+                    "name": "Frederick K. Chapler",
+                    "id": "A5109093228"
+                },
+                {
+                    "name": "Kenneth D. Dolan",
+                    "id": "A5040411417"
+                },
+                {
+                    "name": "Daryl K. Granner",
+                    "id": "A5111944602"
+                },
+                {
+                    "name": "THERESA M. DUELLO",
+                    "id": "A5065899392"
+                },
+                {
+                    "name": "Curtis E. Harris",
+                    "id": "A5060893700"
+                }
+            ],
+            "venue": "Endocrine Reviews"
+        },
+        "W2131223501": {
+            "id": "W2131223501",
+            "title": "The Acute Effects of Human Growth Hormone Administration on Thyroid Function in Normal Men*",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "Carl Gr\u00fcnfeld",
+                    "id": "A5048434963"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Ralph R. Cavalieri",
+                    "id": "A5113803834"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2079710799": {
+            "id": "W2079710799",
+            "title": "Growth hormone treatment in the United States: Demographic and diagnostic features of 2331 children",
+            "year": 1990,
+            "authors": [
+                {
+                    "name": "Gilbert P. August",
+                    "id": "A5085588501"
+                },
+                {
+                    "name": "Barbara M. Lippe",
+                    "id": "A5111958683"
+                },
+                {
+                    "name": "Sandra L. Blethen",
+                    "id": "A5081241927"
+                },
+                {
+                    "name": "Ron G. Rosenfeld",
+                    "id": "A5001402556"
+                },
+                {
+                    "name": "Steven Seelig",
+                    "id": "A5023265294"
+                },
+                {
+                    "name": "Ann J. Johanson",
+                    "id": "A5110155521"
+                },
+                {
+                    "name": "Peter G. Compton",
+                    "id": "A5108200513"
+                },
+                {
+                    "name": "James W. Frane",
+                    "id": "A5026311248"
+                },
+                {
+                    "name": "Barbara H. McClellan",
+                    "id": "A5054406153"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Pediatrics"
+        },
+        "W2042740009": {
+            "id": "W2042740009",
+            "title": "Differences in plasma ACTH and cortisol between depressed patients and normal controls",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Bruce Pfohl",
+                    "id": "A5056467103"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Janet Schlechte",
+                    "id": "A5028434645"
+                },
+                {
+                    "name": "George Winokur",
+                    "id": "A5017392571"
+                }
+            ],
+            "venue": "Biological Psychiatry"
+        },
+        "W2124269158": {
+            "id": "W2124269158",
+            "title": "Glucose Intolerance with Hypokalemia: An Increased Proportion of Circulating Proinsulin-like Component",
+            "year": 1972,
+            "authors": [
+                {
+                    "name": "Phillip G\u00f6rden",
+                    "id": "A5070064147"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Artemis P. Simopoulos",
+                    "id": "A5109924385"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2058338892": {
+            "id": "W2058338892",
+            "title": "Recombinant human growth hormone treatment of children following renal transplantation",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "Richard \u039d. Fine",
+                    "id": "A5110246236"
+                },
+                {
+                    "name": "Ora Yadin",
+                    "id": "A5067477750"
+                },
+                {
+                    "name": "Pauline Nelson",
+                    "id": "A5085459070"
+                },
+                {
+                    "name": "Kim Pyke-Grimm",
+                    "id": "A5036850623"
+                },
+                {
+                    "name": "M. Ines Boechat",
+                    "id": "A5079632976"
+                },
+                {
+                    "name": "B. Lippe",
+                    "id": "A5113594189"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Robert B. Ettenger",
+                    "id": "A5001765163"
+                },
+                {
+                    "name": "Elaine S. Kamil",
+                    "id": "A5111740916"
+                }
+            ],
+            "venue": "Pediatric Nephrology"
+        },
+        "W2340291575": {
+            "id": "W2340291575",
+            "title": "First in human phase I study of BSI-201, a small molecule inhibitor of poly ADP-ribose polymerase (PARP) in subjects with advanced solid tumors",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "Scott Kopetz",
+                    "id": "A5006348751"
+                },
+                {
+                    "name": "Monica Mita",
+                    "id": "A5109341340"
+                },
+                {
+                    "name": "Isabel Mok",
+                    "id": "A5091718625"
+                },
+                {
+                    "name": "Kamalesh K. Sankhala",
+                    "id": "A5008969784"
+                },
+                {
+                    "name": "J. M. Moseley",
+                    "id": "A5108573404"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "C. R. Bradley",
+                    "id": "A5001553294"
+                },
+                {
+                    "name": "A. W. Tolcher",
+                    "id": "A5040603366"
+                }
+            ],
+            "venue": "Journal of Clinical Oncology"
+        },
+        "W2297256947": {
+            "id": "W2297256947",
+            "title": "Hyperprolactinemia and contraception: a prospective study.",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "A A Luciano",
+                    "id": "A5106353896"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "F K Chapler",
+                    "id": "A5109276639"
+                },
+                {
+                    "name": "Katherine S. Hauser",
+                    "id": "A5080633333"
+                },
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2030820876": {
+            "id": "W2030820876",
+            "title": "Changes in Thyroid Hormone Levels during Growth Hormone Therapy in Initially Euthyroid Patients: Lack of Need for Thyroxine Supplementation1",
+            "year": 1998,
+            "authors": [
+                {
+                    "name": "David T. Wyatt",
+                    "id": "A5111535048"
+                },
+                {
+                    "name": "Neil Gesundheit",
+                    "id": "A5004962376"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2155134500": {
+            "id": "W2155134500",
+            "title": "Oral Poly(ADP-Ribose) Polymerase-1 Inhibitor BSI-401 Has Antitumor Activity and Synergizes with Oxaliplatin against Pancreatic Cancer, Preventing Acute Neurotoxicity",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "Davide Melisi",
+                    "id": "A5049680516"
+                },
+                {
+                    "name": "Valeria Ossovskaya",
+                    "id": "A5088751118"
+                },
+                {
+                    "name": "Cihui Zhu",
+                    "id": "A5027938787"
+                },
+                {
+                    "name": "Roberta Rosa",
+                    "id": "A5013472594"
+                },
+                {
+                    "name": "Jianhua Ling",
+                    "id": "A5044222908"
+                },
+                {
+                    "name": "Patrick M. Dougherty",
+                    "id": "A5034714627"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "James L. Abbruzzese",
+                    "id": "A5087376683"
+                },
+                {
+                    "name": "Paul J. Chiao",
+                    "id": "A5068301962"
+                }
+            ],
+            "venue": "Clinical Cancer Research"
+        },
+        "W2063185826": {
+            "id": "W2063185826",
+            "title": "Variability in the Quantitation of Circulating Growth Hormone Using Commercial Immunoassays",
+            "year": 1989,
+            "authors": [
+                {
+                    "name": "Abbie Celniker",
+                    "id": "A5041306207"
+                },
+                {
+                    "name": "Anthony B. Chen",
+                    "id": "A5017538640"
+                },
+                {
+                    "name": "ROBERT M. WERT",
+                    "id": "A5071347757"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2065879561": {
+            "id": "W2065879561",
+            "title": "Accelerated growth after recombinant human growth hormone treatment of children with chronic renal failure",
+            "year": 1989,
+            "authors": [
+                {
+                    "name": "Vera Hermina Kalika Koch",
+                    "id": "A5100761236"
+                },
+                {
+                    "name": "Barbara M. Lippe",
+                    "id": "A5111958683"
+                },
+                {
+                    "name": "Pauline Nelson",
+                    "id": "A5085459070"
+                },
+                {
+                    "name": "M. Ines Boechat",
+                    "id": "A5079632976"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Richard \u039d. Fine",
+                    "id": "A5110246236"
+                }
+            ],
+            "venue": "The Journal of Pediatrics"
+        },
+        "W1976203756": {
+            "id": "W1976203756",
+            "title": "Inadequate corpus luteum function: A pathophysiological interpretation of human breast cancer epidemiology",
+            "year": 1974,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Stanley G. Korenman",
+                    "id": "A5031354188"
+                }
+            ],
+            "venue": "Cancer"
+        },
+        "W2033851921": {
+            "id": "W2033851921",
+            "title": "1-Phenylalanine mustard (L-PAM) in the management of premenopausal patients with primary breast cancer.Lack of association of disease-free survival with depression of ovarian function",
+            "year": 1979,
+            "authors": [
+                {
+                    "name": "Bernard Fisher",
+                    "id": "A5078282647"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Howard E. Rockette",
+                    "id": "A5025094543"
+                },
+                {
+                    "name": "Carol Redmond",
+                    "id": "A5111970040"
+                },
+                {
+                    "name": "Richard G. Margolese",
+                    "id": "A5109029112"
+                },
+                {
+                    "name": "Edwin R. Fisher",
+                    "id": "A5113437806"
+                }
+            ],
+            "venue": "Cancer"
+        },
+        "W2170960412": {
+            "id": "W2170960412",
+            "title": "LH and FSH Response to Gonadotropin-Releasing Hormone in Anorexia Nervosa: Effect of Nutritional Rehabilitation1",
+            "year": 1975,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Katherine A. Halmi",
+                    "id": "A5025276517"
+                },
+                {
+                    "name": "Roberto Zamudio",
+                    "id": "A5081881050"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2137666490": {
+            "id": "W2137666490",
+            "title": "Extrapulmonary effects of maintenance corticosteroid therapy with alternate-day prednisone and inhaled beclomethasone in children with chronic asthma",
+            "year": 1987,
+            "authors": [
+                {
+                    "name": "Edward G. Nassif",
+                    "id": "A5017849270"
+                },
+                {
+                    "name": "Miles Weinberger",
+                    "id": "A5015575315"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Kice Brown",
+                    "id": "A5108352434"
+                }
+            ],
+            "venue": "Journal of Allergy and Clinical Immunology"
+        },
+        "W115044886": {
+            "id": "W115044886",
+            "title": "Hyperprolactinemia in polycystic ovary syndrome",
+            "year": 1984,
+            "authors": [
+                {
+                    "name": "Anthony A. Luciano",
+                    "id": "A5079963610"
+                },
+                {
+                    "name": "Frederick K. Chapler",
+                    "id": "A5109093228"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Fertility and Sterility"
+        },
+        "W2007040674": {
+            "id": "W2007040674",
+            "title": "Carbohydrate and lipid metabolism in Turner syndrome: Effect of therapy with growth hormone, oxandrolone, and a combination of both",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "Darrell M. Wilson",
+                    "id": "A5074319617"
+                },
+                {
+                    "name": "James W. Frane",
+                    "id": "A5026311248"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Ann J. Johanson",
+                    "id": "A5110155521"
+                },
+                {
+                    "name": "Raymond L. Hintz",
+                    "id": "A5110186924"
+                },
+                {
+                    "name": "Ron G. Rosenfeld",
+                    "id": "A5001402556"
+                }
+            ],
+            "venue": "The Journal of Pediatrics"
+        },
+        "W1972016132": {
+            "id": "W1972016132",
+            "title": "HORMONAL CHARACTERISTICS OF THE HUMAN MENSTRUAL CYCLE THROUGHOUT REPRODUCTIVE LIFE",
+            "year": 1975,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Stanley G. Korenman",
+                    "id": "A5031354188"
+                }
+            ],
+            "venue": "Obstetrical & Gynecological Survey"
+        },
+        "W2337334425": {
+            "id": "W2337334425",
+            "title": "Effects of Inhaled Beclomethasone Dipropionate and Alternate-Day Prednisone on Pituitary-Adrenal Function in Children with Chronic Asthma",
+            "year": 1978,
+            "authors": [
+                {
+                    "name": "Richard A. Wyatt",
+                    "id": "A5036097034"
+                },
+                {
+                    "name": "James A. Waschek",
+                    "id": "A5005855723"
+                },
+                {
+                    "name": "Miles Weinberger",
+                    "id": "A5015575315"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W2029671510": {
+            "id": "W2029671510",
+            "title": "Three-year results of a randomized prospective trial of methionyl human growth hormone and oxandrolone in Turner syndrome",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "Ron G. Rosenfeld",
+                    "id": "A5001402556"
+                },
+                {
+                    "name": "Raymond L. Hintz",
+                    "id": "A5111830932"
+                },
+                {
+                    "name": "Ann J. Johanson",
+                    "id": "A5110155521"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Jo Anne Brasel",
+                    "id": "A5109195692"
+                },
+                {
+                    "name": "Stephen Burstein",
+                    "id": "A5110307406"
+                },
+                {
+                    "name": "Steven D. Chernausek",
+                    "id": "A5055241891"
+                },
+                {
+                    "name": "Peter G. Compton",
+                    "id": "A5108200513"
+                },
+                {
+                    "name": "James W. Frane",
+                    "id": "A5026311248"
+                },
+                {
+                    "name": "Ronald W. Gotlin",
+                    "id": "A5108420684"
+                },
+                {
+                    "name": "Joyce Kuntze",
+                    "id": "A5006655775"
+                },
+                {
+                    "name": "Barbara M. Lippe",
+                    "id": "A5111958683"
+                },
+                {
+                    "name": "Patrick C. Mahoney",
+                    "id": "A5005572627"
+                },
+                {
+                    "name": "Wayne V. Moore",
+                    "id": "A5103485270"
+                },
+                {
+                    "name": "Maria I. New",
+                    "id": "A5109148756"
+                },
+                {
+                    "name": "Paul Saenger",
+                    "id": "A5014482236"
+                },
+                {
+                    "name": "Virginia P. Sybert",
+                    "id": "A5110482116"
+                }
+            ],
+            "venue": "The Journal of Pediatrics"
+        },
+        "W1963855856": {
+            "id": "W1963855856",
+            "title": "Circadian Analysis of Plasma Cortisol Levels Before and After Dexamethasone Administration in Depressed Patients",
+            "year": 1984,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Archives of General Psychiatry"
+        },
+        "W2004313785": {
+            "id": "W2004313785",
+            "title": "Further Studies of Gonadotropin and Estradiol Secretion During the Preovulatory Phase of the Human Menstrual Cycle1",
+            "year": 1973,
+            "authors": [
+                {
+                    "name": "Stanley G. Korenman",
+                    "id": "A5031354188"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2123568197": {
+            "id": "W2123568197",
+            "title": "Plasma Proinsulin in Patients with Functioning Pancreatic Islet Cell Tumors<sup>1</sup>",
+            "year": 1972,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Sumer Pek",
+                    "id": "A5084327086"
+                },
+                {
+                    "name": "Stefan S. Fajans",
+                    "id": "A5073903765"
+                },
+                {
+                    "name": "John C. Floyd",
+                    "id": "A5103545135"
+                },
+                {
+                    "name": "Jerome W. Conn",
+                    "id": "A5054031733"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W1583199041": {
+            "id": "W1583199041",
+            "title": "Menstrual cycle patterns and breast cancer risk factors.",
+            "year": 1978,
+            "authors": [
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Judy A. Bean",
+                    "id": "A5111449805"
+                },
+                {
+                    "name": "James P. Leeper",
+                    "id": "A5029446021"
+                },
+                {
+                    "name": "Alan E. Treloar",
+                    "id": "A5110062253"
+                }
+            ],
+            "venue": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)"
+        },
+        "W2138306015": {
+            "id": "W2138306015",
+            "title": "Results from the First 2 Years of a Clinical Trial with Recombinant DNA\u2010derived Human Growth Hormone (Somatrem) in Turner's Syndrome",
+            "year": 1987,
+            "authors": [
+                {
+                    "name": "Ron G. Rosenfeld",
+                    "id": "A5001402556"
+                },
+                {
+                    "name": "Raymond L. Hintz",
+                    "id": "A5110186924"
+                },
+                {
+                    "name": "Ann J. Johanson",
+                    "id": "A5110155521"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Acta Paediatrica"
+        },
+        "W2148853126": {
+            "id": "W2148853126",
+            "title": "Oxytocin Does Not Influence Adrenocorticotropin Secretion in Man",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "David A. Lewis",
+                    "id": "A5084351153"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2313883860": {
+            "id": "W2313883860",
+            "title": "The Relationship of Menopausal Hot Flushes to Medical and Reproductive Experience",
+            "year": 1981,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                },
+                {
+                    "name": "J. A. Bean",
+                    "id": "A5052686532"
+                },
+                {
+                    "name": "Yunyoung C Chang",
+                    "id": "A5050543841"
+                },
+                {
+                    "name": "L. Schlabaugh",
+                    "id": "A5037860855"
+                }
+            ],
+            "venue": "Journal of Gerontology"
+        },
+        "W1643378484": {
+            "id": "W1643378484",
+            "title": "Abstract #5552: BSI-201 enhances the activity of multiple classes of cytotoxic agents and irradiation in triple negative breast cancer",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "Valeria Ossovskaya",
+                    "id": "A5088751118"
+                },
+                {
+                    "name": "Lingyun Li",
+                    "id": "A5100636401"
+                },
+                {
+                    "name": "Eugenia V. Broude",
+                    "id": "A5049867556"
+                },
+                {
+                    "name": "Chang\u2010Uk Lim",
+                    "id": "A5047629165"
+                },
+                {
+                    "name": "Igor B. Roninson",
+                    "id": "A5006208805"
+                },
+                {
+                    "name": "C. R. Bradley",
+                    "id": "A5001553294"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Cancer Research"
+        },
+        "W2116570443": {
+            "id": "W2116570443",
+            "title": "Postmeningitic Selective Hypopituitarism With Suprasellar Calcification",
+            "year": 1971,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Archives of Internal Medicine"
+        },
+        "W2044495110": {
+            "id": "W2044495110",
+            "title": "A Case-Control Study of Breast Cancer and Psychotropic Drug Use",
+            "year": 1982,
+            "authors": [
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Judy A. Bean",
+                    "id": "A5111449805"
+                }
+            ],
+            "venue": "Oncology"
+        },
+        "W2057389667": {
+            "id": "W2057389667",
+            "title": "Reproductive hormone function: The perimenopausal period and beyond",
+            "year": 1978,
+            "authors": [
+                {
+                    "name": "Stanley G. Korenman",
+                    "id": "A5031354188"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Julie C. Korenman",
+                    "id": "A5069601367"
+                }
+            ],
+            "venue": "Clinics in Endocrinology and Metabolism"
+        },
+        "W2267546867": {
+            "id": "W2267546867",
+            "title": "PARP1 gene over-expression in primary human cancers: A potential marker for PARP inhibition",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Valeria Ossovskaya",
+                    "id": "A5088751118"
+                },
+                {
+                    "name": "C. Alvares",
+                    "id": "A5014421761"
+                },
+                {
+                    "name": "Eric Kaldjian",
+                    "id": "A5010999026"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Molecular Cancer Therapeutics"
+        },
+        "W1996209049": {
+            "id": "W1996209049",
+            "title": "Serotonergic Stimulation of Adrenocorticotropin Secretion in Man*",
+            "year": 1984,
+            "authors": [
+                {
+                    "name": "David A. Lewis",
+                    "id": "A5084351153"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W1988885714": {
+            "id": "W1988885714",
+            "title": "Cardiac size and function in acromegaly.",
+            "year": 1977,
+            "authors": [
+                {
+                    "name": "J. B. Martins",
+                    "id": "A5074150516"
+                },
+                {
+                    "name": "R E Kerber",
+                    "id": "A5062285054"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Melvin L. Marcus",
+                    "id": "A5110265194"
+                },
+                {
+                    "name": "James C. Ehrhardt",
+                    "id": "A5108451971"
+                }
+            ],
+            "venue": "Circulation"
+        },
+        "W2022447306": {
+            "id": "W2022447306",
+            "title": "Proinsulin-like component of circulating insulin in the basal state and in patients and hamsters with islet cell tumors",
+            "year": 1971,
+            "authors": [
+                {
+                    "name": "Phillip G\u00f6rden",
+                    "id": "A5070064147"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Jesse Roth",
+                    "id": "A5112097822"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W2092219783": {
+            "id": "W2092219783",
+            "title": "FSH-Secreting Pituitary Adenomas: Stimulation and Suppression Studies in Two Patients",
+            "year": 1976,
+            "authors": [
+                {
+                    "name": "JOSEPH N. FRIEND",
+                    "id": "A5004297396"
+                },
+                {
+                    "name": "David M. Judge",
+                    "id": "A5045335684"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Richard J. Santen",
+                    "id": "A5081817848"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2097482261": {
+            "id": "W2097482261",
+            "title": "Serotonergic regulation of prolactin and growth hormone secretion in man",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "David A. Lewis",
+                    "id": "A5084351153"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "European Journal of Endocrinology"
+        },
+        "W1992636253": {
+            "id": "W1992636253",
+            "title": "Growth hormone testing in short children and their response to growth hormone therapy",
+            "year": 1989,
+            "authors": [
+                {
+                    "name": "Tsu-Hui Lin",
+                    "id": "A5106035790"
+                },
+                {
+                    "name": "Rebecca T. Kirkland",
+                    "id": "A5113660788"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "John L. Kirkland",
+                    "id": "A5039448836"
+                }
+            ],
+            "venue": "The Journal of Pediatrics"
+        },
+        "W1979887033": {
+            "id": "W1979887033",
+            "title": "Accelerated Growth Following Treatment of Children with Chronic Renal Failure with Recombinant Human Growth Hormone (Somatrem): a Preliminary Report",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "B. Lippe",
+                    "id": "A5113594189"
+                },
+                {
+                    "name": "Richard \u039d. Fine",
+                    "id": "A5110246236"
+                },
+                {
+                    "name": "Vera Hermina Kalika Koch",
+                    "id": "A5100761236"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Acta Paediatrica"
+        },
+        "W584169164": {
+            "id": "W584169164",
+            "title": "Human growth hormone : progress and challenges",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Louis E. Underwood",
+                    "id": "A5108570238"
+                }
+            ],
+            "venue": "Marcel Dekker eBooks"
+        },
+        "W2229602416": {
+            "id": "W2229602416",
+            "title": "Properties of spontaneous growth hormone secretory bursts and half-life of endogenous growth hormone in boys with idiopathic short stature. Genentech Collaborative Group",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "Veldhuis JDP",
+                    "id": "A5098419376"
+                },
+                {
+                    "name": "Robert M. Blizzard",
+                    "id": "A5111778754"
+                },
+                {
+                    "name": "Alan D. Rogol",
+                    "id": "A5028139163"
+                },
+                {
+                    "name": "P M Martha",
+                    "id": "A5108545999"
+                },
+                {
+                    "name": "John L. Kirkland",
+                    "id": "A5039448836"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2115948507": {
+            "id": "W2115948507",
+            "title": "Preservation of Physiological Growth Hormone (GH) Secretion in Idiopathic Short Stature after Recombinant GH Therapy*",
+            "year": 1990,
+            "authors": [
+                {
+                    "name": "Richard Hk Wu",
+                    "id": "A5111593600"
+                },
+                {
+                    "name": "Yolaine St Louis",
+                    "id": "A5049419952"
+                },
+                {
+                    "name": "Joan DiMartino-Nardi",
+                    "id": "A5009865804"
+                },
+                {
+                    "name": "Susan Wesoly",
+                    "id": "A5063700697"
+                },
+                {
+                    "name": "Edna H. Sobel",
+                    "id": "A5031608978"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Paul Saenger",
+                    "id": "A5014482236"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2019969085": {
+            "id": "W2019969085",
+            "title": "Circulating insulin: the proinsulin-like properties of \u201cbig\u201d insulin in patients without islet cell tumors",
+            "year": 1971,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Phillip G\u00f6rden",
+                    "id": "A5070064147"
+                },
+                {
+                    "name": "Jesse Roth",
+                    "id": "A5112097822"
+                },
+                {
+                    "name": "P Freychet",
+                    "id": "A5062448878"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W2086022330": {
+            "id": "W2086022330",
+            "title": "The effects of anti-leukemic therapy on gonadal histology in adult males",
+            "year": 1981,
+            "authors": [
+                {
+                    "name": "Lawrence C. Maguire",
+                    "id": "A5111682225"
+                },
+                {
+                    "name": "Fred R. Dick",
+                    "id": "A5055081361"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Cancer"
+        },
+        "W1969541007": {
+            "id": "W1969541007",
+            "title": "Predictors of the Outcome of Transsphenoidal Surgery for Prolactin-Secreting Pituitary Adenomas*",
+            "year": 1981,
+            "authors": [
+                {
+                    "name": "Janet Schlechte",
+                    "id": "A5028434645"
+                },
+                {
+                    "name": "John C. VanGilder",
+                    "id": "A5067762800"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "The Journal of Clinical Endocrinology & Metabolism"
+        },
+        "W2080745754": {
+            "id": "W2080745754",
+            "title": "Fatal Traumatic Ingestion of a Radiolucent Dental Prosthesis",
+            "year": 1968,
+            "authors": [
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Joel S. Karliner",
+                    "id": "A5109234973"
+                },
+                {
+                    "name": "Yutaka Kikkawa",
+                    "id": "A5045916968"
+                },
+                {
+                    "name": "Musamichi Oka",
+                    "id": "A5038129207"
+                },
+                {
+                    "name": "Ralph R. Goldin",
+                    "id": "A5027859483"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W1982480866": {
+            "id": "W1982480866",
+            "title": "Etomidate Anesthesia Inhibits the Cortisol Response to Surgical Stress",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "M. P. Mehta",
+                    "id": "A5112155240"
+                },
+                {
+                    "name": "J. B. Dillman",
+                    "id": "A5108794400"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Mohammed M. Ghoneim",
+                    "id": "A5078079379"
+                },
+                {
+                    "name": "Jon H. Lemke",
+                    "id": "A5107447139"
+                }
+            ],
+            "venue": "Acta Anaesthesiologica Scandinavica"
+        },
+        "W2039449463": {
+            "id": "W2039449463",
+            "title": "Imipramine effect on hypothalamic-pituitary-adrenal axis response to hypoglycemia",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "Roger G. Kathol",
+                    "id": "A5034833288"
+                },
+                {
+                    "name": "Richard Jaeckle",
+                    "id": "A5109965405"
+                },
+                {
+                    "name": "Carol Wysham",
+                    "id": "A5040652845"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Psychiatry Research"
+        },
+        "W2043662798": {
+            "id": "W2043662798",
+            "title": "Effect of danazol on plasma lipid and lipoprotein levels in normal women",
+            "year": 1982,
+            "authors": [
+                {
+                    "name": "Anthony A. Luciano",
+                    "id": "A5079963610"
+                },
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                }
+            ],
+            "venue": "Atherosclerosis"
+        },
+        "W2397396714": {
+            "id": "W2397396714",
+            "title": "Clinical and biologic antecedents of the amenorrhea/hyperprolactinemia syndrome: a case-control study",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Robert B. Wallace",
+                    "id": "A5052944794"
+                },
+                {
+                    "name": "Barry M. Sherman",
+                    "id": "A5111585354"
+                },
+                {
+                    "name": "Judy A. Bean",
+                    "id": "A5111449805"
+                }
+            ],
+            "venue": "Fertility and Sterility"
+        },
+        "W2022292078": {
+            "id": "W2022292078",
+            "title": "Screening, Brief Intervention, and Referral to Treatment for Adolescents: Attitudes, Perceptions, and Practice of New York School-Based Health Center Providers",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Brett R. Harris",
+                    "id": "A5072402471"
+                },
+                {
+                    "name": "Benjam\u00edn A. Shaw",
+                    "id": "A5056723531"
+                },
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                },
+                {
+                    "name": "Hal A. Lawson",
+                    "id": "A5048259373"
+                }
+            ],
+            "venue": "Substance Abuse"
+        },
+        "W2895009799": {
+            "id": "W2895009799",
+            "title": "Factors associated with 1-year mortality after discharge for acute stroke: what matters?",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Zainab Magdon-Ismail",
+                    "id": "A5015815414"
+                },
+                {
+                    "name": "Tatiana Ledneva",
+                    "id": "A5068274758"
+                },
+                {
+                    "name": "Mingzeng Sun",
+                    "id": "A5068719859"
+                },
+                {
+                    "name": "Lee H. Schwamm",
+                    "id": "A5088527297"
+                },
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                },
+                {
+                    "name": "Feng Qian",
+                    "id": "A5100655902"
+                },
+                {
+                    "name": "Janet Prvu Bettger",
+                    "id": "A5068613629"
+                },
+                {
+                    "name": "Ying Xian",
+                    "id": "A5020723643"
+                },
+                {
+                    "name": "Joel Stein",
+                    "id": "A5083931095"
+                }
+            ],
+            "venue": "Topics in Stroke Rehabilitation"
+        },
+        "W2569227242": {
+            "id": "W2569227242",
+            "title": "Doctor of Public Health Education and Training",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                },
+                {
+                    "name": "Rebecca Hoen",
+                    "id": "A5053719881"
+                },
+                {
+                    "name": "Joel M. Lee",
+                    "id": "A5051355061"
+                },
+                {
+                    "name": "Eugene Declercq",
+                    "id": "A5059628829"
+                }
+            ],
+            "venue": "Public Health Reports"
+        },
+        "W2053416705": {
+            "id": "W2053416705",
+            "title": "Impact of Home-Based Respite Care on Families of Children With Chronic Illnesses",
+            "year": 1995,
+            "authors": [
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                }
+            ],
+            "venue": "Children s Health Care"
+        },
+        "W2149716881": {
+            "id": "W2149716881",
+            "title": "Assessment of client satisfaction in a peer counseling substance abuse treatment program for pregnant and postpartum women",
+            "year": 1998,
+            "authors": [
+                {
+                    "name": "Laura Sanders",
+                    "id": "A5113147766"
+                },
+                {
+                    "name": "Chau Trinh",
+                    "id": "A5050989707"
+                },
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                },
+                {
+                    "name": "Seymour Banks",
+                    "id": "A5043893662"
+                }
+            ],
+            "venue": "Evaluation and Program Planning"
+        },
+        "W2234382115": {
+            "id": "W2234382115",
+            "title": "Barriers to Addressing Adolescent Substance Use: Perceptions of New York School\u2010Based Health Center Providers",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Brett R. Harris",
+                    "id": "A5072402471"
+                },
+                {
+                    "name": "Benjam\u00edn A. Shaw",
+                    "id": "A5056723531"
+                },
+                {
+                    "name": "Hal A. Lawson",
+                    "id": "A5048259373"
+                },
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                }
+            ],
+            "venue": "Journal of School Health"
+        },
+        "W2318200095": {
+            "id": "W2318200095",
+            "title": "Stress in Families of the Developmentally Disabled: A Literature Review of Factors Affecting the Decision to Seek Out-of-Home Placements",
+            "year": 1984,
+            "authors": [
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                },
+                {
+                    "name": "Joseph J. Cocozza",
+                    "id": "A5061296276"
+                }
+            ],
+            "venue": "Family Relations"
+        },
+        "W2085286405": {
+            "id": "W2085286405",
+            "title": "Role-modeling healthy behavior: peer counseling for pregnant and postpartum women in recovery",
+            "year": 1998,
+            "authors": [
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                },
+                {
+                    "name": "Laura Sanders",
+                    "id": "A5113147766"
+                },
+                {
+                    "name": "Jeannette Yearde",
+                    "id": "A5011360792"
+                }
+            ],
+            "venue": "Women s Health Issues"
+        },
+        "W2107451225": {
+            "id": "W2107451225",
+            "title": "Relationship of perceived maternal acceptance-rejection in childhood and social support networks of pregnant adolescents.",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                },
+                {
+                    "name": "Barry R. Donovan",
+                    "id": "A5021587131"
+                }
+            ],
+            "venue": "American Journal of Orthopsychiatry"
+        },
+        "W2336368250": {
+            "id": "W2336368250",
+            "title": "Undergraduate Public Health Capstone Course: Teaching Evidence-Based Public Health",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Veronica Eileen Fitzpatrick",
+                    "id": "A5015558005"
+                },
+                {
+                    "name": "Christen Mayer",
+                    "id": "A5036782055"
+                },
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                }
+            ],
+            "venue": "Frontiers in Public Health"
+        },
+        "W2009181557": {
+            "id": "W2009181557",
+            "title": "The formation of relationships based on socio-spatial proximity in a free-ranging colony of rhesus monkeys",
+            "year": 1980,
+            "authors": [
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                }
+            ],
+            "venue": "Primates"
+        },
+        "W2051741177": {
+            "id": "W2051741177",
+            "title": "Project connect: An interagency partnership to confront new challenges facing at-risk women and children in New York City",
+            "year": 1993,
+            "authors": [
+                {
+                    "name": "Linda Randolph",
+                    "id": "A5111519042"
+                },
+                {
+                    "name": "Barry R. Sherman",
+                    "id": "A5086365606"
+                }
+            ],
+            "venue": "Journal of Community Health"
+        },
+        "W651496036": {
+            "id": "W651496036",
+            "title": "Reading Strategies: Focus on Comprehension",
+            "year": 1981,
+            "authors": [
+                {
+                    "name": "Donald R. Gallo",
+                    "id": "A5060258162"
+                },
+                {
+                    "name": "Yetta M. Goodman",
+                    "id": "A5109404600"
+                },
+                {
+                    "name": "Carolyn L. Burke",
+                    "id": "A5048479021"
+                },
+                {
+                    "name": "Barry W. Sherman",
+                    "id": "A5039555087"
+                }
+            ],
+            "venue": "The English Journal"
+        },
+        "W214795331": {
+            "id": "W214795331",
+            "title": "Skirting the Perils of Testing.",
+            "year": 1979,
+            "authors": [
+                {
+                    "name": "Jayne Anne DeLawter",
+                    "id": "A5028086904"
+                },
+                {
+                    "name": "Barry W. Sherman",
+                    "id": "A5039555087"
+                }
+            ],
+            "venue": "Learning Research and Practice"
+        },
+        "W288560528": {
+            "id": "W288560528",
+            "title": "Reading for Meaning: Don't Let Word Study Blind Your Students.",
+            "year": 1979,
+            "authors": [
+                {
+                    "name": "Barry W. Sherman",
+                    "id": "A5039555087"
+                }
+            ],
+            "venue": "Learning Research and Practice"
+        },
+        "W2096157368": {
+            "id": "W2096157368",
+            "title": "Violence and Sex in Music Videos: TV and Rock \u2018n\u2019 Roll",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Barry L. Sherman",
+                    "id": "A5000925945"
+                },
+                {
+                    "name": "Joseph K. Dominick",
+                    "id": "A5009738244"
+                }
+            ],
+            "venue": "Journal of Communication"
+        },
+        "W1911823069": {
+            "id": "W1911823069",
+            "title": "Broadcasting, Cable, the Internet and Beyond: An Introduction to Modern Electronic Media",
+            "year": 1993,
+            "authors": [
+                {
+                    "name": "Joseph R. Dominick",
+                    "id": "A5036500992"
+                },
+                {
+                    "name": "Barry L. Sherman",
+                    "id": "A5000925945"
+                },
+                {
+                    "name": "Fritz Messere",
+                    "id": "A5002117635"
+                }
+            ],
+            "venue": "Medical Entomology and Zoology"
+        },
+        "W2417388801": {
+            "id": "W2417388801",
+            "title": "The Use of Videotape with Psychotherapy Groups in a Community Mental Health Service Program",
+            "year": 1968,
+            "authors": [
+                {
+                    "name": "Milton M. Berger",
+                    "id": "A5047378884"
+                },
+                {
+                    "name": "Barry Sherman",
+                    "id": "A5029670136"
+                },
+                {
+                    "name": "Janet Spalding",
+                    "id": "A5047861757"
+                },
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                }
+            ],
+            "venue": "International Journal of Group Psychotherapy"
+        },
+        "W2001472171": {
+            "id": "W2001472171",
+            "title": "Neuropsychiatric Factors in the Illusion of Visitors among Geriatric Patients: A Case Series",
+            "year": 1997,
+            "authors": [
+                {
+                    "name": "Melissa A. Jenkins",
+                    "id": "A5110146095"
+                },
+                {
+                    "name": "Cynthia Cimino",
+                    "id": "A5046873639"
+                },
+                {
+                    "name": "Paul Malloy",
+                    "id": "A5090528959"
+                },
+                {
+                    "name": "Stephen Salloway",
+                    "id": "A5002183686"
+                },
+                {
+                    "name": "Ronald A. Cohen",
+                    "id": "A5035290107"
+                },
+                {
+                    "name": "Robert Kohn",
+                    "id": "A5088326071"
+                },
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                }
+            ],
+            "venue": "Journal of Geriatric Psychiatry and Neurology"
+        },
+        "W2092854531": {
+            "id": "W2092854531",
+            "title": "Hyperpyrexia From Drug Combinations",
+            "year": 1973,
+            "authors": [
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                }
+            ],
+            "venue": "JAMA"
+        },
+        "W1965977754": {
+            "id": "W1965977754",
+            "title": "The Diagnosis and Treatment of Geriatric Depression",
+            "year": 1996,
+            "authors": [
+                {
+                    "name": "Melissa A. Jenkins",
+                    "id": "A5110146095"
+                },
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                },
+                {
+                    "name": "Stephen Salloway",
+                    "id": "A5002183686"
+                }
+            ],
+            "venue": "Journal of Psychiatric Practice"
+        },
+        "W1996392539": {
+            "id": "W1996392539",
+            "title": "A CASE WITH GILLES DE LA TOURETTE??S SYNDRSOME: RECURRENT REFRACTORINESS TO HALOPERIDOL, AND UNSUCCESSFUL TREATMENT WITH L-DOPA",
+            "year": 1971,
+            "authors": [
+                {
+                    "name": "J Na",
+                    "id": "A5110015525"
+                },
+                {
+                    "name": "Stanley Fahn",
+                    "id": "A5010642600"
+                },
+                {
+                    "name": "JOEL B. GLASS",
+                    "id": "A5109106877"
+                },
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                }
+            ],
+            "venue": "The Journal of Nervous and Mental Disease"
+        },
+        "W1969727635": {
+            "id": "W1969727635",
+            "title": "A Day Hospital Program for Treating Obesity",
+            "year": 1974,
+            "authors": [
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                },
+                {
+                    "name": "Leonard S. Levitz",
+                    "id": "A5064056610"
+                },
+                {
+                    "name": "Albert J. Stunkard",
+                    "id": "A5113716703"
+                }
+            ],
+            "venue": "Psychiatric Services"
+        },
+        "W2079366873": {
+            "id": "W2079366873",
+            "title": "Psychogeriatric Seminars for Nursing Home Nurses",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                },
+                {
+                    "name": "Gregory L. Rubano",
+                    "id": "A5070058314"
+                }
+            ],
+            "venue": "Psychiatric Services"
+        },
+        "W2322770361": {
+            "id": "W2322770361",
+            "title": "Urinary amines in patients undergoing thalamotomy for Parkinson's disease",
+            "year": 1966,
+            "authors": [
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                },
+                {
+                    "name": "John M. Tew",
+                    "id": "A5013737707"
+                }
+            ],
+            "venue": "Neurology"
+        },
+        "W2593171375": {
+            "id": "W2593171375",
+            "title": "Personality disorder diagnoses in old age [2]",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "David A. Fishbain",
+                    "id": "A5091815010"
+                },
+                {
+                    "name": "Barry S. Fogel",
+                    "id": "A5030201461"
+                },
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                }
+            ],
+            "venue": "The Journal of Clinical Psychiatry"
+        },
+        "W1984522329": {
+            "id": "W1984522329",
+            "title": "An unusual reduplicative phenomenon",
+            "year": 1990,
+            "authors": [
+                {
+                    "name": "P MALLOY",
+                    "id": "A5081478817"
+                },
+                {
+                    "name": "C. Cimino",
+                    "id": "A5084219740"
+                },
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                }
+            ],
+            "venue": "Archives of Clinical Neuropsychology"
+        },
+        "W2021694137": {
+            "id": "W2021694137",
+            "title": "Assessment of Dopamines-\u03b2-Oxidase Activity in the Skin of Guinea Pig In Vivo*",
+            "year": 1966,
+            "authors": [
+                {
+                    "name": "Robert J. Westlake",
+                    "id": "A5024759472"
+                },
+                {
+                    "name": "Irwin J. Kopin",
+                    "id": "A5042995179"
+                }
+            ],
+            "venue": "Journal of Investigative Dermatology"
+        },
+        "W2051474574": {
+            "id": "W2051474574",
+            "title": "Curriculum development in broadcasting: A five\u2010point plan",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "Barry I. Sherman",
+                    "id": "A5063000713"
+                }
+            ],
+            "venue": "Communication Education"
+        }
+    }
+}

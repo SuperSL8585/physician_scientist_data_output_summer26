@@ -1,0 +1,2368 @@
+{
+    "author_name": {
+        "name": "Brent Hollenbeck",
+        "clusters_count": 1
+    },
+    "author_data": {
+        "A5000093901": {
+            "gold_id/master_key": "brent_hollenbeck_1",
+            "ids": [
+                "A5000093901",
+                "A5003196207",
+                "A5125897294",
+                "A5132542216",
+                "A5122742072",
+                "A5126854707"
+            ],
+            "name": "Brent K. Hollenbeck",
+            "name_first": "Brent",
+            "name_middle": "K.",
+            "name_last": "Hollenbeck",
+            "field": null,
+            "fields": [
+                "Urology",
+                "Oncology",
+                "Cancer Research"
+            ],
+            "email": "bhollen@med.umich.edu",
+            "linkedin": null,
+            "socials": [],
+            "works_count": 601,
+            "works": [
+                "W2097096070",
+                "W2050346837",
+                "W2099325295",
+                "W2132633916",
+                "W2112044462",
+                "W2049523916",
+                "W1987577794",
+                "W1972346547",
+                "W2166436294",
+                "W2907010595",
+                "W2031814186",
+                "W2131595192",
+                "W1979749030",
+                "W2114491648",
+                "W2158408464",
+                "W2905423686",
+                "W2078954581",
+                "W2027215397",
+                "W2017184077",
+                "W2103508191",
+                "W2058454440",
+                "W2087451337",
+                "W4238494775",
+                "W2105346310",
+                "W2003793255",
+                "W2132261853",
+                "W2910871591",
+                "W2046688146",
+                "W2084015754",
+                "W2275516546",
+                "W1994873631",
+                "W4403232196",
+                "W4247313730",
+                "W4404970201",
+                "W4406155844",
+                "W4399926446",
+                "W4415226053",
+                "W4232216348",
+                "W4250335004",
+                "W4243850573",
+                "W4225259276",
+                "W4235618515",
+                "W4235801208",
+                "W4236636055",
+                "W4244040472",
+                "W4252048590",
+                "W4253937039",
+                "W7128774213",
+                "W7147016388",
+                "W7122467759",
+                "W7131678130"
+            ]
+        }
+    },
+    "works_data": {
+        "W2097096070": {
+            "id": "W2097096070",
+            "title": "Rising Incidence of Small Renal Masses: A Need to Reassess Treatment Effect",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "Stephanie Daignault",
+                    "id": "A5109138258"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                }
+            ],
+            "venue": "JNCI Journal of the National Cancer Institute"
+        },
+        "W2050346837": {
+            "id": "W2050346837",
+            "title": "Best Practice Policy Statement on Urologic Surgery Antimicrobial Prophylaxis",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "J. Stuart Wolf",
+                    "id": "A5108270167"
+                },
+                {
+                    "name": "Carol J. Bennett",
+                    "id": "A5103932285"
+                },
+                {
+                    "name": "Roger R. Dmochowski",
+                    "id": "A5042646128"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Margaret S. Pearle",
+                    "id": "A5054678058"
+                },
+                {
+                    "name": "Anthony J. Schaeffer",
+                    "id": "A5101966952"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2099325295": {
+            "id": "W2099325295",
+            "title": "The Economics of Bladder Cancer: Costs and Considerations of Caring for This Disease",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Robert S. Svatek",
+                    "id": "A5016811631"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Sten Holm\u00e4ng",
+                    "id": "A5110186892"
+                },
+                {
+                    "name": "Richard Lee",
+                    "id": "A5100616648"
+                },
+                {
+                    "name": "Simon P. Kim",
+                    "id": "A5053084361"
+                },
+                {
+                    "name": "Arnulf Stenzl",
+                    "id": "A5086583298"
+                },
+                {
+                    "name": "Yair Lotan",
+                    "id": "A5041923034"
+                }
+            ],
+            "venue": "European Urology"
+        },
+        "W2132633916": {
+            "id": "W2132633916",
+            "title": "Medical therapy to facilitate urinary stone passage: a meta-analysis",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                },
+                {
+                    "name": "Mary A.M. Rogers",
+                    "id": "A5034640890"
+                },
+                {
+                    "name": "Samuel R. Kaufman",
+                    "id": "A5108470175"
+                },
+                {
+                    "name": "Timothy Bradford",
+                    "id": "A5113811413"
+                },
+                {
+                    "name": "Sanjay Saint",
+                    "id": "A5006173380"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                }
+            ],
+            "venue": "The Lancet"
+        },
+        "W2112044462": {
+            "id": "W2112044462",
+            "title": "Urine <i>TMPRSS2:ERG</i> Fusion Transcript Stratifies Prostate Cancer Risk in Men with Elevated Serum PSA",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Scott A. Tomlins",
+                    "id": "A5068238406"
+                },
+                {
+                    "name": "Sheila M. J. Aubin",
+                    "id": "A5025368599"
+                },
+                {
+                    "name": "Javed Siddiqui",
+                    "id": "A5113491883"
+                },
+                {
+                    "name": "Robert J. Lonigro",
+                    "id": "A5112085174"
+                },
+                {
+                    "name": "Laurie Sefton-Miller",
+                    "id": "A5038797385"
+                },
+                {
+                    "name": "Siobhan Miick",
+                    "id": "A5056638588"
+                },
+                {
+                    "name": "Sarah Williamsen",
+                    "id": "A5018774080"
+                },
+                {
+                    "name": "Petrea Hodge",
+                    "id": "A5000002894"
+                },
+                {
+                    "name": "Jessica Meinke",
+                    "id": "A5111848745"
+                },
+                {
+                    "name": "Amy Blase",
+                    "id": "A5019236354"
+                },
+                {
+                    "name": "Yvonne Penabella",
+                    "id": "A5059239209"
+                },
+                {
+                    "name": "John Day",
+                    "id": "A5074397767"
+                },
+                {
+                    "name": "Radhika Varambally",
+                    "id": "A5034113926"
+                },
+                {
+                    "name": "Bo Han",
+                    "id": "A5071386037"
+                },
+                {
+                    "name": "David P. Wood",
+                    "id": "A5113432243"
+                },
+                {
+                    "name": "Lei Wang",
+                    "id": "A5100435960"
+                },
+                {
+                    "name": "Martin G. Sanda",
+                    "id": "A5102732771"
+                },
+                {
+                    "name": "Mark A. Rubin",
+                    "id": "A5035068594"
+                },
+                {
+                    "name": "Daniel R. Rhodes",
+                    "id": "A5083425454"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Kyoko Sakamoto",
+                    "id": "A5004046820"
+                },
+                {
+                    "name": "Jonathan Silberstein",
+                    "id": "A5110269947"
+                },
+                {
+                    "name": "Yves Fradet",
+                    "id": "A5075327765"
+                },
+                {
+                    "name": "J. Burns Amberson",
+                    "id": "A5032109130"
+                },
+                {
+                    "name": "Stephanie Meyers",
+                    "id": "A5054186994"
+                },
+                {
+                    "name": "Nallasivam Palanisamy",
+                    "id": "A5042167871"
+                },
+                {
+                    "name": "Harry G. Rittenhouse",
+                    "id": "A5078373142"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                },
+                {
+                    "name": "Jack Groskopf",
+                    "id": "A5056252192"
+                },
+                {
+                    "name": "Arul M. Chinnaiyan",
+                    "id": "A5108833506"
+                }
+            ],
+            "venue": "Science Translational Medicine"
+        },
+        "W2049523916": {
+            "id": "W2049523916",
+            "title": "National utilization trends of partial nephrectomy for renal cell carcinoma: A case of underutilization?",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "David A. Taub",
+                    "id": "A5076877994"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "Rodney L. Dunn",
+                    "id": "A5059567824"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                }
+            ],
+            "venue": "Urology"
+        },
+        "W1987577794": {
+            "id": "W1987577794",
+            "title": "Partial Nephrectomy for Small Renal Masses: An Emerging Quality of Care Concern?",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                },
+                {
+                    "name": "Khaled S. Hafez",
+                    "id": "A5110038615"
+                },
+                {
+                    "name": "Stephanie Daignault",
+                    "id": "A5109138258"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W1972346547": {
+            "id": "W1972346547",
+            "title": "Analysis of Intracorporeal Compared with Extracorporeal Urinary Diversion After Robot-assisted Radical Cystectomy: Results from the International Robotic Cystectomy Consortium",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Kamran Ahmed",
+                    "id": "A5090902762"
+                },
+                {
+                    "name": "Shahid Khan",
+                    "id": "A5049791651"
+                },
+                {
+                    "name": "Matthew H. Hayn",
+                    "id": "A5029619282"
+                },
+                {
+                    "name": "Piyush K. Agarwal",
+                    "id": "A5084627594"
+                },
+                {
+                    "name": "Ketan K. Badani",
+                    "id": "A5078086666"
+                },
+                {
+                    "name": "Mevlana Derya Balbay",
+                    "id": "A5112172015"
+                },
+                {
+                    "name": "Erik P. Castle",
+                    "id": "A5004285397"
+                },
+                {
+                    "name": "Prokar Dasgupta",
+                    "id": "A5006241226"
+                },
+                {
+                    "name": "Reza Ghavamian",
+                    "id": "A5006864691"
+                },
+                {
+                    "name": "Khurshid A. Guru",
+                    "id": "A5041497751"
+                },
+                {
+                    "name": "Ashok K. Hemal",
+                    "id": "A5025223836"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Adam S. Kibel",
+                    "id": "A5072104844"
+                },
+                {
+                    "name": "Mani Menon",
+                    "id": "A5108396752"
+                },
+                {
+                    "name": "Alexandre Mottrie",
+                    "id": "A5013888713"
+                },
+                {
+                    "name": "Kenneth G. Nepple",
+                    "id": "A5053326285"
+                },
+                {
+                    "name": "John Pattaras",
+                    "id": "A5087112738"
+                },
+                {
+                    "name": "James O. Peabody",
+                    "id": "A5082470669"
+                },
+                {
+                    "name": "Vassilis Poulakis",
+                    "id": "A5027805340"
+                },
+                {
+                    "name": "Raj S. Pruthi",
+                    "id": "A5073387299"
+                },
+                {
+                    "name": "Joan Palou Redorta",
+                    "id": "A5077718510"
+                },
+                {
+                    "name": "Koon Ho Rha",
+                    "id": "A5080064863"
+                },
+                {
+                    "name": "Lee Richstone",
+                    "id": "A5065038637"
+                },
+                {
+                    "name": "Matthias Saar",
+                    "id": "A5044890773"
+                },
+                {
+                    "name": "Douglas S. Scherr",
+                    "id": "A5053215060"
+                },
+                {
+                    "name": "Stefan Siemer",
+                    "id": "A5022435318"
+                },
+                {
+                    "name": "Michael St\u00f6eckle",
+                    "id": "A5005380574"
+                },
+                {
+                    "name": "Eric Wallen",
+                    "id": "A5082025794"
+                },
+                {
+                    "name": "Alon Z. Weizer",
+                    "id": "A5018208869"
+                },
+                {
+                    "name": "Peter Wiklund",
+                    "id": "A5004587560"
+                },
+                {
+                    "name": "Timothy G. Wilson",
+                    "id": "A5021442340"
+                },
+                {
+                    "name": "Michael Woods",
+                    "id": "A5069174478"
+                },
+                {
+                    "name": "Muhammad Shamim Khan",
+                    "id": "A5018476578"
+                }
+            ],
+            "venue": "European Urology"
+        },
+        "W2166436294": {
+            "id": "W2166436294",
+            "title": "Hospital Lymph Node Examination Rates and Survival After Resection for Colon Cancer",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Sandra L. Wong",
+                    "id": "A5061009562"
+                },
+                {
+                    "name": "Hong Ji",
+                    "id": "A5101947543"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Arden M. Morris",
+                    "id": "A5009550829"
+                },
+                {
+                    "name": "Onur Ba\u015fer",
+                    "id": "A5064447813"
+                },
+                {
+                    "name": "John D. Birkmeyer",
+                    "id": "A5011328405"
+                }
+            ],
+            "venue": "JAMA"
+        },
+        "W2907010595": {
+            "id": "W2907010595",
+            "title": "Guidelines for Reporting of Statistics for Clinical Research in Urology",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Melissa Assel",
+                    "id": "A5041375500"
+                },
+                {
+                    "name": "Daniel D. Sjoberg",
+                    "id": "A5035902985"
+                },
+                {
+                    "name": "Andrew Elders",
+                    "id": "A5070808034"
+                },
+                {
+                    "name": "Xuemei Wang",
+                    "id": "A5100390607"
+                },
+                {
+                    "name": "Dezheng Huo",
+                    "id": "A5015502083"
+                },
+                {
+                    "name": "Albert Botchway",
+                    "id": "A5001210391"
+                },
+                {
+                    "name": "Kristin Delfino",
+                    "id": "A5082716887"
+                },
+                {
+                    "name": "Yunhua Fan",
+                    "id": "A5114224913"
+                },
+                {
+                    "name": "Zhiguo Zhao",
+                    "id": "A5105350190"
+                },
+                {
+                    "name": "Tatsuki Koyama",
+                    "id": "A5048600723"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Rui Qin",
+                    "id": "A5101584383"
+                },
+                {
+                    "name": "Whitney E. Zahnd",
+                    "id": "A5081656928"
+                },
+                {
+                    "name": "Emily C. Zabor",
+                    "id": "A5053547168"
+                },
+                {
+                    "name": "Michael W. Kattan",
+                    "id": "A5054374857"
+                },
+                {
+                    "name": "Andrew J. Vickers",
+                    "id": "A5025886998"
+                }
+            ],
+            "venue": "European Urology"
+        },
+        "W2031814186": {
+            "id": "W2031814186",
+            "title": "IDENTIFYING RISK FACTORS FOR POTENTIALLY AVOIDABLE COMPLICATIONS FOLLOWING RADICAL CYSTECTOMY",
+            "year": 2005,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "David A. Taub",
+                    "id": "A5076877994"
+                },
+                {
+                    "name": "Rodney L. Dunn",
+                    "id": "A5059567824"
+                },
+                {
+                    "name": "Shukri F. Khuri",
+                    "id": "A5110270947"
+                },
+                {
+                    "name": "William G. Henderson",
+                    "id": "A5111792962"
+                },
+                {
+                    "name": "James E. Montie",
+                    "id": "A5076002647"
+                },
+                {
+                    "name": "Willie Underwood",
+                    "id": "A5002476840"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2131595192": {
+            "id": "W2131595192",
+            "title": "Five\u2010year survival after surgical treatment for kidney cancer",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "Stephanie Daignault",
+                    "id": "A5109138258"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                }
+            ],
+            "venue": "Cancer"
+        },
+        "W1979749030": {
+            "id": "W1979749030",
+            "title": "COMPLICATIONS OF URETEROSCOPY: ANALYSIS OF PREDICTIVE FACTORS",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "Timothy G. Schuster",
+                    "id": "A5034543892"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Gary J. Faerber",
+                    "id": "A5047998272"
+                },
+                {
+                    "name": "J. Stuart Wolf",
+                    "id": "A5108270167"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2114491648": {
+            "id": "W2114491648",
+            "title": "Incidence of Initial Local Therapy Among Men With Lower-Risk Prostate Cancer in the United States",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "Stephen B. Gruber",
+                    "id": "A5070703103"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "James E. Montie",
+                    "id": "A5076002647"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                }
+            ],
+            "venue": "JNCI Journal of the National Cancer Institute"
+        },
+        "W2158408464": {
+            "id": "W2158408464",
+            "title": "A Systematic Review of the Volume\u2013Outcome Relationship for Radical Prostatectomy",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Quoc\u2010Dien Trinh",
+                    "id": "A5077545940"
+                },
+                {
+                    "name": "Anders Bjartell",
+                    "id": "A5015634061"
+                },
+                {
+                    "name": "Stephen J. Freedland",
+                    "id": "A5036003731"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Jim C. Hu",
+                    "id": "A5024676913"
+                },
+                {
+                    "name": "Shahrokh F. Shariat",
+                    "id": "A5079401169"
+                },
+                {
+                    "name": "Maxine Sun",
+                    "id": "A5060378122"
+                },
+                {
+                    "name": "Andrew J. Vickers",
+                    "id": "A5025886998"
+                }
+            ],
+            "venue": "European Urology"
+        },
+        "W2905423686": {
+            "id": "W2905423686",
+            "title": "Guidelines for reporting of statistics for clinical research in urology",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Melissa Assel",
+                    "id": "A5041375500"
+                },
+                {
+                    "name": "Daniel D. Sjoberg",
+                    "id": "A5035902985"
+                },
+                {
+                    "name": "Andrew Elders",
+                    "id": "A5070808034"
+                },
+                {
+                    "name": "Xuemei Wang",
+                    "id": "A5100390607"
+                },
+                {
+                    "name": "Dezheng Huo",
+                    "id": "A5015502083"
+                },
+                {
+                    "name": "Albert Botchway",
+                    "id": "A5001210391"
+                },
+                {
+                    "name": "Kristin Delfino",
+                    "id": "A5082716887"
+                },
+                {
+                    "name": "Yunhua Fan",
+                    "id": "A5114224913"
+                },
+                {
+                    "name": "Zhiguo Zhao",
+                    "id": "A5105350190"
+                },
+                {
+                    "name": "Tatsuki Koyama",
+                    "id": "A5048600723"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Rui Qin",
+                    "id": "A5101584383"
+                },
+                {
+                    "name": "Whitney E. Zahnd",
+                    "id": "A5081656928"
+                },
+                {
+                    "name": "Emily C. Zabor",
+                    "id": "A5053547168"
+                },
+                {
+                    "name": "Michael W. Kattan",
+                    "id": "A5054374857"
+                },
+                {
+                    "name": "Andrew J. Vickers",
+                    "id": "A5025886998"
+                }
+            ],
+            "venue": "British Journal of Urology"
+        },
+        "W2078954581": {
+            "id": "W2078954581",
+            "title": "Delays in diagnosis and bladder cancer mortality",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Rodney L. Dunn",
+                    "id": "A5059567824"
+                },
+                {
+                    "name": "Zaojun Ye",
+                    "id": "A5080737222"
+                },
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                },
+                {
+                    "name": "Ted A. Skolarus",
+                    "id": "A5003694149"
+                },
+                {
+                    "name": "Simon P. Kim",
+                    "id": "A5053084361"
+                },
+                {
+                    "name": "James E. Montie",
+                    "id": "A5076002647"
+                },
+                {
+                    "name": "Cheryl T. Lee",
+                    "id": "A5032617990"
+                },
+                {
+                    "name": "David P. Wood",
+                    "id": "A5113432243"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                }
+            ],
+            "venue": "Cancer"
+        },
+        "W2027215397": {
+            "id": "W2027215397",
+            "title": "Aggressive treatment for bladder cancer is associated with improved overall survival among patients 80 years old or older",
+            "year": 2004,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "David A. Taub",
+                    "id": "A5076877994"
+                },
+                {
+                    "name": "Rodney L. Dunn",
+                    "id": "A5059567824"
+                },
+                {
+                    "name": "Willie Underwood",
+                    "id": "A5002476840"
+                },
+                {
+                    "name": "James E. Montie",
+                    "id": "A5076002647"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                }
+            ],
+            "venue": "Urology"
+        },
+        "W2017184077": {
+            "id": "W2017184077",
+            "title": "Volume, Process of Care, and Operative Mortality for Cystectomy for Bladder Cancer",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Yongliang Wei",
+                    "id": "A5102105191"
+                },
+                {
+                    "name": "John D. Birkmeyer",
+                    "id": "A5011328405"
+                }
+            ],
+            "venue": "Urology"
+        },
+        "W2103508191": {
+            "id": "W2103508191",
+            "title": "Use of Advanced Treatment Technologies Among Men at Low Risk of Dying From Prostate Cancer",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Bruce L. Jacobs",
+                    "id": "A5045850669"
+                },
+                {
+                    "name": "Yun Zhang",
+                    "id": "A5100706509"
+                },
+                {
+                    "name": "Florian R. Schroeck",
+                    "id": "A5059389902"
+                },
+                {
+                    "name": "Ted A. Skolarus",
+                    "id": "A5003694149"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                },
+                {
+                    "name": "James E. Montie",
+                    "id": "A5076002647"
+                },
+                {
+                    "name": "Scott M. Gilbert",
+                    "id": "A5016805354"
+                },
+                {
+                    "name": "Seth A. Strope",
+                    "id": "A5046844345"
+                },
+                {
+                    "name": "Rodney L. Dunn",
+                    "id": "A5059567824"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                }
+            ],
+            "venue": "JAMA"
+        },
+        "W2058454440": {
+            "id": "W2058454440",
+            "title": "Processed total motile sperm count correlates with pregnancy outcome after intrauterine insemination",
+            "year": 2002,
+            "authors": [
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566717"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Gary D. Smith",
+                    "id": "A5072281558"
+                },
+                {
+                    "name": "John F. Randolph",
+                    "id": "A5069551677"
+                },
+                {
+                    "name": "Gregory M. Christman",
+                    "id": "A5028985571"
+                },
+                {
+                    "name": "Yolanda R. Smith",
+                    "id": "A5114031845"
+                },
+                {
+                    "name": "Dan I. Lebovic",
+                    "id": "A5036147397"
+                },
+                {
+                    "name": "Dana A. Ohl",
+                    "id": "A5042644813"
+                }
+            ],
+            "venue": "Urology"
+        },
+        "W2087451337": {
+            "id": "W2087451337",
+            "title": "Volume-Based Referral for Cancer Surgery: Informing the Debate",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Rodney L. Dunn",
+                    "id": "A5059567824"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "Stephanie Daignault",
+                    "id": "A5109138258"
+                },
+                {
+                    "name": "David A. Taub",
+                    "id": "A5076877994"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                }
+            ],
+            "venue": "Journal of Clinical Oncology"
+        },
+        "W4238494775": {
+            "id": "W4238494775",
+            "title": "Guidelines for Reporting of Statistics for Clinical Research in Urology",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Melissa Assel",
+                    "id": "A5041375500"
+                },
+                {
+                    "name": "Daniel D. Sjoberg",
+                    "id": "A5035902985"
+                },
+                {
+                    "name": "Andrew Elders",
+                    "id": "A5070808034"
+                },
+                {
+                    "name": "Xuemei Wang",
+                    "id": "A5100390607"
+                },
+                {
+                    "name": "Dezheng Huo",
+                    "id": "A5015502083"
+                },
+                {
+                    "name": "Albert Botchway",
+                    "id": "A5001210391"
+                },
+                {
+                    "name": "Kristin Delfino",
+                    "id": "A5082716887"
+                },
+                {
+                    "name": "Yunhua Fan",
+                    "id": "A5114224913"
+                },
+                {
+                    "name": "Zhiguo Zhao",
+                    "id": "A5105350190"
+                },
+                {
+                    "name": "Tatsuki Koyama",
+                    "id": "A5048600723"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Rui Qin",
+                    "id": "A5101584383"
+                },
+                {
+                    "name": "Whitney E. Zahnd",
+                    "id": "A5081656928"
+                },
+                {
+                    "name": "Emily C. Zabor",
+                    "id": "A5053547168"
+                },
+                {
+                    "name": "Michael W. Kattan",
+                    "id": "A5054374857"
+                },
+                {
+                    "name": "Andrew J. Vickers",
+                    "id": "A5025886998"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2105346310": {
+            "id": "W2105346310",
+            "title": "Development and Validation of the Bladder Cancer Index: A Comprehensive, Disease Specific Measure of Health Related Quality of Life in Patients With Localized Bladder Cancer",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Scott M. Gilbert",
+                    "id": "A5016805354"
+                },
+                {
+                    "name": "Rodney L. Dunn",
+                    "id": "A5059567824"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "James E. Montie",
+                    "id": "A5076002647"
+                },
+                {
+                    "name": "Cheryl T. Lee",
+                    "id": "A5032617990"
+                },
+                {
+                    "name": "David P. Wood",
+                    "id": "A5113432243"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2003793255": {
+            "id": "W2003793255",
+            "title": "Changes in Gender Distribution of Urinary Stone Disease",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "Seth A. Strope",
+                    "id": "A5046844345"
+                },
+                {
+                    "name": "J. Stuart Wolf",
+                    "id": "A5011818892"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                }
+            ],
+            "venue": "Urology"
+        },
+        "W2132261853": {
+            "id": "W2132261853",
+            "title": "Physician-Ownership Of Ambulatory Surgery Centers Linked To Higher Volume Of Surgeries",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                },
+                {
+                    "name": "Zaojun Ye",
+                    "id": "A5080737222"
+                },
+                {
+                    "name": "Seth A. Strope",
+                    "id": "A5046844345"
+                },
+                {
+                    "name": "Sarah L. Krein",
+                    "id": "A5045179277"
+                },
+                {
+                    "name": "Ann T. Hollenbeck",
+                    "id": "A5021185117"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                }
+            ],
+            "venue": "Health Affairs"
+        },
+        "W2910871591": {
+            "id": "W2910871591",
+            "title": "Understanding the Costs Associated With Surgical Care Delivery in the Medicare Population",
+            "year": 2019,
+            "authors": [
+                {
+                    "name": "Deborah R. Kaye",
+                    "id": "A5059920493"
+                },
+                {
+                    "name": "Amy N. Luckenbaugh",
+                    "id": "A5077911967"
+                },
+                {
+                    "name": "Mary Oerline",
+                    "id": "A5084644000"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Lindsey A. Herrel",
+                    "id": "A5008395825"
+                },
+                {
+                    "name": "Justin B. Dimick",
+                    "id": "A5069321101"
+                },
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                }
+            ],
+            "venue": "Annals of Surgery"
+        },
+        "W2046688146": {
+            "id": "W2046688146",
+            "title": "Costs of Radical Prostatectomy for Prostate Cancer: A Systematic Review",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Christian Bolenz",
+                    "id": "A5061644837"
+                },
+                {
+                    "name": "Stephen J. Freedland",
+                    "id": "A5036003731"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Yair Lotan",
+                    "id": "A5041923034"
+                },
+                {
+                    "name": "William T. Lowrance",
+                    "id": "A5112254682"
+                },
+                {
+                    "name": "Joel B. Nelson",
+                    "id": "A5111950819"
+                },
+                {
+                    "name": "Jim C. Hu",
+                    "id": "A5024676913"
+                }
+            ],
+            "venue": "European Urology"
+        },
+        "W2084015754": {
+            "id": "W2084015754",
+            "title": "Matched Comparison of Robotic-assisted and Open Radical Cystectomy",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Nicholas R. Styn",
+                    "id": "A5087439117"
+                },
+                {
+                    "name": "Jeffery S. Montgomery",
+                    "id": "A5110353237"
+                },
+                {
+                    "name": "David P. Wood",
+                    "id": "A5113432243"
+                },
+                {
+                    "name": "Khaled S. Hafez",
+                    "id": "A5110038615"
+                },
+                {
+                    "name": "Cheryl T. Lee",
+                    "id": "A5032617990"
+                },
+                {
+                    "name": "Christopher T. Tallman",
+                    "id": "A5004054203"
+                },
+                {
+                    "name": "Chang He",
+                    "id": "A5102794790"
+                },
+                {
+                    "name": "Heather Crossley",
+                    "id": "A5058444585"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "Alon Z. Weizer",
+                    "id": "A5018208869"
+                }
+            ],
+            "venue": "Urology"
+        },
+        "W2275516546": {
+            "id": "W2275516546",
+            "title": "Prognostic Value of Percent Gleason Grade 4 at Prostate Biopsy in Predicting Prostatectomy Pathology and Recurrence",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Adam Cole",
+                    "id": "A5091417432"
+                },
+                {
+                    "name": "Todd M. Morgan",
+                    "id": "A5027920712"
+                },
+                {
+                    "name": "Daniel E. Spratt",
+                    "id": "A5076238068"
+                },
+                {
+                    "name": "Ganesh S. Palapattu",
+                    "id": "A5056372279"
+                },
+                {
+                    "name": "Chang He",
+                    "id": "A5102794790"
+                },
+                {
+                    "name": "Scott A. Tomlins",
+                    "id": "A5068238406"
+                },
+                {
+                    "name": "Alon Z. Weizer",
+                    "id": "A5018208869"
+                },
+                {
+                    "name": "Felix Y. Feng",
+                    "id": "A5020006331"
+                },
+                {
+                    "name": "Angela Wu",
+                    "id": "A5107222346"
+                },
+                {
+                    "name": "Javed Siddiqui",
+                    "id": "A5113491883"
+                },
+                {
+                    "name": "Arul M. Chinnaiyan",
+                    "id": "A5108833506"
+                },
+                {
+                    "name": "Jeffrey S. Montgomery",
+                    "id": "A5113177810"
+                },
+                {
+                    "name": "Lakshmi P. Kunju",
+                    "id": "A5110320430"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5000093901"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                },
+                {
+                    "name": "Rohit Mehra",
+                    "id": "A5060849370"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W1994873631": {
+            "id": "W1994873631",
+            "title": "Ambulatory Surgery Centers and Their Intended Effects on Outpatient Surgery",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                },
+                {
+                    "name": "Rodney L. Dunn",
+                    "id": "A5059567824"
+                },
+                {
+                    "name": "Anne M. Suskind",
+                    "id": "A5063480864"
+                },
+                {
+                    "name": "Seth A. Strope",
+                    "id": "A5046844345"
+                },
+                {
+                    "name": "Yun Zhang",
+                    "id": "A5100356831"
+                },
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                }
+            ],
+            "venue": "Health Services Research"
+        },
+        "W4403232196": {
+            "id": "W4403232196",
+            "title": "Impact of Gene Expression Classifier Testing on Adjuvant Treatment Following Radical Prostatectomy: The G-MINOR Prospective Randomized Cluster-crossover Trial",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Todd M. Morgan",
+                    "id": "A5027920712"
+                },
+                {
+                    "name": "Stephanie Daignault\u2010Newton",
+                    "id": "A5016857247"
+                },
+                {
+                    "name": "Daniel E. Spratt",
+                    "id": "A5076238068"
+                },
+                {
+                    "name": "R. Dunn",
+                    "id": "A5112387675"
+                },
+                {
+                    "name": "Udit Singhal",
+                    "id": "A5064810797"
+                },
+                {
+                    "name": "Linda A. Okoth",
+                    "id": "A5017273688"
+                },
+                {
+                    "name": "Felix Y. Feng",
+                    "id": "A5020006331"
+                },
+                {
+                    "name": "Anna Marie Johnson",
+                    "id": "A5076549991"
+                },
+                {
+                    "name": "Brian R. Lane",
+                    "id": "A5018745113"
+                },
+                {
+                    "name": "Susan Linsell",
+                    "id": "A5110033852"
+                },
+                {
+                    "name": "Khurshid R. Ghani",
+                    "id": "A5054679776"
+                },
+                {
+                    "name": "James E. Montie",
+                    "id": "A5076002647"
+                },
+                {
+                    "name": "Rohit Mehra",
+                    "id": "A5060849370"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                },
+                {
+                    "name": "Thomas J. Maatman",
+                    "id": "A5020571731"
+                },
+                {
+                    "name": "Kirk J. Wojno",
+                    "id": "A5113697530"
+                },
+                {
+                    "name": "Frank Burks",
+                    "id": "A5040319776"
+                },
+                {
+                    "name": "Daniel Bekong",
+                    "id": "A5108162431"
+                },
+                {
+                    "name": "Jon Curry",
+                    "id": "A5108216556"
+                },
+                {
+                    "name": "Paul Rodriguez",
+                    "id": "A5112696551"
+                },
+                {
+                    "name": "Eduardo Kleer",
+                    "id": "A5055698179"
+                },
+                {
+                    "name": "Richard Sarle",
+                    "id": "A5025953768"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566718"
+                },
+                {
+                    "name": "Michael L. Cher",
+                    "id": "A5012197303"
+                }
+            ],
+            "venue": "European Urology"
+        },
+        "W4247313730": {
+            "id": "W4247313730",
+            "title": "1228: Getting \u201cUnder the Hood\u201d of the Volume-Outcome Relationship for Radical Cystectomy",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5101566717"
+                },
+                {
+                    "name": "Stephanie Daignault",
+                    "id": "A5109138258"
+                },
+                {
+                    "name": "Rodney L. Dunn",
+                    "id": "A5059567824"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W4404970201": {
+            "id": "W4404970201",
+            "title": "Hospital Quality and Racial Differences in Outcomes After Genitourinary Cancer Surgery",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Christopher Dall",
+                    "id": "A5025930749"
+                },
+                {
+                    "name": "Xiu Liu",
+                    "id": "A5100668978"
+                },
+                {
+                    "name": "Kassem Faraj",
+                    "id": "A5038258310"
+                },
+                {
+                    "name": "Arnav Srivastava",
+                    "id": "A5113249890"
+                },
+                {
+                    "name": "Samuel R. Kaufman",
+                    "id": "A5108470175"
+                },
+                {
+                    "name": "Nicholas Hartman",
+                    "id": "A5063396667"
+                },
+                {
+                    "name": "Vahakn B. Shahinian",
+                    "id": "A5082554505"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                }
+            ],
+            "venue": "Cancer Medicine"
+        },
+        "W4406155844": {
+            "id": "W4406155844",
+            "title": "Physician Payment Incentives and Active Surveillance in Low-Risk Prostate Cancer",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Arnav Srivastava",
+                    "id": "A5113249890"
+                },
+                {
+                    "name": "Samuel R. Kaufman",
+                    "id": "A5108470175"
+                },
+                {
+                    "name": "Addison Shay",
+                    "id": "A5043081183"
+                },
+                {
+                    "name": "Mary Oerline",
+                    "id": "A5084644000"
+                },
+                {
+                    "name": "Xiu Liu",
+                    "id": "A5100668978"
+                },
+                {
+                    "name": "Monica Van Til",
+                    "id": "A5109660163"
+                },
+                {
+                    "name": "Susan Linsell",
+                    "id": "A5110033852"
+                },
+                {
+                    "name": "Corinne Labardee",
+                    "id": "A5093204383"
+                },
+                {
+                    "name": "Christopher Dall",
+                    "id": "A5025930749"
+                },
+                {
+                    "name": "Kassem Faraj",
+                    "id": "A5038258310"
+                },
+                {
+                    "name": "Avinash Maganty",
+                    "id": "A5065686183"
+                },
+                {
+                    "name": "Tudor Borza",
+                    "id": "A5101691685"
+                },
+                {
+                    "name": "Kevin Ginsburg",
+                    "id": "A5057313740"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                },
+                {
+                    "name": "Vahakn B. Shahinian",
+                    "id": "A5082554505"
+                }
+            ],
+            "venue": "JAMA Network Open"
+        },
+        "W4399926446": {
+            "id": "W4399926446",
+            "title": "Survival by first\u2010line therapy and prognostic group among men with metastatic castration\u2010resistant prostate cancer",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Megan E.V. Caram",
+                    "id": "A5072323801"
+                },
+                {
+                    "name": "Kyle Kumbier",
+                    "id": "A5068959875"
+                },
+                {
+                    "name": "Phoebe A. Tsao",
+                    "id": "A5034074207"
+                },
+                {
+                    "name": "Jennifer M. Burns",
+                    "id": "A5055924737"
+                },
+                {
+                    "name": "Jordan B. Sparks",
+                    "id": "A5030843592"
+                },
+                {
+                    "name": "Kristian Stensland",
+                    "id": "A5061244538"
+                },
+                {
+                    "name": "Zachery R. Reichert",
+                    "id": "A5091728470"
+                },
+                {
+                    "name": "Joshi J. Alumkal",
+                    "id": "A5052694721"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                },
+                {
+                    "name": "Vahakn B. Shahinian",
+                    "id": "A5082554505"
+                },
+                {
+                    "name": "Alexander Tsodikov",
+                    "id": "A5008923373"
+                },
+                {
+                    "name": "Ted A. Skolarus",
+                    "id": "A5003694149"
+                }
+            ],
+            "venue": "Cancer Medicine"
+        },
+        "W4415226053": {
+            "id": "W4415226053",
+            "title": "Surgery at High-Quality Hospitals Among Medicare Advantage Beneficiaries Undergoing Cancer Surgery",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Avinash Maganty",
+                    "id": "A5065686183"
+                },
+                {
+                    "name": "Xiu Liu",
+                    "id": "A5100668978"
+                },
+                {
+                    "name": "Christopher Dall",
+                    "id": "A5025930749"
+                },
+                {
+                    "name": "Preeti Chachlani",
+                    "id": "A5092580341"
+                },
+                {
+                    "name": "Sarah Leick",
+                    "id": "A5071493151"
+                },
+                {
+                    "name": "Arnav Srivastava",
+                    "id": "A5090104632"
+                },
+                {
+                    "name": "Samuel R. Kaufman",
+                    "id": "A5108470175"
+                },
+                {
+                    "name": "Vahakn B. Shahinian",
+                    "id": "A5082554505"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                }
+            ],
+            "venue": "JAMA Surgery"
+        },
+        "W4232216348": {
+            "id": "W4232216348",
+            "title": "1818 COMPARATIVE EFFECTIVENESS OF EXTERNAL BEAM RADIATION APPROACHES FOR PROSTATE CANCER",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Bruce L. Jacobs",
+                    "id": "A5045850669"
+                },
+                {
+                    "name": "Yun Zhang",
+                    "id": "A5100356831"
+                },
+                {
+                    "name": "Ted A. Skolarus",
+                    "id": "A5003694149"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                },
+                {
+                    "name": "James E. Montie",
+                    "id": "A5076002647"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5021002700"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W4250335004": {
+            "id": "W4250335004",
+            "title": "649: Variable Penetrance of a Consensus Classification Scheme for Renal Cell Carcinoma",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5013929599"
+                },
+                {
+                    "name": "Stephanie Daignault",
+                    "id": "A5109138258"
+                },
+                {
+                    "name": "Rajal B. Shah",
+                    "id": "A5063913503"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W4243850573": {
+            "id": "W4243850573",
+            "title": "1307: Clinical Skills Acquisition for Hand-Assisted Laparoscopic Donor Nephrectomy",
+            "year": 2004,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                },
+                {
+                    "name": "William K. Johnston",
+                    "id": "A5101095482"
+                },
+                {
+                    "name": "J. Stuart Wolf",
+                    "id": "A5038175269"
+                },
+                {
+                    "name": "Ann Arbor",
+                    "id": "A5111946115"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W4225259276": {
+            "id": "W4225259276",
+            "title": "PD13-06\u2003COMPREHENSIVE RETROSPECTIVE ASSESSMENT OF CLINICAL OUTCOMES WITH RADICAL PROSTATECTOMY AND RADIOTHERAPY IN PROSTATE CANCER REVEALS INADEQUACIES IN OBSERVATIONAL DATASETS",
+            "year": 2022,
+            "authors": [
+                {
+                    "name": "Udit Singhal",
+                    "id": "A5064810797"
+                },
+                {
+                    "name": "Stephanie Daignault\u2010Newton",
+                    "id": "A5016857247"
+                },
+                {
+                    "name": "Allison Furgal",
+                    "id": "A5030848846"
+                },
+                {
+                    "name": "Yilun Sun",
+                    "id": "A5014871240"
+                },
+                {
+                    "name": "Jeffrey J. Tosoian",
+                    "id": "A5012794522"
+                },
+                {
+                    "name": "Lauren J. Beesley",
+                    "id": "A5004806713"
+                },
+                {
+                    "name": "Robert T. Dess",
+                    "id": "A5034708452"
+                },
+                {
+                    "name": "Will Jackson",
+                    "id": "A5073099461"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                },
+                {
+                    "name": "Daniel A. Hamstra",
+                    "id": "A5000908221"
+                },
+                {
+                    "name": "Ganesh S. Palapattu",
+                    "id": "A5056372279"
+                },
+                {
+                    "name": "Felix Y. Feng",
+                    "id": "A5020006331"
+                },
+                {
+                    "name": "Jeremy M. G. Taylor",
+                    "id": "A5040007176"
+                },
+                {
+                    "name": "Daniel E. Spratt",
+                    "id": "A5076238068"
+                },
+                {
+                    "name": "Todd M. Morgan",
+                    "id": "A5027920712"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W4235618515": {
+            "id": "W4235618515",
+            "title": "Understanding Potential Intraoperative Impediments for Learning Laparoscopic Nephrectomy",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "Alon Z. Weizer",
+                    "id": "A5018208869"
+                },
+                {
+                    "name": "Zaojun Ye",
+                    "id": "A5080737222"
+                },
+                {
+                    "name": "J. Stuart Wolf",
+                    "id": "A5108270167"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                }
+            ],
+            "venue": "Journal of Endourology"
+        },
+        "W4235801208": {
+            "id": "W4235801208",
+            "title": "WITHDRAWN: Impact of tertiary Gleason pattern 5 on prostate cancer aggressiveness: lessons from a contemporary single institution radical prostatectomy series",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Zachary B. Koloff",
+                    "id": "A5026706480"
+                },
+                {
+                    "name": "Daniel A. Hamstra",
+                    "id": "A5000908221"
+                },
+                {
+                    "name": "John T. Wei",
+                    "id": "A5110265854"
+                },
+                {
+                    "name": "Jeffrey S. Montgomery",
+                    "id": "A5113177810"
+                },
+                {
+                    "name": "Scott A. Tomlins",
+                    "id": "A5068238406"
+                },
+                {
+                    "name": "Angela Wu",
+                    "id": "A5107222346"
+                },
+                {
+                    "name": "Todd M. Morgan",
+                    "id": "A5027920712"
+                },
+                {
+                    "name": "Javed Siddiqui",
+                    "id": "A5113491883"
+                },
+                {
+                    "name": "Kellie Paich",
+                    "id": "A5034203416"
+                },
+                {
+                    "name": "Arul M. Chinnaiyan",
+                    "id": "A5003311852"
+                },
+                {
+                    "name": "Felix Y. Feng",
+                    "id": "A5101534670"
+                },
+                {
+                    "name": "Alon Z. Weizer",
+                    "id": "A5018208869"
+                },
+                {
+                    "name": "Lakshmi P. Kunju",
+                    "id": "A5110320430"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                },
+                {
+                    "name": "David C. Miller",
+                    "id": "A5061592458"
+                },
+                {
+                    "name": "Ganesh S. Palapattu",
+                    "id": "A5056372279"
+                },
+                {
+                    "name": "Rohit Mehra",
+                    "id": "A5060849370"
+                }
+            ],
+            "venue": "Asian journal of urology"
+        },
+        "W4236636055": {
+            "id": "W4236636055",
+            "title": "Editorial Comment",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                }
+            ],
+            "venue": "Urology"
+        },
+        "W4244040472": {
+            "id": "W4244040472",
+            "title": "Reply",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Ted A. Skolarus",
+                    "id": "A5003694149"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                }
+            ],
+            "venue": "Urology"
+        },
+        "W4252048590": {
+            "id": "W4252048590",
+            "title": "Laparoscopic Nephron-Sparing Surgery for a Renal Mass: 1-Year Minimum Follow-Up",
+            "year": 2004,
+            "authors": [
+                {
+                    "name": "Brian Seifman",
+                    "id": "A5089980284"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                },
+                {
+                    "name": "J. Stuart Wolf",
+                    "id": "A5037806746"
+                }
+            ],
+            "venue": "Journal of Endourology"
+        },
+        "W4253937039": {
+            "id": "W4253937039",
+            "title": "V708: Partial Nephrectomy for Small Renal Masses: An Emerging Quality of Care Concern?",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "David C. Miller",
+                    "id": "A5061592458"
+                },
+                {
+                    "name": "John M. Hollingsworth",
+                    "id": "A5091010294"
+                },
+                {
+                    "name": "Khaled S. Hafez",
+                    "id": "A5110038615"
+                },
+                {
+                    "name": "Stephanie Daignault",
+                    "id": "A5109138258"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5003196207"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W7128774213": {
+            "id": "W7128774213",
+            "title": "Same Day Discharge After Prostatectomy for Prostate Cancer and Readmissions",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Christopher Dall",
+                    "id": "A5025930749"
+                },
+                {
+                    "name": "X. Liu",
+                    "id": "A5107953666"
+                },
+                {
+                    "name": "Sarah J. Leick",
+                    "id": "A5125924472"
+                },
+                {
+                    "name": "Preeti Chachlani",
+                    "id": "A5092580341"
+                },
+                {
+                    "name": "Kassem S. Faraj",
+                    "id": "A5125995421"
+                },
+                {
+                    "name": "Arnav Srivastava",
+                    "id": "A5115601650"
+                },
+                {
+                    "name": "Samuel R. Kaufman",
+                    "id": "A5108470175"
+                },
+                {
+                    "name": "Vahakn B. Shahinian",
+                    "id": "A5082554505"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5125897294"
+                }
+            ],
+            "venue": "Cancer Medicine"
+        },
+        "W7147016388": {
+            "id": "W7147016388",
+            "title": "Evaluating the Continuity of Telehealth Usage Among Hispanics: The Impact of Language Barriers",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Zhiyu Qian",
+                    "id": "A5038183412"
+                },
+                {
+                    "name": "Hanna Zurl",
+                    "id": "A5050671767"
+                },
+                {
+                    "name": "Stephan M. Korn",
+                    "id": "A5132635146"
+                },
+                {
+                    "name": "Filippo Dagnino",
+                    "id": "A5132651632"
+                },
+                {
+                    "name": "Klara Pohl",
+                    "id": "A5132588694"
+                },
+                {
+                    "name": "Andrea Piccolini",
+                    "id": "A5094048634"
+                },
+                {
+                    "name": "Adam S. Kibel",
+                    "id": "A5072104844"
+                },
+                {
+                    "name": "Stuart R. Lipsitz",
+                    "id": "A5076886998"
+                },
+                {
+                    "name": "Chad Ellimootil",
+                    "id": "A5065669045"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5132542216"
+                },
+                {
+                    "name": "Quoc\u2010Dien Trinh",
+                    "id": "A5110730719"
+                },
+                {
+                    "name": "Alexander P. Cole",
+                    "id": "A5086006232"
+                }
+            ],
+            "venue": "Journal of General Internal Medicine"
+        },
+        "W7122467759": {
+            "id": "W7122467759",
+            "title": "Impact of In\u2010Office Dispensing Adoption by Urology Practices on Oral Specialty Drug Use in Advanced Prostate Cancer",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Kassem S. Faraj",
+                    "id": "A5122841959"
+                },
+                {
+                    "name": "Mary Oerline",
+                    "id": "A5084644000"
+                },
+                {
+                    "name": "Samuel R. Kaufman",
+                    "id": "A5108470175"
+                },
+                {
+                    "name": "Christopher Dall",
+                    "id": "A5025930749"
+                },
+                {
+                    "name": "Arnav Srivastava",
+                    "id": "A5122829390"
+                },
+                {
+                    "name": "Xiu Liu",
+                    "id": "A5016149701"
+                },
+                {
+                    "name": "Megan E. V. Caram",
+                    "id": "A5122810367"
+                },
+                {
+                    "name": "Vahakn B. Shahinian",
+                    "id": "A5082554505"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5122742072"
+                }
+            ],
+            "venue": "Cancer Medicine"
+        },
+        "W7131678130": {
+            "id": "W7131678130",
+            "title": "Accountable Care Organization Efficiency on Entry and Shared Savings Bonuses",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Arnav Srivastava",
+                    "id": "A5126938896"
+                },
+                {
+                    "name": "Addison Shay",
+                    "id": "A5126919380"
+                },
+                {
+                    "name": "Samuel R. Kaufman",
+                    "id": "A5108470175"
+                },
+                {
+                    "name": "Xiu Liu",
+                    "id": "A5126871821"
+                },
+                {
+                    "name": "Avinash Maganty",
+                    "id": "A5124905441"
+                },
+                {
+                    "name": "Mary Oerline",
+                    "id": "A5084644000"
+                },
+                {
+                    "name": "Paula Guro",
+                    "id": "A5061690518"
+                },
+                {
+                    "name": "Dawson Hill",
+                    "id": "A5005847023"
+                },
+                {
+                    "name": "Christopher Dall",
+                    "id": "A5025930749"
+                },
+                {
+                    "name": "Kassem Faraj",
+                    "id": "A5038258310"
+                },
+                {
+                    "name": "Meiling Ying",
+                    "id": "A5123362194"
+                },
+                {
+                    "name": "Vahakn B. Shahinian",
+                    "id": "A5126900163"
+                },
+                {
+                    "name": "Brent K. Hollenbeck",
+                    "id": "A5126854707"
+                }
+            ],
+            "venue": "JAMA Network Open"
+        }
+    }
+}

@@ -1,0 +1,210 @@
+{
+    "author_name": {
+        "name": "Nancy Lane",
+        "clusters_count": 7
+    },
+    "author_data": {
+        "A5048894863": {
+            "gold_id/master_key": "Nancy_Lane_1",
+            "ids": [
+                "A5048894863"
+            ],
+            "name": "Nancy E. Lane",
+            "name_first": "Nancy",
+            "name_middle": "E.",
+            "name_last": "Lane",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 760,
+            "works": [
+                "W2130513475",
+                "W2118576106",
+                "W2314674563",
+                "W4213290578",
+                "W2134905207",
+                "W3132024224",
+                "W2622691876"
+            ]
+        },
+        "A5103649479": {
+            "gold_id/master_key": "Nancy_Lane_2",
+            "ids": [
+                "A5103649479",
+                "A5109139344"
+            ],
+            "name": "Nancy J. Lane",
+            "name_first": "Nancy",
+            "name_middle": "J.",
+            "name_last": "Lane",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 105,
+            "works": [
+                "W1124397849",
+                "W2230978262",
+                "W2160882207",
+                "W2042193675",
+                "W2220916356",
+                "W1931919521",
+                "W1977891406",
+                "W2089000796",
+                "W2951628022",
+                "W2073830110",
+                "W2066201153",
+                "W2016974604",
+                "W2052853618",
+                "W2216244864",
+                "W2405625448",
+                "W2033345740",
+                "W2073020944",
+                "W2419756280",
+                "W2531527210",
+                "W2345069409",
+                "W2047844020",
+                "W1983569935",
+                "W2083854202",
+                "W2084293860",
+                "W2300978886",
+                "W2063508927",
+                "W2003273735",
+                "W2277401730",
+                "W2013122370",
+                "W2785712230",
+                "W2031271003",
+                "W1833331317",
+                "W1975887083",
+                "W2027488596"
+            ]
+        },
+        "A5108512179": {
+            "gold_id/master_key": "Nancy_Lane_3",
+            "ids": [
+                "A5108512179"
+            ],
+            "name": "Nancy Lane",
+            "name_first": "Nancy",
+            "name_middle": "",
+            "name_last": "Lane",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 14,
+            "works": [
+                "W2171298396",
+                "W2125785648",
+                "W2038371089",
+                "W1651537857",
+                "W2129530019",
+                "W2004264100",
+                "W2159218970",
+                "W2406752572",
+                "W2081342701",
+                "W2119446773",
+                "W1683671932",
+                "W2166002016",
+                "W2243570974",
+                "W2574973309",
+                "W4403875995"
+            ]
+        },
+        "A5020423870": {
+            "gold_id/master_key": "Nancy_Lane_4",
+            "ids": [
+                "A5020423870"
+            ],
+            "name": "Nancy Lane",
+            "name_first": "Nancy",
+            "name_middle": "",
+            "name_last": "Lane",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 24,
+            "works": [
+                "W2027794789",
+                "W2158034544",
+                "W4254893348",
+                "W2570568925",
+                "W2803002081"
+            ]
+        },
+        "A5074283079": {
+            "gold_id/master_key": "Nancy_Lane_5",
+            "ids": [
+                "A5074283079"
+            ],
+            "name": "Nancy M. Lane",
+            "name_first": "Nancy",
+            "name_middle": "M.",
+            "name_last": "Lane",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 4,
+            "works": [
+                "W2083449117",
+                "W4234129936",
+                "W1982332582",
+                "W4236187933"
+            ]
+        },
+        "A5033457861": {
+            "gold_id/master_key": "Nancy_Lane_6",
+            "ids": [
+                "A5033457861"
+            ],
+            "name": "Nancy M. Lane",
+            "name_first": "Nancy",
+            "name_middle": "M.",
+            "name_last": "Lane",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 4,
+            "works": [
+                "W2082615641",
+                "W4391502641",
+                "W2051329804",
+                "W2488518906"
+            ]
+        },
+        "A5045345338": {
+            "gold_id/master_key": "Nancy_Lane_7",
+            "ids": [
+                "A5045345338"
+            ],
+            "name": "Nancy Lane",
+            "name_first": "Nancy",
+            "name_middle": "",
+            "name_last": "Lane",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 6,
+            "works": [
+                "W290243797",
+                "W2883135321",
+                "W2885107745",
+                "W2886685700",
+                "W2889397671",
+                "W2891982160"
+            ]
+        }
+    }
+}

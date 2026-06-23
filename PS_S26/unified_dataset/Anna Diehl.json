@@ -1,0 +1,95 @@
+{
+    "author_name": {
+        "name": "Anna Diehl",
+        "clusters_count": 3
+    },
+    "author_data": {
+        "A5020766248": {
+            "gold_id/master_key": "Anna_Diehl_1",
+            "ids": [
+                "A5020766248",
+                "A5103814133",
+                "A5111720852",
+                "A5121760924",
+                "A5129387051",
+                "A5125722301",
+                "A5124804073"
+            ],
+            "name": "Anna Mae Diehl",
+            "name_first": "Anna",
+            "name_middle": "Mae",
+            "name_last": "Diehl",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 675,
+            "works": [
+                "W1963683487",
+                "W2062812115",
+                "W2106768039",
+                "W2106061083",
+                "W2178380008",
+                "W2072390396",
+                "W2770129291",
+                "W2142431039",
+                "W2092412521",
+                "W2086066803",
+                "W2314673390",
+                "W2088366586",
+                "W1986323764",
+                "W2788821298",
+                "W2034700421",
+                "W2022763702",
+                "W1994261934",
+                "W1530129189",
+                "W2064085622",
+                "W2025875442",
+                "W4308885474",
+                "W2062274484",
+                "W2996767769",
+                "W7118013752",
+                "W7136044562",
+                "W7136055901",
+                "W7127193833"
+            ]
+        },
+        "A5109410573": {
+            "gold_id/master_key": "Anna_Diehl_2",
+            "ids": [
+                "A5109410573"
+            ],
+            "name": "Anna Diehl",
+            "name_first": "Anna",
+            "name_middle": "",
+            "name_last": "Diehl",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": [
+                "W2903642214"
+            ]
+        },
+        "A5043697912": {
+            "gold_id/master_key": "Anna_Diehl_3",
+            "ids": [
+                "A5043697912"
+            ],
+            "name": "Anna Caroline Menegusso Diehl",
+            "name_first": "Anna",
+            "name_middle": "Caroline Menegusso",
+            "name_last": "Diehl",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 1,
+            "works": []
+        }
+    }
+}

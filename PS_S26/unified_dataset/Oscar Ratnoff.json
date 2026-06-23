@@ -1,0 +1,987 @@
+{
+    "author_name": {
+        "name": "Oscar Ratnoff",
+        "clusters_count": 2
+    },
+    "author_data": {
+        "A5045639353": {
+            "gold_id/master_key": "oscar_ratnoff_1",
+            "ids": [
+                "A5045639353",
+                "A5111859718"
+            ],
+            "name": "Oscar D. Ratnoff",
+            "name_first": "Oscar",
+            "name_middle": "D.",
+            "name_last": "Ratnoff",
+            "field": null,
+            "fields": [
+                "Hematology",
+                "Immunology"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 265,
+            "works": [
+                "W2059991147",
+                "W2158841112",
+                "W2053264658",
+                "W2407866941",
+                "W2102613564",
+                "W2338461256",
+                "W4294294157",
+                "W1628373838",
+                "W2050199652",
+                "W1509856372",
+                "W2323200316",
+                "W2063901583",
+                "W2241911783",
+                "W1997789728",
+                "W1970825112",
+                "W2022401861",
+                "W1521520191",
+                "W2419029998",
+                "W2082922667",
+                "W2085153498",
+                "W2213618112",
+                "W2047688981",
+                "W88200672",
+                "W2048114620",
+                "W1989927050",
+                "W2087926948",
+                "W178588763",
+                "W1985273920",
+                "W2064758959",
+                "W2089788005",
+                "W2274708636",
+                "W2413659726",
+                "W2516714271",
+                "W4387206601",
+                "W4389277013",
+                "W4414714279",
+                "W4415519795",
+                "W4415519960"
+            ]
+        },
+        "A5095645386": {
+            "gold_id/master_key": "oscar_ratnoff_2",
+            "ids": [
+                "A5095645386"
+            ],
+            "name": "Oscar Ratnoff",
+            "name_first": "Oscar",
+            "name_middle": "",
+            "name_last": "Ratnoff",
+            "field": null,
+            "fields": [
+                "Sociology",
+                "Political Science",
+                "Marriage and Sexual Relationships"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 17,
+            "works": []
+        }
+    },
+    "works_data": {
+        "W2059991147": {
+            "id": "W2059991147",
+            "title": "Waterfall Sequence for Intrinsic Blood Clotting",
+            "year": 1964,
+            "authors": [
+                {
+                    "name": "Earl W. Davie",
+                    "id": "A5070437574"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                }
+            ],
+            "venue": "Science"
+        },
+        "W2158841112": {
+            "id": "W2158841112",
+            "title": "Immunologic differentiation of classic hemophilia (factor VIII deficiency) and von Willebrand's disease",
+            "year": 1971,
+            "authors": [
+                {
+                    "name": "T S Zimmerman",
+                    "id": "A5109571530"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Arnold E. Powell",
+                    "id": "A5111486340"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W2053264658": {
+            "id": "W2053264658",
+            "title": "A FAMILIAL HEMORRHAGIC TRAIT ASSOCIATED WITH A DEFICIENCY OF A CLOT-PROMOTING FRACTION OF PLASMA 1",
+            "year": 1955,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Joan E. Colopy",
+                    "id": "A5019565159"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W2407866941": {
+            "id": "W2407866941",
+            "title": "A new method for the determination of fibrinogen in small samples of plasma.",
+            "year": 1951,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Calvin M. Menzie",
+                    "id": "A5028664034"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2102613564": {
+            "id": "W2102613564",
+            "title": "THE INHIBITION OF PLASMIN, PLASMA KALLIKREIN, PLASMA PERMEABILITY FACTOR, AND THE C'1r SUBCOMPONENT OF THE FIRST COMPONENT OF COMPLEMENT BY SERUM C'1 ESTERASE INHIBITOR",
+            "year": 1969,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Jack Pensky",
+                    "id": "A5000757373"
+                },
+                {
+                    "name": "D. Ogston",
+                    "id": "A5037016722"
+                },
+                {
+                    "name": "George B. Naff",
+                    "id": "A5029209172"
+                }
+            ],
+            "venue": "The Journal of Experimental Medicine"
+        },
+        "W2338461256": {
+            "id": "W2338461256",
+            "title": "Intravascular Hemolysis, Thrombocytopenia and Other Hematologic Abnormalities Associated with Severe Toxemia of Pregnancy",
+            "year": 1954,
+            "authors": [
+                {
+                    "name": "Jack A. Pritchard",
+                    "id": "A5018225276"
+                },
+                {
+                    "name": "R. Bruce Weisman",
+                    "id": "A5045716690"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Gilbert J. Vosburgh",
+                    "id": "A5019095291"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W4294294157": {
+            "id": "W4294294157",
+            "title": "CIRCULATING ANTICOAGULANTS",
+            "year": 1961,
+            "authors": [
+                {
+                    "name": "Alvin Margolius",
+                    "id": "A5020523157"
+                },
+                {
+                    "name": "Dudley P. Jackson",
+                    "id": "A5109068272"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                }
+            ],
+            "venue": "Medicine"
+        },
+        "W1628373838": {
+            "id": "W1628373838",
+            "title": "Fitzgerald Trait",
+            "year": 1975,
+            "authors": [
+                {
+                    "name": "Hidehiko Saito",
+                    "id": "A5050087202"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "R. Waldmann",
+                    "id": "A5030170250"
+                },
+                {
+                    "name": "Joseph P. Abraham",
+                    "id": "A5033293508"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W2050199652": {
+            "id": "W2050199652",
+            "title": "Thrombosis or Myocardial Infarction in Congenital Clotting Factor Abnormalities and Chronic Thrombocytopenias",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "Lawrence T. Goodnough",
+                    "id": "A5030485203"
+                },
+                {
+                    "name": "Hidehiko Saito",
+                    "id": "A5050087202"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                }
+            ],
+            "venue": "Medicine"
+        },
+        "W1509856372": {
+            "id": "W1509856372",
+            "title": "Permeability-increasing activity in hereditary angioneurotic edema plasma",
+            "year": 1969,
+            "authors": [
+                {
+                    "name": "Virginia H. Donaldson",
+                    "id": "A5111696189"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Wilmar Dias da Silva",
+                    "id": "A5079383826"
+                },
+                {
+                    "name": "Fred S. Rosen",
+                    "id": "A5111433586"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W2323200316": {
+            "id": "W2323200316",
+            "title": "Observations on the Clotting Defect in Amniotic-Fluid Embolism",
+            "year": 1952,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Gilbert J. Vosburgh",
+                    "id": "A5019095291"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W2063901583": {
+            "id": "W2063901583",
+            "title": "Morphologic characteristics of adsorbed human plasma proteins on vascular grafts and biomaterials",
+            "year": 1990,
+            "authors": [
+                {
+                    "name": "Dan A. Pankowsky",
+                    "id": "A5005178899"
+                },
+                {
+                    "name": "Nicholas P. Ziats",
+                    "id": "A5026238583"
+                },
+                {
+                    "name": "Neal S. Topham",
+                    "id": "A5062592837"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "James Michael Anderson",
+                    "id": "A5086256094"
+                }
+            ],
+            "venue": "Journal of Vascular Surgery"
+        },
+        "W2241911783": {
+            "id": "W2241911783",
+            "title": "Acceleration of Fibrin Polymerization by Calcium Ions",
+            "year": 1972,
+            "authors": [
+                {
+                    "name": "Markley H. Boyer",
+                    "id": "A5111370560"
+                },
+                {
+                    "name": "John R. Shainoff",
+                    "id": "A5030516498"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                }
+            ],
+            "venue": "Blood"
+        },
+        "W1997789728": {
+            "id": "W1997789728",
+            "title": "Mediators of inflammation",
+            "year": 1976,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                }
+            ],
+            "venue": "Journal of Allergy and Clinical Immunology"
+        },
+        "W1970825112": {
+            "id": "W1970825112",
+            "title": "The Action of Russell's Viper Venom on Factor V and the Prothrombin\u2010Converting Principle",
+            "year": 1969,
+            "authors": [
+                {
+                    "name": "C. R. M. Prentice",
+                    "id": "A5051542047"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                }
+            ],
+            "venue": "British Journal of Haematology"
+        },
+        "W2022401861": {
+            "id": "W2022401861",
+            "title": "Gene transfer in vivo: sustained expression and regulation of genes introduced into the liver by receptor-targeted uptake.",
+            "year": 1994,
+            "authors": [
+                {
+                    "name": "Jos\u00e9 C. Perales",
+                    "id": "A5025935959"
+                },
+                {
+                    "name": "Thomas W. Ferkol",
+                    "id": "A5073775080"
+                },
+                {
+                    "name": "H. Beegen",
+                    "id": "A5080941909"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "R. W. Hanson",
+                    "id": "A5111631354"
+                }
+            ],
+            "venue": "Proceedings of the National Academy of Sciences"
+        },
+        "W1521520191": {
+            "id": "W1521520191",
+            "title": "Role of hageman factor in the initiation of clotting by glass",
+            "year": 1958,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Jerold M. Rosenblum",
+                    "id": "A5000244749"
+                }
+            ],
+            "venue": "The American Journal of Medicine"
+        },
+        "W2419029998": {
+            "id": "W2419029998",
+            "title": "ACTIVATION OF HAGEMAN FACTOR BY SOLUTIONS OF ELLAGIC ACID.",
+            "year": 1964,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "J. D. Crum",
+                    "id": "A5022559691"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2082922667": {
+            "id": "W2082922667",
+            "title": "The Demise of John Hageman",
+            "year": 1968,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Robert J. Busse",
+                    "id": "A5086888716"
+                },
+                {
+                    "name": "Robert P. Sheon",
+                    "id": "A5088550964"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W2085153498": {
+            "id": "W2085153498",
+            "title": "Factor XI (plasma thromboplastin antecedent) deficiency in Ashkenazi Jews is a bleeding disorder that can result from three types of point mutations.",
+            "year": 1989,
+            "authors": [
+                {
+                    "name": "Rei Asakai",
+                    "id": "A5001584630"
+                },
+                {
+                    "name": "Dominic W. Chung",
+                    "id": "A5075814041"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Earl W. Davie",
+                    "id": "A5070437574"
+                }
+            ],
+            "venue": "Proceedings of the National Academy of Sciences"
+        },
+        "W2213618112": {
+            "id": "W2213618112",
+            "title": "Rapid fibrinolysis, augmented Hageman factor (factor XII) titers, and decreased C1 esterase inhibitor titers in women taking oral contraceptives.",
+            "year": 1980,
+            "authors": [
+                {
+                    "name": "Erlinda M. Gordon",
+                    "id": "A5018623286"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Hidehiko Saito",
+                    "id": "A5050087202"
+                },
+                {
+                    "name": "V H Donaldson",
+                    "id": "A5111533357"
+                },
+                {
+                    "name": "Jack Pensky",
+                    "id": "A5000757373"
+                },
+                {
+                    "name": "Paul K. Jones",
+                    "id": "A5050757017"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2047688981": {
+            "id": "W2047688981",
+            "title": "The Changing Prognosis of Classic Hemophilia (Factor VIII \"Deficiency\")",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "Paul K. Jones",
+                    "id": "A5050757017"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                }
+            ],
+            "venue": "Annals of Internal Medicine"
+        },
+        "W88200672": {
+            "id": "W88200672",
+            "title": "Psychogenic purpura (autoerythrocyte sensitization): an unsolved dilemma.",
+            "year": 1989,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2048114620": {
+            "id": "W2048114620",
+            "title": "Studies on a family with combined functional deficiencies of vitamin K-dependent coagulation factors.",
+            "year": 1982,
+            "authors": [
+                {
+                    "name": "George H. Goldsmith",
+                    "id": "A5112099885"
+                },
+                {
+                    "name": "R E Pence",
+                    "id": "A5004307169"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "David J. Adelstein",
+                    "id": "A5031788305"
+                },
+                {
+                    "name": "B Furie",
+                    "id": "A5110912475"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W1989927050": {
+            "id": "W1989927050",
+            "title": "Mitogenic effects of coagulation factor XII and factor XIIa on HepG2 cells.",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "Katherine T. Schmeidler-Sapiro",
+                    "id": "A5012991789"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Erlinda M. Gordon",
+                    "id": "A5018623286"
+                }
+            ],
+            "venue": "Proceedings of the National Academy of Sciences"
+        },
+        "W2087926948": {
+            "id": "W2087926948",
+            "title": "SOME PROPERTIES OF AN ESTERASE DERIVED FROM PREPARATIONS OF THE FIRST COMPONENT OF COMPLEMENT",
+            "year": 1957,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "Irwin H. Lepow",
+                    "id": "A5073143379"
+                }
+            ],
+            "venue": "The Journal of Experimental Medicine"
+        },
+        "W178588763": {
+            "id": "W178588763",
+            "title": "Studies on a procoagulant fraction of southern copperhead snake venom: the preferential release of fibrinopeptide B.",
+            "year": 1970,
+            "authors": [
+                {
+                    "name": "Roger H. Herzig",
+                    "id": "A5110602556"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5045639353"
+                },
+                {
+                    "name": "John R. Shainoff",
+                    "id": "A5030516498"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W1985273920": {
+            "id": "W1985273920",
+            "title": "Studies on a circulating anticoagulant inhibiting factor XI in a patient with congenital deficiency and carcinoma of the prostate",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Juan Chediak",
+                    "id": "A5016382699"
+                },
+                {
+                    "name": "Patricia Madej\u2010Zevin",
+                    "id": "A5097059176"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5111859718"
+                },
+                {
+                    "name": "George H. Goldsmith",
+                    "id": "A5112099885"
+                },
+                {
+                    "name": "Barbara Eversox",
+                    "id": "A5107120710"
+                }
+            ],
+            "venue": "British Journal of Haematology"
+        },
+        "W2064758959": {
+            "id": "W2064758959",
+            "title": "Confirmation of Mendelian Properties of Heterodimeric Fibrinogen Molecules in a Heterozygotic Dysfibrinogenemia, \u201cFibrinogen Amarillo,\u201d Using GPRphoresis to Differentiate SemiFibrin Molecules from Fibrinogen and Fibrin",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "John R. Shainoff",
+                    "id": "A5030516498"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5111859718"
+                },
+                {
+                    "name": "Gary B. Smejkal",
+                    "id": "A5075157734"
+                },
+                {
+                    "name": "Patricia M. DiBello",
+                    "id": "A5068871080"
+                },
+                {
+                    "name": "William R. Welches",
+                    "id": "A5088602280"
+                },
+                {
+                    "name": "Helmut Lill",
+                    "id": "A5069461324"
+                },
+                {
+                    "name": "Olga V. Mitkevich",
+                    "id": "A5051619458"
+                },
+                {
+                    "name": "Phillip Periman",
+                    "id": "A5111539832"
+                }
+            ],
+            "venue": "Thrombosis Research"
+        },
+        "W2089788005": {
+            "id": "W2089788005",
+            "title": "BUT FEW ARE CHOSEN",
+            "year": 1970,
+            "authors": [
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5111859718"
+                }
+            ],
+            "venue": "The Lancet"
+        },
+        "W2274708636": {
+            "id": "W2274708636",
+            "title": "Radioimmunoassay of human Hageman factor (factor XII). [/sup 125/I tracer technique]",
+            "year": 1976,
+            "authors": [
+                {
+                    "name": "Hitoshi Sait\u00f4",
+                    "id": "A5006884303"
+                },
+                {
+                    "name": "Oscar D. Ratnoff",
+                    "id": "A5111859718"
+                },
+                {
+                    "name": "Jack Pensky",
+                    "id": "A5000757373"
+                }
+            ],
+            "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)"
+        },
+        "W2413659726": {
+            "id": "W2413659726",
+            "title": "[Estrogen receptors in advanced breast cancer].",
+            "year": 1976,
+            "authors": [
+                {
+                    "name": "P. Viladiu",
+                    "id": "A5109575644"
+                },
+                {
+                    "name": "C\u00e9sar Delgado",
+                    "id": "A5029191949"
+                },
+                {
+                    "name": "Jack Pensky",
+                    "id": "A5000757373"
+                },
+                {
+                    "name": "Pearson Oh",
+                    "id": "A5110026497"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2516714271": {
+            "id": "W2516714271",
+            "title": "Significant differential vascular and metabolic effects of simvastatin combined with ezetimibe and simvastatin alone in patients with hypercholesterolemia",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Kim Koh",
+                    "id": "A5020312657"
+                },
+                {
+                    "name": "Sang-Sub Han",
+                    "id": "A5002812625"
+                },
+                {
+                    "name": "Pearson Oh",
+                    "id": "A5110026497"
+                }
+            ],
+            "venue": "Atherosclerosis"
+        },
+        "W4387206601": {
+            "id": "W4387206601",
+            "title": "Dose-Escalated vs. Conventional Hypofractionated Radiotherapy for Lung Cancer Patients in Predominantly Central Locations",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "A. Sasse",
+                    "id": "A5059544238"
+                },
+                {
+                    "name": "Nadia Saeed",
+                    "id": "A5101780476"
+                },
+                {
+                    "name": "Pearson Oh",
+                    "id": "A5110026497"
+                },
+                {
+                    "name": "Nadine Housri",
+                    "id": "A5063104560"
+                },
+                {
+                    "name": "Christin A. Knowlton",
+                    "id": "A5108661168"
+                },
+                {
+                    "name": "Thomas J. Hayman",
+                    "id": "A5076576893"
+                },
+                {
+                    "name": "Gabrielle W. Peters",
+                    "id": "A5029913877"
+                },
+                {
+                    "name": "Andrew Campbell",
+                    "id": "A5002144126"
+                },
+                {
+                    "name": "Daniel X. Yang",
+                    "id": "A5101901305"
+                },
+                {
+                    "name": "H.S.M. Park",
+                    "id": "A5069884553"
+                }
+            ],
+            "venue": "International Journal of Radiation Oncology*Biology*Physics"
+        },
+        "W4389277013": {
+            "id": "W4389277013",
+            "title": "Dose-volume Predictors of Radiation Pneumonitis Following Thoracic Hypofractionated Radiotherapy",
+            "year": 2023,
+            "authors": [
+                {
+                    "name": "A. Sasse",
+                    "id": "A5059544238"
+                },
+                {
+                    "name": "Pearson Oh",
+                    "id": "A5110026497"
+                },
+                {
+                    "name": "Nidda Saeed",
+                    "id": "A5055868940"
+                },
+                {
+                    "name": "Daniel X. Yang",
+                    "id": "A5101901305"
+                },
+                {
+                    "name": "Thomas J. Hayman",
+                    "id": "A5076576893"
+                },
+                {
+                    "name": "Christin A. Knowlton",
+                    "id": "A5108661168"
+                },
+                {
+                    "name": "Gabrielle W. Peters",
+                    "id": "A5029913877"
+                },
+                {
+                    "name": "Andrew Campbell",
+                    "id": "A5002144126"
+                },
+                {
+                    "name": "J. Laird",
+                    "id": "A5058900172"
+                },
+                {
+                    "name": "Nadine Housri",
+                    "id": "A5063104560"
+                },
+                {
+                    "name": "H.S.M. Park",
+                    "id": "A5069884553"
+                }
+            ],
+            "venue": "International Journal of Radiation Oncology*Biology*Physics"
+        },
+        "W4414714279": {
+            "id": "W4414714279",
+            "title": "P327 PATIENT EXPERIENCE WITH VIRTUES: A DIGITAL PLATFORM FOR GUIDELINE-DIRECTED CARDIOVASCULAR CARE",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "K. Chen",
+                    "id": "A5069100968"
+                },
+                {
+                    "name": "Nellie Kamkar",
+                    "id": "A5026364763"
+                },
+                {
+                    "name": "Pearson Oh",
+                    "id": "A5110026497"
+                },
+                {
+                    "name": "Ratika Parkash",
+                    "id": "A5039188388"
+                },
+                {
+                    "name": "A. Tang",
+                    "id": "A5112059869"
+                }
+            ],
+            "venue": "Canadian Journal of Cardiology"
+        },
+        "W4415519795": {
+            "id": "W4415519795",
+            "title": "P1.07.36 A Three-Gene Signature Predicting Local Recurrence in Stage I-III NSCLC Patients Treated With Radiation Therapy",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Victoria Lee",
+                    "id": "A5080854123"
+                },
+                {
+                    "name": "Pearson Oh",
+                    "id": "A5110026497"
+                },
+                {
+                    "name": "K. Jani",
+                    "id": "A5108267811"
+                },
+                {
+                    "name": "A. Rybkin",
+                    "id": "A5045740302"
+                },
+                {
+                    "name": "Sunghee Kim",
+                    "id": "A5100654453"
+                },
+                {
+                    "name": "Abhijit A. Patel",
+                    "id": "A5065482198"
+                },
+                {
+                    "name": "Joseph Kang",
+                    "id": "A5076158524"
+                },
+                {
+                    "name": "Hae\u2010Sim Park",
+                    "id": "A5100380841"
+                },
+                {
+                    "name": "Thomas J. Hayman",
+                    "id": "A5076576893"
+                }
+            ],
+            "venue": "Journal of Thoracic Oncology"
+        },
+        "W4415519960": {
+            "id": "W4415519960",
+            "title": "P3.13.26 Sequencing of Stereotactic Body Radiation Therapy and Chemotherapy in Stage I Small Cell Lung Cancer: Practice Patterns and Outcomes",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "T. Ziaks",
+                    "id": "A5120125167"
+                },
+                {
+                    "name": "H. Park",
+                    "id": "A5073605900"
+                },
+                {
+                    "name": "Pearson Oh",
+                    "id": "A5110026497"
+                },
+                {
+                    "name": "D. Hicks",
+                    "id": "A5101913174"
+                },
+                {
+                    "name": "Christin A. Knowlton",
+                    "id": "A5108661168"
+                },
+                {
+                    "name": "J. Laird",
+                    "id": "A5058900172"
+                },
+                {
+                    "name": "Thomas J. Hayman",
+                    "id": "A5076576893"
+                }
+            ],
+            "venue": "Journal of Thoracic Oncology"
+        }
+    }
+}

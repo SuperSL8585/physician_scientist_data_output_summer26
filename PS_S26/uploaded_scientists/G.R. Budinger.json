@@ -1,0 +1,29 @@
+{
+    "author_name": {
+        "name": "G.R. Budinger",
+        "clusters_count": 1
+    },
+    "author_data": {
+        "A5122964556": {
+            "gold_id/master_key": "GR_Budinger_1",
+            "ids": [
+                "A5122964556",
+                "A5042138333"
+            ],
+            "name": "G.R. Scott Budinger",
+            "name_first": "G.R.",
+            "name_middle": "Scott",
+            "name_last": "Budinger",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": "https://www.linkedin.com/in/gr-scott-budinger-99971068",
+            "socials": [],
+            "works_count": 7,
+            "works": [
+                "W7126254212",
+                "W4313653924"
+            ]
+        }
+    }
+}

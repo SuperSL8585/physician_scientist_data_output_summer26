@@ -1,0 +1,32 @@
+{
+    "author_name": {
+        "name": "Jean-Pierre Issa",
+        "clusters_count": 1
+    },
+    "author_data": {
+        "A5129631198": {
+            "gold_id/master_key": "Jean_Pierre_Issa_1",
+            "ids": [
+                "A5128623938",
+                "A5129631198",
+                "A5128211973"
+            ],
+            "name": "Jean-Pierre J. Issa",
+            "name_first": "Jean-Pierre",
+            "name_middle": "J.",
+            "name_last": "Issa",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 4,
+            "works": [
+                "W7134744566",
+                "W7136236927",
+                "W7137030722",
+                "W7133986371"
+            ]
+        }
+    }
+}

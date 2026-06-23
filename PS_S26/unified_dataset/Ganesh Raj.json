@@ -1,0 +1,2749 @@
+{
+    "author_name": {
+        "name": "Ganesh Raj",
+        "clusters_count": 3
+    },
+    "author_data": {
+        "A5053069471": {
+            "gold_id/master_key": "ganesh_raj_1",
+            "ids": [
+                "A5053069471"
+            ],
+            "name": "Ganesh V. Raj",
+            "name_first": "Ganesh",
+            "name_middle": "V.",
+            "name_last": "Raj",
+            "field": null,
+            "fields": [
+                "Urology",
+                "Oncology",
+                "Cancer Research"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 557,
+            "works": [
+                "W2091415498",
+                "W2123344349",
+                "W2008523684",
+                "W2531506996",
+                "W2006001375",
+                "W2950114058",
+                "W1984106918",
+                "W3033920919",
+                "W2165177861",
+                "W2080246189",
+                "W2078332881",
+                "W2140898380",
+                "W2130364039",
+                "W2774213581",
+                "W2888253244",
+                "W2082926032",
+                "W2559738633",
+                "W2069556399",
+                "W1963620774",
+                "W2794303722",
+                "W2469048362",
+                "W2054720943",
+                "W2091266023",
+                "W2068100145",
+                "W4294636825",
+                "W2784159027",
+                "W1964631161",
+                "W1968162784",
+                "W2065204747",
+                "W2037594098",
+                "W2020511385",
+                "W2886972375",
+                "W2611178729",
+                "W2774748297",
+                "W2222433283"
+            ]
+        },
+        "A5006404413": {
+            "gold_id/master_key": "ganesh_raj_2",
+            "ids": [
+                "A5006404413"
+            ],
+            "name": "Ganesh Raj",
+            "name_first": "Ganesh",
+            "name_middle": "",
+            "name_last": "Raj",
+            "field": null,
+            "fields": [
+                "Electrical Engineering",
+                "Materials Science"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 5,
+            "works": [
+                "W3134303991"
+            ]
+        },
+        "A5094198546": {
+            "gold_id/master_key": "ganesh_raj_3",
+            "ids": [
+                "A5094198546"
+            ],
+            "name": "Ganesh Raj",
+            "name_first": "Ganesh",
+            "name_middle": "",
+            "name_last": "Raj",
+            "field": null,
+            "fields": [
+                "Cancer Research",
+                "Hormone Receptors"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 10,
+            "works": []
+        }
+    },
+    "works_data": {
+        "W2091415498": {
+            "id": "W2091415498",
+            "title": "How To Build and Interpret a Nomogram for Cancer Prognosis",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "Alexia Iasonos",
+                    "id": "A5001429608"
+                },
+                {
+                    "name": "Deborah Schrag",
+                    "id": "A5088893766"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Katherine S. Panageas",
+                    "id": "A5002965160"
+                }
+            ],
+            "venue": "Journal of Clinical Oncology"
+        },
+        "W2123344349": {
+            "id": "W2123344349",
+            "title": "Chronic kidney disease after nephrectomy in patients with renal cortical tumours: a retrospective cohort study",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "William C. Huang",
+                    "id": "A5062108383"
+                },
+                {
+                    "name": "Andrew S. Levey",
+                    "id": "A5032690087"
+                },
+                {
+                    "name": "Angel M. Serio",
+                    "id": "A5078841695"
+                },
+                {
+                    "name": "Mark E. Snyder",
+                    "id": "A5075378293"
+                },
+                {
+                    "name": "Andrew J. Vickers",
+                    "id": "A5025886998"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Peter T. Scardino",
+                    "id": "A5012224683"
+                },
+                {
+                    "name": "Paul Russo",
+                    "id": "A5030709443"
+                }
+            ],
+            "venue": "The Lancet Oncology"
+        },
+        "W2008523684": {
+            "id": "W2008523684",
+            "title": "Defining Early Morbidity of Radical Cystectomy for Patients with Bladder Cancer Using a Standardized Reporting Methodology",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "Ahmad Shabsigh",
+                    "id": "A5008039593"
+                },
+                {
+                    "name": "Ruslan Korets",
+                    "id": "A5045151975"
+                },
+                {
+                    "name": "Kinjal Vora",
+                    "id": "A5017191243"
+                },
+                {
+                    "name": "Christine Brooks",
+                    "id": "A5080072690"
+                },
+                {
+                    "name": "Angel M. Cronin",
+                    "id": "A5110167899"
+                },
+                {
+                    "name": "Caroline Savage",
+                    "id": "A5107173907"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Bernard H. Bochner",
+                    "id": "A5086957919"
+                },
+                {
+                    "name": "Guido Dalbagni",
+                    "id": "A5015695327"
+                },
+                {
+                    "name": "Harry W. Herr",
+                    "id": "A5111687196"
+                },
+                {
+                    "name": "S. Machele Donat",
+                    "id": "A5035907521"
+                }
+            ],
+            "venue": "European Urology"
+        },
+        "W2531506996": {
+            "id": "W2531506996",
+            "title": "Progesterone receptor modulates ER\u03b1 action in breast cancer",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Hisham Mohammed",
+                    "id": "A5009257291"
+                },
+                {
+                    "name": "I. Alasdair Russell",
+                    "id": "A5103918006"
+                },
+                {
+                    "name": "Rory Stark",
+                    "id": "A5083500154"
+                },
+                {
+                    "name": "Oscar M. Rueda",
+                    "id": "A5000532226"
+                },
+                {
+                    "name": "Theresa E. Hickey",
+                    "id": "A5068080487"
+                },
+                {
+                    "name": "Gerard A. Tarulli",
+                    "id": "A5039588893"
+                },
+                {
+                    "name": "Aur\u00e9lien A. S\u00e9randour",
+                    "id": "A5027306694"
+                },
+                {
+                    "name": "Stephen N. Birrell",
+                    "id": "A5024538931"
+                },
+                {
+                    "name": "Alejandra Bruna",
+                    "id": "A5071581968"
+                },
+                {
+                    "name": "Amel Saadi",
+                    "id": "A5040412404"
+                },
+                {
+                    "name": "Suraj Menon",
+                    "id": "A5056942968"
+                },
+                {
+                    "name": "James Hadfield",
+                    "id": "A5081720629"
+                },
+                {
+                    "name": "Michelle Pugh",
+                    "id": "A5108653924"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Gordon D. Brown",
+                    "id": "A5101632317"
+                },
+                {
+                    "name": "Clive S. D\u2019Santos",
+                    "id": "A5103270720"
+                },
+                {
+                    "name": "Jessica Robinson",
+                    "id": "A5101406209"
+                },
+                {
+                    "name": "Grace Silva",
+                    "id": "A5002459906"
+                },
+                {
+                    "name": "Rosalind Launchbury",
+                    "id": "A5000659187"
+                },
+                {
+                    "name": "Charles M. Perou",
+                    "id": "A5062498736"
+                },
+                {
+                    "name": "Julia Stingl",
+                    "id": "A5080262638"
+                },
+                {
+                    "name": "Carlos Caldas",
+                    "id": "A5089060804"
+                },
+                {
+                    "name": "Wayne D. Tilley",
+                    "id": "A5020285542"
+                },
+                {
+                    "name": "Jason S. Carroll",
+                    "id": "A5084427699"
+                }
+            ],
+            "venue": "Nature"
+        },
+        "W2006001375": {
+            "id": "W2006001375",
+            "title": "Dual Roles of PARP-1 Promote Cancer Growth and Progression",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Matthew J. Schiewer",
+                    "id": "A5071840998"
+                },
+                {
+                    "name": "Jonathan F. Goodwin",
+                    "id": "A5021622441"
+                },
+                {
+                    "name": "Sumin Han",
+                    "id": "A5077276724"
+                },
+                {
+                    "name": "J. Chad Brenner",
+                    "id": "A5086902130"
+                },
+                {
+                    "name": "Michael A. Augello",
+                    "id": "A5074168992"
+                },
+                {
+                    "name": "Jeffry L. Dean",
+                    "id": "A5020145952"
+                },
+                {
+                    "name": "Fengzhi Liu",
+                    "id": "A5001844944"
+                },
+                {
+                    "name": "Jamie L. Planck",
+                    "id": "A5018199141"
+                },
+                {
+                    "name": "Preethi Ravindranathan",
+                    "id": "A5073355341"
+                },
+                {
+                    "name": "Arul M. Chinnaiyan",
+                    "id": "A5003311852"
+                },
+                {
+                    "name": "Peter A. McCue",
+                    "id": "A5012659487"
+                },
+                {
+                    "name": "Leonard G. Gomella",
+                    "id": "A5071741514"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Adam P. Dicker",
+                    "id": "A5049018134"
+                },
+                {
+                    "name": "Jonathan R. Brody",
+                    "id": "A5079398934"
+                },
+                {
+                    "name": "John M. Pascal",
+                    "id": "A5017027620"
+                },
+                {
+                    "name": "Margaret M. Centenera",
+                    "id": "A5080276064"
+                },
+                {
+                    "name": "Lisa M. Butler",
+                    "id": "A5050075947"
+                },
+                {
+                    "name": "Wayne D. Tilley",
+                    "id": "A5020285542"
+                },
+                {
+                    "name": "Felix Y. Feng",
+                    "id": "A5020006331"
+                },
+                {
+                    "name": "Karen E. Knudsen",
+                    "id": "A5042472942"
+                }
+            ],
+            "venue": "Cancer Discovery"
+        },
+        "W2950114058": {
+            "id": "W2950114058",
+            "title": "A Cellular Anatomy of the Normal Adult Human Prostate and Prostatic Urethra",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Gervaise H. Henry",
+                    "id": "A5015243761"
+                },
+                {
+                    "name": "Alicia Malewska",
+                    "id": "A5083251139"
+                },
+                {
+                    "name": "Diya B. Joseph",
+                    "id": "A5015037219"
+                },
+                {
+                    "name": "Venkat S. Malladi",
+                    "id": "A5013449579"
+                },
+                {
+                    "name": "Jeon Lee",
+                    "id": "A5071059792"
+                },
+                {
+                    "name": "Jos\u00e9 Torrealba",
+                    "id": "A5001005514"
+                },
+                {
+                    "name": "Ryan Mauck",
+                    "id": "A5079605065"
+                },
+                {
+                    "name": "Jeffrey Gahan",
+                    "id": "A5085518801"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Claus G. Roehrborn",
+                    "id": "A5049019006"
+                },
+                {
+                    "name": "Gary C. Hon",
+                    "id": "A5073405615"
+                },
+                {
+                    "name": "Malcolm MacConmara",
+                    "id": "A5022620756"
+                },
+                {
+                    "name": "Jeffrey Reese",
+                    "id": "A5084948708"
+                },
+                {
+                    "name": "Ryan Hutchinson",
+                    "id": "A5088939859"
+                },
+                {
+                    "name": "Chad M. Vezina",
+                    "id": "A5076908186"
+                },
+                {
+                    "name": "Douglas W. Strand",
+                    "id": "A5073118929"
+                }
+            ],
+            "venue": "Cell Reports"
+        },
+        "W1984106918": {
+            "id": "W1984106918",
+            "title": "Ureteral Access Sheath Provides Protection against Elevated Renal Pressures during Routine Flexible Ureteroscopic Stone Manipulation",
+            "year": 2004,
+            "authors": [
+                {
+                    "name": "Brian K. Auge",
+                    "id": "A5042826632"
+                },
+                {
+                    "name": "Paul K. Pietrow",
+                    "id": "A5006243580"
+                },
+                {
+                    "name": "Costas D. Lallas",
+                    "id": "A5038973155"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Robert W. Santa-Cruz",
+                    "id": "A5082745347"
+                },
+                {
+                    "name": "Glenn M. Preminger",
+                    "id": "A5052662109"
+                }
+            ],
+            "venue": "Journal of Endourology"
+        },
+        "W3033920919": {
+            "id": "W3033920919",
+            "title": "Implementation of Germline Testing for Prostate Cancer: Philadelphia Prostate Cancer Consensus Conference 2019",
+            "year": 2020,
+            "authors": [
+                {
+                    "name": "Veda N. Giri",
+                    "id": "A5075831823"
+                },
+                {
+                    "name": "Karen E. Knudsen",
+                    "id": "A5042472942"
+                },
+                {
+                    "name": "William Kevin Kelly",
+                    "id": "A5108511133"
+                },
+                {
+                    "name": "Heather H. Cheng",
+                    "id": "A5046669491"
+                },
+                {
+                    "name": "Kathleen A. Cooney",
+                    "id": "A5010980781"
+                },
+                {
+                    "name": "Michael S. Cookson",
+                    "id": "A5050663947"
+                },
+                {
+                    "name": "William L. Dahut",
+                    "id": "A5027334479"
+                },
+                {
+                    "name": "Scott M. Weissman",
+                    "id": "A5036706101"
+                },
+                {
+                    "name": "Howard R. Soule",
+                    "id": "A5058885329"
+                },
+                {
+                    "name": "Daniel P. Petrylak",
+                    "id": "A5050042851"
+                },
+                {
+                    "name": "Adam P. Dicker",
+                    "id": "A5049018134"
+                },
+                {
+                    "name": "Saud H. AlDubayan",
+                    "id": "A5091716293"
+                },
+                {
+                    "name": "Amanda E. Toland",
+                    "id": "A5048305106"
+                },
+                {
+                    "name": "Colin C. Pritchard",
+                    "id": "A5064385855"
+                },
+                {
+                    "name": "Curtis A. Pettaway",
+                    "id": "A5068197546"
+                },
+                {
+                    "name": "Mary B. Daly",
+                    "id": "A5107933751"
+                },
+                {
+                    "name": "James L. Mohler",
+                    "id": "A5074919849"
+                },
+                {
+                    "name": "J. Kellogg Parsons",
+                    "id": "A5035189778"
+                },
+                {
+                    "name": "Peter R. Carroll",
+                    "id": "A5056969058"
+                },
+                {
+                    "name": "Robert Pilarski",
+                    "id": "A5050505009"
+                },
+                {
+                    "name": "Amie Blanco",
+                    "id": "A5019349024"
+                },
+                {
+                    "name": "Ashley Woodson",
+                    "id": "A5047229451"
+                },
+                {
+                    "name": "Alanna Kulchak Rahm",
+                    "id": "A5032814784"
+                },
+                {
+                    "name": "Mary-Ellen Taplin",
+                    "id": "A5111605855"
+                },
+                {
+                    "name": "Thomas J. Polascik",
+                    "id": "A5113803429"
+                },
+                {
+                    "name": "Brian T. Helfand",
+                    "id": "A5107093696"
+                },
+                {
+                    "name": "Colette Hyatt",
+                    "id": "A5030993837"
+                },
+                {
+                    "name": "Alicia K. Morgans",
+                    "id": "A5070812529"
+                },
+                {
+                    "name": "Felix Y. Feng",
+                    "id": "A5020006331"
+                },
+                {
+                    "name": "Michael P. Mullane",
+                    "id": "A5059286546"
+                },
+                {
+                    "name": "Jacqueline Powers",
+                    "id": "A5072494576"
+                },
+                {
+                    "name": "Raoul S. Concepcion",
+                    "id": "A5028895755"
+                },
+                {
+                    "name": "Daniel W. Lin",
+                    "id": "A5071006955"
+                },
+                {
+                    "name": "Richard C. Wender",
+                    "id": "A5075665864"
+                },
+                {
+                    "name": "James Ryan Mark",
+                    "id": "A5051414753"
+                },
+                {
+                    "name": "Anthony J. Costello",
+                    "id": "A5040379508"
+                },
+                {
+                    "name": "Arthur L. Burnett",
+                    "id": "A5037019692"
+                },
+                {
+                    "name": "Oliver Sartor",
+                    "id": "A5073246821"
+                },
+                {
+                    "name": "William B. Isaacs",
+                    "id": "A5068348417"
+                },
+                {
+                    "name": "Jianfeng Xu",
+                    "id": "A5031205173"
+                },
+                {
+                    "name": "Jeffrey N. Weitzel",
+                    "id": "A5029960276"
+                },
+                {
+                    "name": "Gerald L. Andriole",
+                    "id": "A5086081364"
+                },
+                {
+                    "name": "Himisha Beltran",
+                    "id": "A5047882814"
+                },
+                {
+                    "name": "Alberto Briganti",
+                    "id": "A5031550729"
+                },
+                {
+                    "name": "Lindsey Byrne",
+                    "id": "A5034931650"
+                },
+                {
+                    "name": "Anne Calvaresi",
+                    "id": "A5082913908"
+                },
+                {
+                    "name": "Thenappan Chandrasekar",
+                    "id": "A5055673305"
+                },
+                {
+                    "name": "David Y.T. Chen",
+                    "id": "A5030829907"
+                },
+                {
+                    "name": "Robert B. Den",
+                    "id": "A5042227397"
+                },
+                {
+                    "name": "Albert Dobi",
+                    "id": "A5091150805"
+                },
+                {
+                    "name": "E. David Crawford",
+                    "id": "A5014213335"
+                },
+                {
+                    "name": "James A. Eastham",
+                    "id": "A5112262632"
+                },
+                {
+                    "name": "Scott E. Eggener",
+                    "id": "A5057040034"
+                },
+                {
+                    "name": "Matthew L. Freedman",
+                    "id": "A5086894729"
+                },
+                {
+                    "name": "Marc B. Garnick",
+                    "id": "A5111571717"
+                },
+                {
+                    "name": "Patrick T. Gomella",
+                    "id": "A5086553643"
+                },
+                {
+                    "name": "Nathan Handley",
+                    "id": "A5052329050"
+                },
+                {
+                    "name": "Mark Hurwitz",
+                    "id": "A5113836588"
+                },
+                {
+                    "name": "Joseph K. Izes",
+                    "id": "A5091846471"
+                },
+                {
+                    "name": "R. Jeffrey Karnes",
+                    "id": "A5067282152"
+                },
+                {
+                    "name": "Costas D. Lallas",
+                    "id": "A5038973155"
+                },
+                {
+                    "name": "Lucia R. Languino",
+                    "id": "A5081199003"
+                },
+                {
+                    "name": "Stacy Loeb",
+                    "id": "A5031483568"
+                },
+                {
+                    "name": "Ana Mari\u00e1 L\u00f3pez",
+                    "id": "A5049006578"
+                },
+                {
+                    "name": "Kevin R. Loughlin",
+                    "id": "A5110587923"
+                },
+                {
+                    "name": "Grace Lu\u2010Yao",
+                    "id": "A5078719816"
+                },
+                {
+                    "name": "S. Bruce Malkowicz",
+                    "id": "A5028882558"
+                },
+                {
+                    "name": "Mark Mann",
+                    "id": "A5112802525"
+                },
+                {
+                    "name": "Patrick Mille",
+                    "id": "A5074784481"
+                },
+                {
+                    "name": "Martin Miner",
+                    "id": "A5013180579"
+                },
+                {
+                    "name": "Todd M. Morgan",
+                    "id": "A5027920712"
+                },
+                {
+                    "name": "Jos\u00e9 Moreno",
+                    "id": "A5005320356"
+                },
+                {
+                    "name": "Lorelei A. Mucci",
+                    "id": "A5049753330"
+                },
+                {
+                    "name": "Ronald E. Myers",
+                    "id": "A5013023113"
+                },
+                {
+                    "name": "Sarah M. Nielsen",
+                    "id": "A5032695297"
+                },
+                {
+                    "name": "Brock O\u2019Neil",
+                    "id": "A5054836663"
+                },
+                {
+                    "name": "Wayne H. Pinover",
+                    "id": "A5113786540"
+                },
+                {
+                    "name": "Peter A. Pinto",
+                    "id": "A5038850729"
+                },
+                {
+                    "name": "Wendy Poage",
+                    "id": "A5011004478"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Timothy R. Rebbeck",
+                    "id": "A5074868327"
+                },
+                {
+                    "name": "Charles J. Ryan",
+                    "id": "A5012804612"
+                },
+                {
+                    "name": "Howard M. Sandler",
+                    "id": "A5045162411"
+                },
+                {
+                    "name": "Matthew J. Schiewer",
+                    "id": "A5071840998"
+                },
+                {
+                    "name": "Emily Scott",
+                    "id": "A5071662328"
+                },
+                {
+                    "name": "Brittany M. Szymaniak",
+                    "id": "A5057656882"
+                },
+                {
+                    "name": "William Tester",
+                    "id": "A5081885325"
+                },
+                {
+                    "name": "Edouard J. Trabulsi",
+                    "id": "A5000741843"
+                },
+                {
+                    "name": "Neha Vapiwala",
+                    "id": "A5039722276"
+                },
+                {
+                    "name": "Evan Y. Yu",
+                    "id": "A5084909001"
+                },
+                {
+                    "name": "Charnita Zeigler\u2010Johnson",
+                    "id": "A5080523435"
+                },
+                {
+                    "name": "Leonard G. Gomella",
+                    "id": "A5071741514"
+                }
+            ],
+            "venue": "Journal of Clinical Oncology"
+        },
+        "W2165177861": {
+            "id": "W2165177861",
+            "title": "Peptidomimetic targeting of critical androgen receptor\u2013coregulator interactions in prostate cancer",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Preethi Ravindranathan",
+                    "id": "A5073355341"
+                },
+                {
+                    "name": "Tae-Kyung Lee",
+                    "id": "A5113819930"
+                },
+                {
+                    "name": "Lin Yang",
+                    "id": "A5007704456"
+                },
+                {
+                    "name": "Margaret M. Centenera",
+                    "id": "A5080276064"
+                },
+                {
+                    "name": "Lisa M. Butler",
+                    "id": "A5050075947"
+                },
+                {
+                    "name": "Wayne D. Tilley",
+                    "id": "A5020285542"
+                },
+                {
+                    "name": "Jer\u2010Tsong Hsieh",
+                    "id": "A5090605165"
+                },
+                {
+                    "name": "Jung\u2010Mo Ahn",
+                    "id": "A5081196478"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                }
+            ],
+            "venue": "Nature Communications"
+        },
+        "W2080246189": {
+            "id": "W2080246189",
+            "title": "Renal Function Outcomes in Patients Treated for Renal Masses Smaller Than 4 cm by Ablative and Extirpative Techniques",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Steven Lucas",
+                    "id": "A5066963135"
+                },
+                {
+                    "name": "Joshua M. Stern",
+                    "id": "A5028828658"
+                },
+                {
+                    "name": "Mehrad Adibi",
+                    "id": "A5070934404"
+                },
+                {
+                    "name": "Ilia S. Zeltser",
+                    "id": "A5042263081"
+                },
+                {
+                    "name": "Jeffrey A. Cadeddu",
+                    "id": "A5107484929"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2078332881": {
+            "id": "W2078332881",
+            "title": "OUTCOMES FOLLOWING REVISIONS AND SECONDARY IMPLANTATION OF THE ARTIFICIAL URINARY SPHINCTER",
+            "year": 2005,
+            "authors": [
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Andrew C. Peterson",
+                    "id": "A5101879170"
+                },
+                {
+                    "name": "KHAI LEE TOH",
+                    "id": "A5113765646"
+                },
+                {
+                    "name": "George D. Webster",
+                    "id": "A5037134897"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2140898380": {
+            "id": "W2140898380",
+            "title": "The Impact of Targeted Molecular Therapies on the Level of Renal Cell Carcinoma Vena Caval Tumor Thrombus",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Nicholas G. Cost",
+                    "id": "A5054017585"
+                },
+                {
+                    "name": "Scott E. Delacroix",
+                    "id": "A5091597858"
+                },
+                {
+                    "name": "Joshua Sleeper",
+                    "id": "A5022236640"
+                },
+                {
+                    "name": "Paul Smith",
+                    "id": "A5106084000"
+                },
+                {
+                    "name": "Ramy F. Youssef",
+                    "id": "A5109137714"
+                },
+                {
+                    "name": "Brian F. Chapin",
+                    "id": "A5081777867"
+                },
+                {
+                    "name": "Jos\u00e9 A. Karam",
+                    "id": "A5073556374"
+                },
+                {
+                    "name": "Stephen H. Culp",
+                    "id": "A5003974295"
+                },
+                {
+                    "name": "E. Jason Abel",
+                    "id": "A5048671546"
+                },
+                {
+                    "name": "James Brugarolas",
+                    "id": "A5046541559"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Arthur I. Sagalowsky",
+                    "id": "A5081652574"
+                },
+                {
+                    "name": "Christopher G. Wood",
+                    "id": "A5017537551"
+                },
+                {
+                    "name": "Vitaly Margulis",
+                    "id": "A5091753897"
+                }
+            ],
+            "venue": "European Urology"
+        },
+        "W2130364039": {
+            "id": "W2130364039",
+            "title": "A Validated Tumorgraft Model Reveals Activity of Dovitinib Against Renal Cell Carcinoma",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Sharanya Sivanand",
+                    "id": "A5005479098"
+                },
+                {
+                    "name": "Samuel Pe\u00f1a\u2010Llopis",
+                    "id": "A5047903078"
+                },
+                {
+                    "name": "Hong Zhao",
+                    "id": "A5100717740"
+                },
+                {
+                    "name": "Blanka Kucejov\u00e1",
+                    "id": "A5010040303"
+                },
+                {
+                    "name": "Patrick Spence",
+                    "id": "A5109408013"
+                },
+                {
+                    "name": "Andrea Pav\u00eda-Jim\u00e9nez",
+                    "id": "A5062118125"
+                },
+                {
+                    "name": "Toshinari Yamasaki",
+                    "id": "A5009447665"
+                },
+                {
+                    "name": "David J. McBride",
+                    "id": "A5046742301"
+                },
+                {
+                    "name": "J. Gillen",
+                    "id": "A5064518569"
+                },
+                {
+                    "name": "Nicholas C. Wolff",
+                    "id": "A5011515090"
+                },
+                {
+                    "name": "Lorraine Morlock",
+                    "id": "A5044603812"
+                },
+                {
+                    "name": "Yair Lotan",
+                    "id": "A5041923034"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Arthur I. Sagalowsky",
+                    "id": "A5081652574"
+                },
+                {
+                    "name": "Vitaly Margulis",
+                    "id": "A5091753897"
+                },
+                {
+                    "name": "Jeffrey A. Cadeddu",
+                    "id": "A5107484929"
+                },
+                {
+                    "name": "Mark T. Ross",
+                    "id": "A5104275873"
+                },
+                {
+                    "name": "David Bentley",
+                    "id": "A5109214093"
+                },
+                {
+                    "name": "Wareef Kabbani",
+                    "id": "A5069582117"
+                },
+                {
+                    "name": "Xian-Jin Xie",
+                    "id": "A5001951336"
+                },
+                {
+                    "name": "Payal Kapur",
+                    "id": "A5069595062"
+                },
+                {
+                    "name": "Noelle S. Williams",
+                    "id": "A5089880476"
+                },
+                {
+                    "name": "James Brugarolas",
+                    "id": "A5046541559"
+                }
+            ],
+            "venue": "Science Translational Medicine"
+        },
+        "W2774213581": {
+            "id": "W2774213581",
+            "title": "Role of Genetic Testing for Inherited Prostate Cancer Risk: Philadelphia Prostate Cancer Consensus Conference 2017",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Veda N. Giri",
+                    "id": "A5075831823"
+                },
+                {
+                    "name": "Karen E. Knudsen",
+                    "id": "A5042472942"
+                },
+                {
+                    "name": "William Kevin Kelly",
+                    "id": "A5108511133"
+                },
+                {
+                    "name": "Wassim Abida",
+                    "id": "A5062426672"
+                },
+                {
+                    "name": "Gerald L. Andriole",
+                    "id": "A5086081364"
+                },
+                {
+                    "name": "Chris H. Bangma",
+                    "id": "A5108793445"
+                },
+                {
+                    "name": "Justin E. Bekelman",
+                    "id": "A5043470257"
+                },
+                {
+                    "name": "Mitchell C. Benson",
+                    "id": "A5011642832"
+                },
+                {
+                    "name": "Amie Blanco",
+                    "id": "A5019349024"
+                },
+                {
+                    "name": "Arthur L. Burnett",
+                    "id": "A5037019692"
+                },
+                {
+                    "name": "William J. Cat\u00e0lona",
+                    "id": "A5065869555"
+                },
+                {
+                    "name": "Kathleen A. Cooney",
+                    "id": "A5010980781"
+                },
+                {
+                    "name": "Matthew R. Cooperberg",
+                    "id": "A5086007942"
+                },
+                {
+                    "name": "David Crawford",
+                    "id": "A5108794610"
+                },
+                {
+                    "name": "Robert B. Den",
+                    "id": "A5042227397"
+                },
+                {
+                    "name": "Adam P. Dicker",
+                    "id": "A5049018134"
+                },
+                {
+                    "name": "Scott E. Eggener",
+                    "id": "A5057040034"
+                },
+                {
+                    "name": "Neil Fleshner",
+                    "id": "A5007710281"
+                },
+                {
+                    "name": "Matthew L. Freedman",
+                    "id": "A5086894729"
+                },
+                {
+                    "name": "Freddie C. Hamdy",
+                    "id": "A5012694886"
+                },
+                {
+                    "name": "Jean Hoffman\u2010Censits",
+                    "id": "A5044979250"
+                },
+                {
+                    "name": "Mark Hurwitz",
+                    "id": "A5113836588"
+                },
+                {
+                    "name": "Colette Hyatt",
+                    "id": "A5030993837"
+                },
+                {
+                    "name": "William B. Isaacs",
+                    "id": "A5068348417"
+                },
+                {
+                    "name": "Christopher J. Kane",
+                    "id": "A5017807474"
+                },
+                {
+                    "name": "Philip W. Kantoff",
+                    "id": "A5056766924"
+                },
+                {
+                    "name": "R. Jeffrey Karnes",
+                    "id": "A5067282152"
+                },
+                {
+                    "name": "Lawrence I. Karsh",
+                    "id": "A5024685539"
+                },
+                {
+                    "name": "Eric A. Klein",
+                    "id": "A5001069772"
+                },
+                {
+                    "name": "Daniel W. Lin",
+                    "id": "A5071006955"
+                },
+                {
+                    "name": "Kevin R. Loughlin",
+                    "id": "A5110587923"
+                },
+                {
+                    "name": "Grace L. Lu\u2010Yao",
+                    "id": "A5026667667"
+                },
+                {
+                    "name": "S. Bruce Malkowicz",
+                    "id": "A5031494172"
+                },
+                {
+                    "name": "Mark Mann",
+                    "id": "A5112802525"
+                },
+                {
+                    "name": "James Ryan Mark",
+                    "id": "A5051414753"
+                },
+                {
+                    "name": "Peter A. McCue",
+                    "id": "A5012659487"
+                },
+                {
+                    "name": "Martin Miner",
+                    "id": "A5013180579"
+                },
+                {
+                    "name": "Todd M. Morgan",
+                    "id": "A5027920712"
+                },
+                {
+                    "name": "Judd W. Moul",
+                    "id": "A5033253417"
+                },
+                {
+                    "name": "Ronald E. Myers",
+                    "id": "A5013023113"
+                },
+                {
+                    "name": "Sarah M. Nielsen",
+                    "id": "A5032695297"
+                },
+                {
+                    "name": "Elias Obeid",
+                    "id": "A5055303411"
+                },
+                {
+                    "name": "Christian P. Pavlovich",
+                    "id": "A5068192998"
+                },
+                {
+                    "name": "Stephen C. Peiper",
+                    "id": "A5113521004"
+                },
+                {
+                    "name": "David F. Penson",
+                    "id": "A5021979132"
+                },
+                {
+                    "name": "Daniel P. Petrylak",
+                    "id": "A5050042851"
+                },
+                {
+                    "name": "Curtis A. Pettaway",
+                    "id": "A5068197546"
+                },
+                {
+                    "name": "Robert Pilarski",
+                    "id": "A5050505009"
+                },
+                {
+                    "name": "Peter A. Pinto",
+                    "id": "A5038850729"
+                },
+                {
+                    "name": "Wendy Poage",
+                    "id": "A5011004478"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Timothy R. Rebbeck",
+                    "id": "A5074868327"
+                },
+                {
+                    "name": "Mark E. Robson",
+                    "id": "A5045514288"
+                },
+                {
+                    "name": "Matt T. Rosenberg",
+                    "id": "A5080568202"
+                },
+                {
+                    "name": "Howard M. Sandler",
+                    "id": "A5045162411"
+                },
+                {
+                    "name": "Oliver Sartor",
+                    "id": "A5073246821"
+                },
+                {
+                    "name": "Edward M. Schaeffer",
+                    "id": "A5013881851"
+                },
+                {
+                    "name": "Gordon F. Schwartz",
+                    "id": "A5113501920"
+                },
+                {
+                    "name": "Mark S. Shahin",
+                    "id": "A5088826153"
+                },
+                {
+                    "name": "Neal D. Shore",
+                    "id": "A5088518998"
+                },
+                {
+                    "name": "Brian Shuch",
+                    "id": "A5022014477"
+                },
+                {
+                    "name": "Howard R. Soule",
+                    "id": "A5058885329"
+                },
+                {
+                    "name": "Scott A. Tomlins",
+                    "id": "A5068238406"
+                },
+                {
+                    "name": "Edouard J. Trabulsi",
+                    "id": "A5000741843"
+                },
+                {
+                    "name": "Robert G. Uzzo",
+                    "id": "A5043554307"
+                },
+                {
+                    "name": "Donald J. Vander Griend",
+                    "id": "A5067845778"
+                },
+                {
+                    "name": "Patrick C. Walsh",
+                    "id": "A5110154818"
+                },
+                {
+                    "name": "Carol J. Weil",
+                    "id": "A5047007170"
+                },
+                {
+                    "name": "Richard C. Wender",
+                    "id": "A5075665864"
+                },
+                {
+                    "name": "Leonard G. Gomella",
+                    "id": "A5071741514"
+                }
+            ],
+            "venue": "Journal of Clinical Oncology"
+        },
+        "W2888253244": {
+            "id": "W2888253244",
+            "title": "Alternative splicing in prostate cancer",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Alec Paschalis",
+                    "id": "A5103275741"
+                },
+                {
+                    "name": "Adam Sharp",
+                    "id": "A5069346188"
+                },
+                {
+                    "name": "Jonathan Welti",
+                    "id": "A5009602906"
+                },
+                {
+                    "name": "Antje Neeb",
+                    "id": "A5026608126"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Jun Luo",
+                    "id": "A5077552075"
+                },
+                {
+                    "name": "Stephen R. Plymate",
+                    "id": "A5071161054"
+                },
+                {
+                    "name": "Johann S. de Bono",
+                    "id": "A5072378199"
+                }
+            ],
+            "venue": "Nature Reviews Clinical Oncology"
+        },
+        "W2082926032": {
+            "id": "W2082926032",
+            "title": "Treatment Paradigm Shift May Improve Survival of Patients With High Risk Superficial Bladder Cancer",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Harry W. Herr",
+                    "id": "A5111687196"
+                },
+                {
+                    "name": "Angel M. Serio",
+                    "id": "A5078841695"
+                },
+                {
+                    "name": "S. Machele Donat",
+                    "id": "A5035907521"
+                },
+                {
+                    "name": "Bernard H. Bochner",
+                    "id": "A5086957919"
+                },
+                {
+                    "name": "Andrew J. Vickers",
+                    "id": "A5025886998"
+                },
+                {
+                    "name": "Guido Dalbagni",
+                    "id": "A5015695327"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2559738633": {
+            "id": "W2559738633",
+            "title": "Truncation and constitutive activation of the androgen receptor by diverse genomic rearrangements in prostate cancer",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Christine Henzler",
+                    "id": "A5029207742"
+                },
+                {
+                    "name": "Yingming Li",
+                    "id": "A5101465139"
+                },
+                {
+                    "name": "Rendong Yang",
+                    "id": "A5074555821"
+                },
+                {
+                    "name": "Terri D. McBride",
+                    "id": "A5028412213"
+                },
+                {
+                    "name": "Yeung Ho",
+                    "id": "A5112904794"
+                },
+                {
+                    "name": "Cynthia C.T. Sprenger",
+                    "id": "A5042795991"
+                },
+                {
+                    "name": "Gang Liu",
+                    "id": "A5100412404"
+                },
+                {
+                    "name": "Ilsa M. Coleman",
+                    "id": "A5079338108"
+                },
+                {
+                    "name": "Bryce Lakely",
+                    "id": "A5064176877"
+                },
+                {
+                    "name": "Rui Li",
+                    "id": "A5100448311"
+                },
+                {
+                    "name": "Shihong Ma",
+                    "id": "A5039009031"
+                },
+                {
+                    "name": "Sean R. Landman",
+                    "id": "A5070903389"
+                },
+                {
+                    "name": "Vipin Kumar",
+                    "id": "A5101729731"
+                },
+                {
+                    "name": "Tae Hyun Hwang",
+                    "id": "A5102879783"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Celestia S. Higano",
+                    "id": "A5001591556"
+                },
+                {
+                    "name": "Colm Morrissey",
+                    "id": "A5014047283"
+                },
+                {
+                    "name": "Peter S. Nelson",
+                    "id": "A5067800417"
+                },
+                {
+                    "name": "Stephen R. Plymate",
+                    "id": "A5071161054"
+                },
+                {
+                    "name": "Scott M. Dehm",
+                    "id": "A5069985314"
+                }
+            ],
+            "venue": "Nature Communications"
+        },
+        "W2069556399": {
+            "id": "W2069556399",
+            "title": "Incidence of Benign Lesions for Clinically Localized Renal Masses Smaller Than 7 cm in Radiological Diameter: Influence of Sex",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Mark E. Snyder",
+                    "id": "A5075378293"
+                },
+                {
+                    "name": "Ariadne M. Bach",
+                    "id": "A5110282008"
+                },
+                {
+                    "name": "Michael W. Kattan",
+                    "id": "A5054374857"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Victor E. Reuter",
+                    "id": "A5010536553"
+                },
+                {
+                    "name": "Paul Russo",
+                    "id": "A5030709443"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W1963620774": {
+            "id": "W1963620774",
+            "title": "Determining the Incidence of Horseshoe Kidney From Radiographic Data at a Single Institution",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Alon Z. Weizer",
+                    "id": "A5018208869"
+                },
+                {
+                    "name": "Ari D. Silverstein",
+                    "id": "A5062773456"
+                },
+                {
+                    "name": "Brian K. Auge",
+                    "id": "A5042826632"
+                },
+                {
+                    "name": "Fernando C. Delvecchio",
+                    "id": "A5001906786"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "David Albala",
+                    "id": "A5105471397"
+                },
+                {
+                    "name": "Richard A. Leder",
+                    "id": "A5005270988"
+                },
+                {
+                    "name": "Glenn M. Preminger",
+                    "id": "A5052662109"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2794303722": {
+            "id": "W2794303722",
+            "title": "Targeting Bromodomain and Extra-Terminal (BET) Family Proteins in Castration-Resistant Prostate Cancer (CRPC)",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Jonathan Welti",
+                    "id": "A5009602906"
+                },
+                {
+                    "name": "Adam Sharp",
+                    "id": "A5069346188"
+                },
+                {
+                    "name": "Wei Yuan",
+                    "id": "A5013656851"
+                },
+                {
+                    "name": "David Dolling",
+                    "id": "A5031522630"
+                },
+                {
+                    "name": "Daniel Nava Rodrigues",
+                    "id": "A5078001213"
+                },
+                {
+                    "name": "Ines Figueiredo",
+                    "id": "A5104110102"
+                },
+                {
+                    "name": "Veronica Gil",
+                    "id": "A5019590726"
+                },
+                {
+                    "name": "Antje Neeb",
+                    "id": "A5026608126"
+                },
+                {
+                    "name": "Matthew Clarke",
+                    "id": "A5032426555"
+                },
+                {
+                    "name": "George Seed",
+                    "id": "A5004770247"
+                },
+                {
+                    "name": "Mateus Crespo",
+                    "id": "A5042313475"
+                },
+                {
+                    "name": "Semini Sumanasuriya",
+                    "id": "A5002972986"
+                },
+                {
+                    "name": "Jian Ning",
+                    "id": "A5079480111"
+                },
+                {
+                    "name": "Eleanor Knight",
+                    "id": "A5044779699"
+                },
+                {
+                    "name": "Jeffrey C. Francis",
+                    "id": "A5053781781"
+                },
+                {
+                    "name": "Ashley M. Hughes",
+                    "id": "A5084447379"
+                },
+                {
+                    "name": "Wendy S. Halsey",
+                    "id": "A5052964137"
+                },
+                {
+                    "name": "Alec Paschalis",
+                    "id": "A5103275741"
+                },
+                {
+                    "name": "Ram S. Mani",
+                    "id": "A5027625550"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Stephen R. Plymate",
+                    "id": "A5071161054"
+                },
+                {
+                    "name": "Suzanne Carreira",
+                    "id": "A5085732690"
+                },
+                {
+                    "name": "Gunther Boysen",
+                    "id": "A5014432818"
+                },
+                {
+                    "name": "Arul M. Chinnaiyan",
+                    "id": "A5003311852"
+                },
+                {
+                    "name": "Amanda Swain",
+                    "id": "A5053963643"
+                },
+                {
+                    "name": "Johann S. de Bono",
+                    "id": "A5072378199"
+                }
+            ],
+            "venue": "Clinical Cancer Research"
+        },
+        "W2469048362": {
+            "id": "W2469048362",
+            "title": "Genomic agonism and phenotypic antagonism between estrogen and progesterone receptors in breast cancer",
+            "year": 2016,
+            "authors": [
+                {
+                    "name": "Hari Singhal",
+                    "id": "A5047034976"
+                },
+                {
+                    "name": "Marianne E. Greene",
+                    "id": "A5102842134"
+                },
+                {
+                    "name": "Gerard A. Tarulli",
+                    "id": "A5039588893"
+                },
+                {
+                    "name": "Allison L. Zarnke",
+                    "id": "A5042027370"
+                },
+                {
+                    "name": "Ryan J. Bourgo",
+                    "id": "A5016472353"
+                },
+                {
+                    "name": "Muriel Lain\u00e9",
+                    "id": "A5102172804"
+                },
+                {
+                    "name": "Ya-Fang Chang",
+                    "id": "A5113943235"
+                },
+                {
+                    "name": "Shihong Ma",
+                    "id": "A5039009031"
+                },
+                {
+                    "name": "Anna Dembo",
+                    "id": "A5056067936"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Theresa E. Hickey",
+                    "id": "A5068080487"
+                },
+                {
+                    "name": "Wayne D. Tilley",
+                    "id": "A5020285542"
+                },
+                {
+                    "name": "Geoffrey L. Greene",
+                    "id": "A5001039341"
+                }
+            ],
+            "venue": "Science Advances"
+        },
+        "W2054720943": {
+            "id": "W2054720943",
+            "title": "Percutaneous Management of Calculi Within Horseshoe Kidneys",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Brian K. Auge",
+                    "id": "A5042826632"
+                },
+                {
+                    "name": "Alon Z. Weizer",
+                    "id": "A5018208869"
+                },
+                {
+                    "name": "John D. Denstedt",
+                    "id": "A5022101797"
+                },
+                {
+                    "name": "James Watterson",
+                    "id": "A5109537690"
+                },
+                {
+                    "name": "Darren Beiko",
+                    "id": "A5060705248"
+                },
+                {
+                    "name": "Dean G. Assimos",
+                    "id": "A5040945262"
+                },
+                {
+                    "name": "Glenn M. Preminger",
+                    "id": "A5052662109"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2091266023": {
+            "id": "W2091266023",
+            "title": "Targeting chromatin binding regulation of constitutively active AR variants to overcome prostate cancer resistance to endocrine-based therapies",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Siu Chiu Chan",
+                    "id": "A5110316648"
+                },
+                {
+                    "name": "Luke A. Selth",
+                    "id": "A5018718250"
+                },
+                {
+                    "name": "Yingming Li",
+                    "id": "A5101465138"
+                },
+                {
+                    "name": "Michael D. Nyquist",
+                    "id": "A5076980825"
+                },
+                {
+                    "name": "Miao Lu",
+                    "id": "A5101902168"
+                },
+                {
+                    "name": "James E. Bradner",
+                    "id": "A5110274677"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Wayne D. Tilley",
+                    "id": "A5020285542"
+                },
+                {
+                    "name": "Scott M. Dehm",
+                    "id": "A5069985314"
+                }
+            ],
+            "venue": "Nucleic Acids Research"
+        },
+        "W2068100145": {
+            "id": "W2068100145",
+            "title": "Contemporary use of perioperative cisplatin\u2010based chemotherapy in patients with muscle\u2010invasive bladder cancer",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Saumil S Karavadia",
+                    "id": "A5111801533"
+                },
+                {
+                    "name": "Bruce J. Schlomer",
+                    "id": "A5086493388"
+                },
+                {
+                    "name": "Yull Arriaga",
+                    "id": "A5063056787"
+                },
+                {
+                    "name": "Yair Lotan",
+                    "id": "A5041923034"
+                },
+                {
+                    "name": "Arthur I. Sagalowsky",
+                    "id": "A5081652574"
+                },
+                {
+                    "name": "Eugene P. Frenkel",
+                    "id": "A5112905079"
+                }
+            ],
+            "venue": "Cancer"
+        },
+        "W4294636825": {
+            "id": "W4294636825",
+            "title": "Ectopic JAK\u2013STAT activation enables the transition to a stem-like and multilineage state conferring AR-targeted therapy resistance",
+            "year": 2022,
+            "authors": [
+                {
+                    "name": "Su Deng",
+                    "id": "A5062270496"
+                },
+                {
+                    "name": "Choushi Wang",
+                    "id": "A5033106400"
+                },
+                {
+                    "name": "Yunguan Wang",
+                    "id": "A5076559813"
+                },
+                {
+                    "name": "Yaru Xu",
+                    "id": "A5076108941"
+                },
+                {
+                    "name": "Xiaoling Li",
+                    "id": "A5100369487"
+                },
+                {
+                    "name": "Nickolas A. Johnson",
+                    "id": "A5065347243"
+                },
+                {
+                    "name": "Atreyi Mukherji",
+                    "id": "A5032373025"
+                },
+                {
+                    "name": "U\u2010Ging Lo",
+                    "id": "A5110646099"
+                },
+                {
+                    "name": "Lingfan Xu",
+                    "id": "A5089340334"
+                },
+                {
+                    "name": "Julisa Gonzalez",
+                    "id": "A5037176069"
+                },
+                {
+                    "name": "Lauren A. Metang",
+                    "id": "A5065011048"
+                },
+                {
+                    "name": "Jianfeng Ye",
+                    "id": "A5101757920"
+                },
+                {
+                    "name": "Carla R. Tirado",
+                    "id": "A5047120078"
+                },
+                {
+                    "name": "Kathia E. Rodarte",
+                    "id": "A5003073498"
+                },
+                {
+                    "name": "Yinglu Zhou",
+                    "id": "A5077660453"
+                },
+                {
+                    "name": "Zhiqun Xie",
+                    "id": "A5005522885"
+                },
+                {
+                    "name": "Carlos Arana",
+                    "id": "A5102732172"
+                },
+                {
+                    "name": "Valli Annamalai",
+                    "id": "A5013076845"
+                },
+                {
+                    "name": "Xihui Liu",
+                    "id": "A5101583891"
+                },
+                {
+                    "name": "Donald J. Vander Griend",
+                    "id": "A5067845778"
+                },
+                {
+                    "name": "Douglas W. Strand",
+                    "id": "A5073118929"
+                },
+                {
+                    "name": "Jer\u2010Tsong Hsieh",
+                    "id": "A5090605165"
+                },
+                {
+                    "name": "Bo Li",
+                    "id": "A5100374468"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Tao Wang",
+                    "id": "A5100453525"
+                },
+                {
+                    "name": "Ping Mu",
+                    "id": "A5067011080"
+                }
+            ],
+            "venue": "Nature Cancer"
+        },
+        "W2784159027": {
+            "id": "W2784159027",
+            "title": "BRD4 Promotes DNA Repair and Mediates the Formation of TMPRSS2-ERG Gene Rearrangements in Prostate Cancer",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Xiangyi Li",
+                    "id": "A5112544071"
+                },
+                {
+                    "name": "GuemHee Baek",
+                    "id": "A5113817637"
+                },
+                {
+                    "name": "Susmita G. Ramanand",
+                    "id": "A5043006700"
+                },
+                {
+                    "name": "Adam Sharp",
+                    "id": "A5069346188"
+                },
+                {
+                    "name": "Yunpeng Gao",
+                    "id": "A5070019748"
+                },
+                {
+                    "name": "Wei Yuan",
+                    "id": "A5013656851"
+                },
+                {
+                    "name": "Jon Welti",
+                    "id": "A5085044389"
+                },
+                {
+                    "name": "Daniel Nava Rodrigues",
+                    "id": "A5078001213"
+                },
+                {
+                    "name": "David Dolling",
+                    "id": "A5031522630"
+                },
+                {
+                    "name": "Ines Figueiredo",
+                    "id": "A5104110102"
+                },
+                {
+                    "name": "Semini Sumanasuriya",
+                    "id": "A5002972986"
+                },
+                {
+                    "name": "Mateus Crespo",
+                    "id": "A5042313475"
+                },
+                {
+                    "name": "Adam J. Aslam",
+                    "id": "A5068405159"
+                },
+                {
+                    "name": "Rui Li",
+                    "id": "A5100448675"
+                },
+                {
+                    "name": "Yi Yin",
+                    "id": "A5044888311"
+                },
+                {
+                    "name": "Bipasha Mukherjee",
+                    "id": "A5103833862"
+                },
+                {
+                    "name": "Mohammed Kanchwala",
+                    "id": "A5078847534"
+                },
+                {
+                    "name": "Ashley M. Hughes",
+                    "id": "A5084447379"
+                },
+                {
+                    "name": "Wendy S. Halsey",
+                    "id": "A5052964137"
+                },
+                {
+                    "name": "Cheng-Ming Chiang",
+                    "id": "A5113693841"
+                },
+                {
+                    "name": "Chao Xing",
+                    "id": "A5100732420"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Sandeep Burma",
+                    "id": "A5069837318"
+                },
+                {
+                    "name": "Johann S. de Bono",
+                    "id": "A5072378199"
+                },
+                {
+                    "name": "Ram S. Mani",
+                    "id": "A5027625550"
+                }
+            ],
+            "venue": "Cell Reports"
+        },
+        "W1964631161": {
+            "id": "W1964631161",
+            "title": "Laser Doppler Flowmetric Determination of Ureteral Blood Flow after Ureteral Access Sheath Placement",
+            "year": 2002,
+            "authors": [
+                {
+                    "name": "Costas D. Lallas",
+                    "id": "A5038973155"
+                },
+                {
+                    "name": "Brian K. Auge",
+                    "id": "A5042826632"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Robert W. Santa-Cruz",
+                    "id": "A5082745347"
+                },
+                {
+                    "name": "John F. Madden",
+                    "id": "A5004977563"
+                },
+                {
+                    "name": "Glenn M. Preminger",
+                    "id": "A5052662109"
+                }
+            ],
+            "venue": "Journal of Endourology"
+        },
+        "W1968162784": {
+            "id": "W1968162784",
+            "title": "Progesterone receptor-B enhances estrogen responsiveness of breast cancer cells via scaffolding PELP1- and estrogen receptor-containing transcription complexes",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Andrea R. Daniel",
+                    "id": "A5084490884"
+                },
+                {
+                    "name": "Angela L. Gaviglio",
+                    "id": "A5051899028"
+                },
+                {
+                    "name": "Todd P. Knutson",
+                    "id": "A5026373390"
+                },
+                {
+                    "name": "Julie H. Ostrander",
+                    "id": "A5055895865"
+                },
+                {
+                    "name": "Antonino B. D\u2019Assoro",
+                    "id": "A5024598480"
+                },
+                {
+                    "name": "Preethi Ravindranathan",
+                    "id": "A5073355341"
+                },
+                {
+                    "name": "Yan Peng",
+                    "id": "A5085279098"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Douglas Yee",
+                    "id": "A5033966004"
+                },
+                {
+                    "name": "Carol A. Lange",
+                    "id": "A5051915371"
+                }
+            ],
+            "venue": "Oncogene"
+        },
+        "W2065204747": {
+            "id": "W2065204747",
+            "title": "Ex vivo culture of human prostate tissue and drug development",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Margaret M. Centenera",
+                    "id": "A5080276064"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Karen E. Knudsen",
+                    "id": "A5042472942"
+                },
+                {
+                    "name": "Wayne D. Tilley",
+                    "id": "A5020285542"
+                },
+                {
+                    "name": "Lisa M. Butler",
+                    "id": "A5050075947"
+                }
+            ],
+            "venue": "Nature Reviews Urology"
+        },
+        "W2037594098": {
+            "id": "W2037594098",
+            "title": "Outcomes Following Erosions of the Artificial Urinary Sphincter",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Andrew C. Peterson",
+                    "id": "A5101879170"
+                },
+                {
+                    "name": "George D. Webster",
+                    "id": "A5037134897"
+                }
+            ],
+            "venue": "The Journal of Urology"
+        },
+        "W2020511385": {
+            "id": "W2020511385",
+            "title": "Ablation of the oncogenic transcription factor ERG by deubiquitinase inhibition in prostate cancer",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Shan Wang",
+                    "id": "A5100388427"
+                },
+                {
+                    "name": "Rahul K. Kollipara",
+                    "id": "A5018072357"
+                },
+                {
+                    "name": "Nishi Srivastava",
+                    "id": "A5110183154"
+                },
+                {
+                    "name": "Rui Li",
+                    "id": "A5071035825"
+                },
+                {
+                    "name": "Preethi Ravindranathan",
+                    "id": "A5073355341"
+                },
+                {
+                    "name": "Elizabeth Hern\u00e1ndez",
+                    "id": "A5106134393"
+                },
+                {
+                    "name": "E.J. Freeman",
+                    "id": "A5003795439"
+                },
+                {
+                    "name": "Caroline G. Humphries",
+                    "id": "A5039569621"
+                },
+                {
+                    "name": "Payal Kapur",
+                    "id": "A5069595062"
+                },
+                {
+                    "name": "Yair Lotan",
+                    "id": "A5041923034"
+                },
+                {
+                    "name": "Ladan Fazli",
+                    "id": "A5034110828"
+                },
+                {
+                    "name": "Martin Gleave",
+                    "id": "A5062125605"
+                },
+                {
+                    "name": "Stephen R. Plymate",
+                    "id": "A5071161054"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Jer\u2010Tsong Hsieh",
+                    "id": "A5090605165"
+                },
+                {
+                    "name": "Ralf Kittler",
+                    "id": "A5054071842"
+                }
+            ],
+            "venue": "Proceedings of the National Academy of Sciences"
+        },
+        "W2886972375": {
+            "id": "W2886972375",
+            "title": "A patient\u2010derived explant (<scp>PDE</scp>) model of hormone\u2010dependent cancer",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Margaret M. Centenera",
+                    "id": "A5080276064"
+                },
+                {
+                    "name": "Theresa E. Hickey",
+                    "id": "A5068080487"
+                },
+                {
+                    "name": "Shalini Jindal",
+                    "id": "A5103698722"
+                },
+                {
+                    "name": "Natalie K. Ryan",
+                    "id": "A5080654312"
+                },
+                {
+                    "name": "Preethi Ravindranathan",
+                    "id": "A5073355341"
+                },
+                {
+                    "name": "Hisham Mohammed",
+                    "id": "A5009257291"
+                },
+                {
+                    "name": "Jessica Robinson",
+                    "id": "A5101406209"
+                },
+                {
+                    "name": "Matthew J. Schiewer",
+                    "id": "A5071840998"
+                },
+                {
+                    "name": "Shihong Ma",
+                    "id": "A5102951515"
+                },
+                {
+                    "name": "Payal Kapur",
+                    "id": "A5069595062"
+                },
+                {
+                    "name": "Peter Sutherland",
+                    "id": "A5053731371"
+                },
+                {
+                    "name": "Clive E. Hoffmann",
+                    "id": "A5021605194"
+                },
+                {
+                    "name": "Claus G. Roehrborn",
+                    "id": "A5049019006"
+                },
+                {
+                    "name": "Leonard G. Gomella",
+                    "id": "A5071741514"
+                },
+                {
+                    "name": "Jason S. Carroll",
+                    "id": "A5084427699"
+                },
+                {
+                    "name": "Stephen N. Birrell",
+                    "id": "A5024538931"
+                },
+                {
+                    "name": "Karen E. Knudsen",
+                    "id": "A5042472942"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Lisa M. Butler",
+                    "id": "A5050075947"
+                },
+                {
+                    "name": "Wayne D. Tilley",
+                    "id": "A5020285542"
+                }
+            ],
+            "venue": "Molecular Oncology"
+        },
+        "W2611178729": {
+            "id": "W2611178729",
+            "title": "Novel Androgen Receptor Coregulator GRHL2 Exerts Both Oncogenic and Antimetastatic Functions in Prostate Cancer",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Steve M Paltoglou",
+                    "id": "A5020804856"
+                },
+                {
+                    "name": "Rajdeep Das",
+                    "id": "A5026099102"
+                },
+                {
+                    "name": "Scott L. Townley",
+                    "id": "A5022688918"
+                },
+                {
+                    "name": "Theresa E. Hickey",
+                    "id": "A5068080487"
+                },
+                {
+                    "name": "Gerard A. Tarulli",
+                    "id": "A5039588893"
+                },
+                {
+                    "name": "Isabel Coutinho",
+                    "id": "A5102770313"
+                },
+                {
+                    "name": "Rayzel C. Fernandes",
+                    "id": "A5079950219"
+                },
+                {
+                    "name": "Adrienne R. Hanson",
+                    "id": "A5007113057"
+                },
+                {
+                    "name": "Iza Denis",
+                    "id": "A5013255978"
+                },
+                {
+                    "name": "Jason S. Carroll",
+                    "id": "A5084427699"
+                },
+                {
+                    "name": "Scott M. Dehm",
+                    "id": "A5069985314"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Stephen R. Plymate",
+                    "id": "A5071161054"
+                },
+                {
+                    "name": "Wayne D. Tilley",
+                    "id": "A5020285542"
+                },
+                {
+                    "name": "Luke A. Selth",
+                    "id": "A5018718250"
+                }
+            ],
+            "venue": "Cancer Research"
+        },
+        "W2774748297": {
+            "id": "W2774748297",
+            "title": "Role of Androgen Receptor Variants in Prostate Cancer: Report from the 2017 Mission Androgen Receptor Variants Meeting",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Jun Luo",
+                    "id": "A5077552075"
+                },
+                {
+                    "name": "Gerhardt Attard",
+                    "id": "A5000156180"
+                },
+                {
+                    "name": "Steven P. Balk",
+                    "id": "A5087350413"
+                },
+                {
+                    "name": "Charlotte L. Bevan",
+                    "id": "A5024566237"
+                },
+                {
+                    "name": "Kerry L. Burnstein",
+                    "id": "A5088558562"
+                },
+                {
+                    "name": "Laura Cato",
+                    "id": "A5048477325"
+                },
+                {
+                    "name": "Artem Cherkasov",
+                    "id": "A5070580886"
+                },
+                {
+                    "name": "Johann S. de Bono",
+                    "id": "A5072378199"
+                },
+                {
+                    "name": "Yan Dong",
+                    "id": "A5007535547"
+                },
+                {
+                    "name": "Allen C. Gao",
+                    "id": "A5048369552"
+                },
+                {
+                    "name": "Martin Gleave",
+                    "id": "A5062125605"
+                },
+                {
+                    "name": "Hannelore V. Heemers",
+                    "id": "A5026531632"
+                },
+                {
+                    "name": "Mayuko Kanayama",
+                    "id": "A5068783800"
+                },
+                {
+                    "name": "Ralf Kittler",
+                    "id": "A5054071842"
+                },
+                {
+                    "name": "Joshua M. Lang",
+                    "id": "A5010695005"
+                },
+                {
+                    "name": "Richard J. Lee",
+                    "id": "A5039517650"
+                },
+                {
+                    "name": "Christopher J. Logothetis",
+                    "id": "A5008820123"
+                },
+                {
+                    "name": "Robert J. Matusik",
+                    "id": "A5087285670"
+                },
+                {
+                    "name": "Stephen R. Plymate",
+                    "id": "A5071161054"
+                },
+                {
+                    "name": "Charles L. Sawyers",
+                    "id": "A5034963668"
+                },
+                {
+                    "name": "Luke A. Selth",
+                    "id": "A5018718250"
+                },
+                {
+                    "name": "Howard R. Soule",
+                    "id": "A5058885329"
+                },
+                {
+                    "name": "Wayne D. Tilley",
+                    "id": "A5020285542"
+                },
+                {
+                    "name": "Nancy L. Weigel",
+                    "id": "A5061725261"
+                },
+                {
+                    "name": "Amina Zoubeidi",
+                    "id": "A5081653545"
+                },
+                {
+                    "name": "Scott M. Dehm",
+                    "id": "A5069985314"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                }
+            ],
+            "venue": "European Urology"
+        },
+        "W2222433283": {
+            "id": "W2222433283",
+            "title": "Mouse Spermatogenesis Requires Classical and Nonclassical Testosterone Signaling1",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Corey Toocheck",
+                    "id": "A5000745986"
+                },
+                {
+                    "name": "Terri Clister",
+                    "id": "A5030773361"
+                },
+                {
+                    "name": "John A. Shupe",
+                    "id": "A5086629840"
+                },
+                {
+                    "name": "Chelsea M. Crum",
+                    "id": "A5010610802"
+                },
+                {
+                    "name": "Preethi Ravindranathan",
+                    "id": "A5073355341"
+                },
+                {
+                    "name": "Tae-Kyung Lee",
+                    "id": "A5113819930"
+                },
+                {
+                    "name": "Jung\u2010Mo Ahn",
+                    "id": "A5081196478"
+                },
+                {
+                    "name": "Ganesh V. Raj",
+                    "id": "A5053069471"
+                },
+                {
+                    "name": "Meena Sukhwani",
+                    "id": "A5034536058"
+                },
+                {
+                    "name": "Kyle E. Orwig",
+                    "id": "A5063861753"
+                },
+                {
+                    "name": "William H. Walker",
+                    "id": "A5054860463"
+                }
+            ],
+            "venue": "Biology of Reproduction"
+        },
+        "W3134303991": {
+            "id": "W3134303991",
+            "title": "WITHDRAWN: Implementation of low power one bit full adder with cadence tool",
+            "year": 2021,
+            "authors": [
+                {
+                    "name": "Ganesh Raj",
+                    "id": "A5006404413"
+                },
+                {
+                    "name": "Mahesh Kusuma",
+                    "id": "A5006560201"
+                },
+                {
+                    "name": "G. Vijay Goud",
+                    "id": "A5090898414"
+                },
+                {
+                    "name": "G. Srinivasa Rao",
+                    "id": "A5113935321"
+                }
+            ],
+            "venue": "Materials Today Proceedings"
+        }
+    }
+}

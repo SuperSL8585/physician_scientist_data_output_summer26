@@ -1,0 +1,3051 @@
+{
+    "author_name": {
+        "name": "Warren Gold",
+        "clusters_count": 2
+    },
+    "author_data": {
+        "A5111588958": {
+            "gold_id/master_key": "warren_gold_1",
+            "ids": [
+                "A5111588958"
+            ],
+            "name": "Warren M. Gold",
+            "name_first": "Warren",
+            "name_middle": "M.",
+            "name_last": "Gold",
+            "field": null,
+            "fields": [
+                "Pulmonology",
+                "Respiratory Medicine",
+                "Cardiology"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 150,
+            "works": [
+                "W2110411605",
+                "W192372067",
+                "W2483759338",
+                "W1979137069",
+                "W2060682869",
+                "W172099327",
+                "W1964356075",
+                "W2147875154",
+                "W2011988848",
+                "W1986126475",
+                "W1972563062",
+                "W2089690955",
+                "W2225173744",
+                "W2043151873",
+                "W2015537061",
+                "W2799628818",
+                "W2339109326",
+                "W2084510004",
+                "W2342271276",
+                "W2028302388",
+                "W1965481758",
+                "W2072676409",
+                "W3196312417",
+                "W2351197400",
+                "W2093436103",
+                "W2150630865",
+                "W2117402663",
+                "W1517370510",
+                "W2329723761",
+                "W1536657825",
+                "W2155661279",
+                "W1965484533",
+                "W154805107",
+                "W1997786797",
+                "W1965996210",
+                "W2005487576",
+                "W4280494424",
+                "W2342494206",
+                "W2056014175",
+                "W2025887836",
+                "W1842064005",
+                "W1763910762",
+                "W2005694759",
+                "W72277961",
+                "W2089320857",
+                "W2092106453",
+                "W2008776897",
+                "W2176570735",
+                "W2416566664",
+                "W105465094",
+                "W2091141906",
+                "W2158660383",
+                "W2077791085",
+                "W2017277627",
+                "W2092030888",
+                "W1999914392",
+                "W2346583686",
+                "W2059319290",
+                "W4391051526",
+                "W1893428819",
+                "W120313431",
+                "W2030521898",
+                "W2406374842",
+                "W1810409014",
+                "W2235195695",
+                "W1836196174",
+                "W2282917162",
+                "W2120086554",
+                "W2150368202",
+                "W298464397",
+                "W1645365487",
+                "W2225210044",
+                "W2391490195",
+                "W1762563267",
+                "W2289572946",
+                "W2895972719",
+                "W2020922763",
+                "W117254318",
+                "W2161883422",
+                "W2231110947",
+                "W1833559361",
+                "W1486772989",
+                "W107880846",
+                "W2229691894",
+                "W2024175434",
+                "W2152140808",
+                "W2135162781",
+                "W2417278087",
+                "W1719928477",
+                "W2036457286"
+            ]
+        },
+        "A5011326518": {
+            "gold_id/master_key": "warren_gold_2",
+            "ids": [
+                "A5011326518"
+            ],
+            "name": "Warren G. Gold",
+            "name_first": "Warren",
+            "name_middle": "G.",
+            "name_last": "Gold",
+            "field": null,
+            "fields": [
+                "Plant Ecology",
+                "Botany",
+                "Zoology"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 19,
+            "works": [
+                "W1978835523",
+                "W1988297365",
+                "W4412066471",
+                "W2317361105",
+                "W2090431415",
+                "W2081487874",
+                "W2320633732",
+                "W1574685461",
+                "W2474140758",
+                "W2049040938",
+                "W1572027913",
+                "W1483513116",
+                "W2588309183",
+                "W65874136",
+                "W2614657453",
+                "W2335287459",
+                "W7126012663",
+                "W2736183522",
+                "W4393171533"
+            ]
+        }
+    },
+    "works_data": {
+        "W2110411605": {
+            "id": "W2110411605",
+            "title": "Neurological complications of acquired immune deficiency syndrome: Analysis of 50 patients",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "William D. Snider",
+                    "id": "A5112870380"
+                },
+                {
+                    "name": "David M. Simpson",
+                    "id": "A5014686861"
+                },
+                {
+                    "name": "Surl L. Nielsen",
+                    "id": "A5109067836"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Craig E. Metroka",
+                    "id": "A5111920338"
+                },
+                {
+                    "name": "Jerome B. Posner",
+                    "id": "A5111371793"
+                }
+            ],
+            "venue": "Annals of Neurology"
+        },
+        "W192372067": {
+            "id": "W192372067",
+            "title": "Mechanisms of bronchial hyperreactivity in normal subjects after upper respiratory tract infection.",
+            "year": 1976,
+            "authors": [
+                {
+                    "name": "D W Empey",
+                    "id": "A5108507479"
+                },
+                {
+                    "name": "L. Laitinen",
+                    "id": "A5113496501"
+                },
+                {
+                    "name": "Lewis Jacobs",
+                    "id": "A5075407156"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2483759338": {
+            "id": "W2483759338",
+            "title": "Pulmonary Function Testing",
+            "year": 2015,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Laura L. Koth",
+                    "id": "A5018358241"
+                }
+            ],
+            "venue": "Elsevier eBooks"
+        },
+        "W1979137069": {
+            "id": "W1979137069",
+            "title": "Oxygen May Improve Dyspnea and Endurance in Patients with Chronic Obstructive Pulmonary Disease and only Mild Hypoxemia",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "Nathan C. Dean",
+                    "id": "A5103431955"
+                },
+                {
+                    "name": "James K. Brown",
+                    "id": "A5112394716"
+                },
+                {
+                    "name": "Ronald B. Himelman",
+                    "id": "A5040146506"
+                },
+                {
+                    "name": "J. Doherty",
+                    "id": "A5109088684"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Michael S. Stulbarg",
+                    "id": "A5042610459"
+                }
+            ],
+            "venue": "American Review of Respiratory Disease"
+        },
+        "W2060682869": {
+            "id": "W2060682869",
+            "title": "Alterations in human leukocyte function induced by ingestion of eicosapentaenoic acid",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Donald G. Payan",
+                    "id": "A5113600276"
+                },
+                {
+                    "name": "Michael Y. Wong",
+                    "id": "A5034089863"
+                },
+                {
+                    "name": "Tania Chernov-Rogan",
+                    "id": "A5050073024"
+                },
+                {
+                    "name": "Frank H. Valone",
+                    "id": "A5059414971"
+                },
+                {
+                    "name": "Walter C. Pickett",
+                    "id": "A5112384436"
+                },
+                {
+                    "name": "Vincent A. Blake",
+                    "id": "A5048354912"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Edward J. Goetzl",
+                    "id": "A5077439065"
+                }
+            ],
+            "venue": "Journal of Clinical Immunology"
+        },
+        "W172099327": {
+            "id": "W172099327",
+            "title": "Elastic recoil of the lungs in chronic asthmatic patients before and after therapy.",
+            "year": 1967,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Howard S. Kaufman",
+                    "id": "A5111604606"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W1964356075": {
+            "id": "W1964356075",
+            "title": "Ethnic Differences",
+            "year": 2000,
+            "authors": [
+                {
+                    "name": "Grace E. Hardie",
+                    "id": "A5111570245"
+                },
+                {
+                    "name": "Susan Janson",
+                    "id": "A5020456888"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Virginia Carrieri\u2010Kohlman",
+                    "id": "A5042796520"
+                },
+                {
+                    "name": "Homer A. Boushey",
+                    "id": "A5016024382"
+                }
+            ],
+            "venue": "CHEST Journal"
+        },
+        "W2147875154": {
+            "id": "W2147875154",
+            "title": "Effects of individual self-management education on clinical, biological, and adherence outcomes in asthma",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Susan Janson",
+                    "id": "A5020456888"
+                },
+                {
+                    "name": "John V. Fahy",
+                    "id": "A5019991157"
+                },
+                {
+                    "name": "Jack K. Covington",
+                    "id": "A5066902763"
+                },
+                {
+                    "name": "Steven M. Paul",
+                    "id": "A5060985571"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Homer A. Boushey",
+                    "id": "A5016024382"
+                }
+            ],
+            "venue": "The American Journal of Medicine"
+        },
+        "W2011988848": {
+            "id": "W2011988848",
+            "title": "Lack of efficacy of TIPS for hepatopulmonary syndrome",
+            "year": 1997,
+            "authors": [
+                {
+                    "name": "DA Corley",
+                    "id": "A5048323815"
+                },
+                {
+                    "name": "Bruce F. Scharschmidt",
+                    "id": "A5054026499"
+                },
+                {
+                    "name": "N. M. Bass",
+                    "id": "A5041484311"
+                },
+                {
+                    "name": "Kenneth A. Somberg",
+                    "id": "A5088168423"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Karin Sonnenberg",
+                    "id": "A5008033947"
+                }
+            ],
+            "venue": "Gastroenterology"
+        },
+        "W1986126475": {
+            "id": "W1986126475",
+            "title": "Preoperative and Intraoperative Factors Associated With Prolonged Mechanical Ventilation",
+            "year": 1993,
+            "authors": [
+                {
+                    "name": "Christian Jayr",
+                    "id": "A5004502026"
+                },
+                {
+                    "name": "Michael A. Matthay",
+                    "id": "A5052576862"
+                },
+                {
+                    "name": "Jerry Goldstone",
+                    "id": "A5110908543"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jeanine P. Wiener-Kronish",
+                    "id": "A5110263387"
+                }
+            ],
+            "venue": "CHEST Journal"
+        },
+        "W1972563062": {
+            "id": "W1972563062",
+            "title": "Exercise Training Improves Outcomes of a Dyspnea Self-management Program",
+            "year": 2002,
+            "authors": [
+                {
+                    "name": "Michael S. Stulbarg",
+                    "id": "A5042610459"
+                },
+                {
+                    "name": "Virginia Carrieri\u2010Kohlman",
+                    "id": "A5042796520"
+                },
+                {
+                    "name": "Sibel Demir\u2010Deviren",
+                    "id": "A5066792444"
+                },
+                {
+                    "name": "Huong Q. Nguyen",
+                    "id": "A5100771726"
+                },
+                {
+                    "name": "Lewis Adams",
+                    "id": "A5104154370"
+                },
+                {
+                    "name": "Amy H. Tsang",
+                    "id": "A5028671214"
+                },
+                {
+                    "name": "John E. Duda",
+                    "id": "A5112163062"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Steven M. Paul",
+                    "id": "A5060985571"
+                }
+            ],
+            "venue": "Journal of Cardiopulmonary Rehabilitation"
+        },
+        "W2089690955": {
+            "id": "W2089690955",
+            "title": "Effects of Treatment on Two Types of Self-Efficacy in People with Chronic Obstructive Pulmonary Disease",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Amy H.T. Davis",
+                    "id": "A5079697507"
+                },
+                {
+                    "name": "Virginia Carrieri\u2010Kohlman",
+                    "id": "A5042796520"
+                },
+                {
+                    "name": "Susan Janson",
+                    "id": "A5020456888"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Michael S. Stulbarg",
+                    "id": "A5042610459"
+                }
+            ],
+            "venue": "Journal of Pain and Symptom Management"
+        },
+        "W2225173744": {
+            "id": "W2225173744",
+            "title": "Exercise tolerance in chronic hypoxemia due to right-to-left shunt.",
+            "year": 1973,
+            "authors": [
+                {
+                    "name": "Denise J. Strieder",
+                    "id": "A5082793866"
+                },
+                {
+                    "name": "Z Mesko",
+                    "id": "A5042651043"
+                },
+                {
+                    "name": "Alla G. Zaver",
+                    "id": "A5112016818"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2043151873": {
+            "id": "W2043151873",
+            "title": "Pulmonary Function Abnormalities in Never-Smoking Flight Attendants Exposed to Secondhand Tobacco Smoke in the Aircraft Cabin",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "Mehrdad Arjomandi",
+                    "id": "A5051483297"
+                },
+                {
+                    "name": "Thaddeus Haight",
+                    "id": "A5055120024"
+                },
+                {
+                    "name": "Rita F. Redberg",
+                    "id": "A5089784097"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Occupational and Environmental Medicine"
+        },
+        "W2015537061": {
+            "id": "W2015537061",
+            "title": "Pulmonary Manifestations of the Eosinophilia-Myalgia Syndrome Associated with Tryptophan Ingestion",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "Anthony C. Campagna",
+                    "id": "A5018049311"
+                },
+                {
+                    "name": "Paul D. Blanc",
+                    "id": "A5081210291"
+                },
+                {
+                    "name": "Lindsey A. Criswell",
+                    "id": "A5082388906"
+                },
+                {
+                    "name": "David M. Clarke",
+                    "id": "A5006050456"
+                },
+                {
+                    "name": "Kenneth E. Sack",
+                    "id": "A5104104029"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jeffrey A. Golden",
+                    "id": "A5009572751"
+                }
+            ],
+            "venue": "CHEST Journal"
+        },
+        "W2799628818": {
+            "id": "W2799628818",
+            "title": "Lung volumes identify an at-risk group in persons with prolonged secondhand tobacco smoke exposure but without overt airflow obstruction",
+            "year": 2018,
+            "authors": [
+                {
+                    "name": "Mehrdad Arjomandi",
+                    "id": "A5051483297"
+                },
+                {
+                    "name": "Siyang Zeng",
+                    "id": "A5004793654"
+                },
+                {
+                    "name": "Jeroen Geerts",
+                    "id": "A5022009615"
+                },
+                {
+                    "name": "Rachel Stiner",
+                    "id": "A5065647982"
+                },
+                {
+                    "name": "Bruce Bos",
+                    "id": "A5005450848"
+                },
+                {
+                    "name": "Ian D. van Koeverden",
+                    "id": "A5003841415"
+                },
+                {
+                    "name": "Jason Keene",
+                    "id": "A5091315782"
+                },
+                {
+                    "name": "Brett M. Elicker",
+                    "id": "A5057002388"
+                },
+                {
+                    "name": "Paul D. Blanc",
+                    "id": "A5081210291"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "BMJ Open Respiratory Research"
+        },
+        "W2339109326": {
+            "id": "W2339109326",
+            "title": "Role of vagus nerves in experimental asthma in allergic dogs.",
+            "year": 1972,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "G Kessler",
+                    "id": "A5058649763"
+                },
+                {
+                    "name": "D. Y. C. Yu",
+                    "id": "A5103525020"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2084510004": {
+            "id": "W2084510004",
+            "title": "Mast cell tryptase causes airway smooth muscle hyperresponsiveness in dogs.",
+            "year": 1989,
+            "authors": [
+                {
+                    "name": "Kiyohisa Sekizawa",
+                    "id": "A5053533284"
+                },
+                {
+                    "name": "George H. Caughey",
+                    "id": "A5025223838"
+                },
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W2342271276": {
+            "id": "W2342271276",
+            "title": "cAMP immunocytochemistry provides evidence for functional VIP receptors in trachea",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Carol Basbaum",
+                    "id": "A5113732625"
+                },
+                {
+                    "name": "Peter J. Barnes",
+                    "id": "A5030258071"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "American Journal of Physiology-Cell Physiology"
+        },
+        "W2028302388": {
+            "id": "W2028302388",
+            "title": "Establishment of Two Dog Mastocytoma Cell Lines in Continuous Culture",
+            "year": 1990,
+            "authors": [
+                {
+                    "name": "Rebekah DeVinney",
+                    "id": "A5024072141"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "American Journal of Respiratory Cell and Molecular Biology"
+        },
+        "W1965481758": {
+            "id": "W1965481758",
+            "title": "Treatment of Pulmonary Arteriovenous Malformations by Therapeutic Embolization: Rest and Exercise Physiology in Eight Patients",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "Daniel W. Pennington",
+                    "id": "A5108230068"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Roy L. Gordon",
+                    "id": "A5037325993"
+                },
+                {
+                    "name": "David Steiger",
+                    "id": "A5108450263"
+                },
+                {
+                    "name": "Ernest J. Ring",
+                    "id": "A5003916350"
+                },
+                {
+                    "name": "Jeffrey A. Golden",
+                    "id": "A5009572751"
+                }
+            ],
+            "venue": "American Review of Respiratory Disease"
+        },
+        "W2072676409": {
+            "id": "W2072676409",
+            "title": "Review Paper: Burn Coverage Technologies: Current Concepts and Future Directions",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Clifford T. Pereira",
+                    "id": "A5042753158"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "David N. Herndon",
+                    "id": "A5014429489"
+                }
+            ],
+            "venue": "Journal of Biomaterials Applications"
+        },
+        "W3196312417": {
+            "id": "W3196312417",
+            "title": "Actigraphy informs distinct patient-centered outcomes in Pre-COPD",
+            "year": 2021,
+            "authors": [
+                {
+                    "name": "Jianhong Chen",
+                    "id": "A5100662140"
+                },
+                {
+                    "name": "Lemlem Weldemichael",
+                    "id": "A5065342945"
+                },
+                {
+                    "name": "Siyang Zeng",
+                    "id": "A5004793654"
+                },
+                {
+                    "name": "Brian Giang",
+                    "id": "A5025997555"
+                },
+                {
+                    "name": "Jeroen Geerts",
+                    "id": "A5022009615"
+                },
+                {
+                    "name": "Wendy Czerina Ching",
+                    "id": "A5112680861"
+                },
+                {
+                    "name": "Melissa Nishihama",
+                    "id": "A5113943578"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Mehrdad Arjomandi",
+                    "id": "A5051483297"
+                }
+            ],
+            "venue": "Respiratory Medicine"
+        },
+        "W2351197400": {
+            "id": "W2351197400",
+            "title": "Inhibition of antigen-induced bronchoconstriction by atropine in asthmatic patients.",
+            "year": 1972,
+            "authors": [
+                {
+                    "name": "D. Y. C. Yu",
+                    "id": "A5103525020"
+                },
+                {
+                    "name": "Stanley P. Galant",
+                    "id": "A5000133165"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2093436103": {
+            "id": "W2093436103",
+            "title": "Physiologic diagnosis of subclinical emphysema.",
+            "year": 1973,
+            "authors": [
+                {
+                    "name": "Arthur F. Gelb",
+                    "id": "A5022458768"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Robert R. Wright",
+                    "id": "A5086016889"
+                },
+                {
+                    "name": "Harald\u2010Robert Bruch",
+                    "id": "A5109335699"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2150630865": {
+            "id": "W2150630865",
+            "title": "Effect of eicosapentaenoic acid in asthma",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "C. M. Kirsch",
+                    "id": "A5112273297"
+                },
+                {
+                    "name": "Donald G. Payan",
+                    "id": "A5113600276"
+                },
+                {
+                    "name": "Michael Y. Wong",
+                    "id": "A5034089863"
+                },
+                {
+                    "name": "J.G. Dohlman",
+                    "id": "A5108567038"
+                },
+                {
+                    "name": "Vincent A. Blake",
+                    "id": "A5048354912"
+                },
+                {
+                    "name": "M Petri",
+                    "id": "A5006090467"
+                },
+                {
+                    "name": "J. Offenberger",
+                    "id": "A5025604219"
+                },
+                {
+                    "name": "E J Goetzl",
+                    "id": "A5109114819"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Clinical & Experimental Allergy"
+        },
+        "W2117402663": {
+            "id": "W2117402663",
+            "title": "Dog mastocytoma cells produce transforming growth factor beta 1.",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "D W Pennington",
+                    "id": "A5111979993"
+                },
+                {
+                    "name": "Alfredo R. Lopez",
+                    "id": "A5102070393"
+                },
+                {
+                    "name": "P. S. Thomas",
+                    "id": "A5085168560"
+                },
+                {
+                    "name": "Charles A. Peck",
+                    "id": "A5002675142"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W1517370510": {
+            "id": "W1517370510",
+            "title": "Early diagnosis of chronic pulmonary vascular obstruction",
+            "year": 1968,
+            "authors": [
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "John H. Burgess",
+                    "id": "A5022449338"
+                }
+            ],
+            "venue": "The American Journal of Medicine"
+        },
+        "W2329723761": {
+            "id": "W2329723761",
+            "title": "Pulmonary-Function Abnormalities after Lymphangiography",
+            "year": 1965,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "James E. Youker",
+                    "id": "A5057954757"
+                },
+                {
+                    "name": "Sandra D. Anderson",
+                    "id": "A5075584909"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W1536657825": {
+            "id": "W1536657825",
+            "title": "Tryptase and chymase: comparison of extraction and release in two dog mastocytoma lines.",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "George H. Caughey",
+                    "id": "A5025223838"
+                },
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "N F Viro",
+                    "id": "A5044265531"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2155661279": {
+            "id": "W2155661279",
+            "title": "Pulmonary Function Improves After Expandable Metal Stent Placement for Benign Airway Obstruction",
+            "year": 1999,
+            "authors": [
+                {
+                    "name": "Mark D. Eisner",
+                    "id": "A5029006978"
+                },
+                {
+                    "name": "Roy L. Gordon",
+                    "id": "A5037325993"
+                },
+                {
+                    "name": "W. Richard Webb",
+                    "id": "A5110319415"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Sameer E. Hilal",
+                    "id": "A5052282908"
+                },
+                {
+                    "name": "Keith J. Edinburgh",
+                    "id": "A5035742106"
+                },
+                {
+                    "name": "Jeffrey A. Golden",
+                    "id": "A5009572751"
+                }
+            ],
+            "venue": "CHEST Journal"
+        },
+        "W1965484533": {
+            "id": "W1965484533",
+            "title": "Mast cell heterogeneity in dog skin",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Allan B. Becker",
+                    "id": "A5013849716"
+                },
+                {
+                    "name": "Kian Fan Chung",
+                    "id": "A5036414874"
+                },
+                {
+                    "name": "Donald M. McDonald",
+                    "id": "A5003462092"
+                },
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Oscar L. Frick",
+                    "id": "A5056580067"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "The Anatomical Record"
+        },
+        "W154805107": {
+            "id": "W154805107",
+            "title": "Dyspnea in ambulatory patients with SLE: prevalence, severity, and correlation with incremental exercise testing.",
+            "year": 1995,
+            "authors": [
+                {
+                    "name": "D B Hellman",
+                    "id": "A5031418597"
+                },
+                {
+                    "name": "C. M. Kirsch",
+                    "id": "A5112273297"
+                },
+                {
+                    "name": "Quinn E. Whiting-O'Keefe",
+                    "id": "A5109076738"
+                },
+                {
+                    "name": "Joseph L. Simonson",
+                    "id": "A5025169940"
+                },
+                {
+                    "name": "Nelson B. Schiller",
+                    "id": "A5044541484"
+                },
+                {
+                    "name": "M. P\u00e9tri",
+                    "id": "A5109223412"
+                },
+                {
+                    "name": "G Gamsu",
+                    "id": "A5110088085"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W1997786797": {
+            "id": "W1997786797",
+            "title": "Chronic dyspnea and hyperventilation in an awake patient with small subcortical infarcts",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "S. Claiborne Johnston",
+                    "id": "A5001594817"
+                },
+                {
+                    "name": "Vineeta Singh",
+                    "id": "A5022336581"
+                },
+                {
+                    "name": "Henry J. Ralston",
+                    "id": "A5108807453"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Neurology"
+        },
+        "W1965996210": {
+            "id": "W1965996210",
+            "title": "Ethnic Differences in Methacholine Responsiveness and Word Descriptors in African Americans, Hispanic-Mexican Americans, Asian-Pacific Islanders, and Whites With Mild Asthma",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Grace E. Hardie",
+                    "id": "A5111570245"
+                },
+                {
+                    "name": "Rebecca Liu",
+                    "id": "A5083704320"
+                },
+                {
+                    "name": "Jennifer Darden",
+                    "id": "A5080925346"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Asthma"
+        },
+        "W2005487576": {
+            "id": "W2005487576",
+            "title": "Reduced Exercise Tolerance and Pulmonary Capillary Recruitment with Remote Secondhand Smoke Exposure",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Mehrdad Arjomandi",
+                    "id": "A5051483297"
+                },
+                {
+                    "name": "Thaddeus Haight",
+                    "id": "A5055120024"
+                },
+                {
+                    "name": "Nasrat Sadeghi",
+                    "id": "A5076370668"
+                },
+                {
+                    "name": "Rita F. Redberg",
+                    "id": "A5089784097"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "PLoS ONE"
+        },
+        "W4280494424": {
+            "id": "W4280494424",
+            "title": "Remote exposure to secondhand tobacco smoke is associated with lower exercise capacity through effects on oxygen pulse, a proxy of cardiac stroke volume",
+            "year": 2022,
+            "authors": [
+                {
+                    "name": "Siyang Zeng",
+                    "id": "A5004793654"
+                },
+                {
+                    "name": "Michelle Dunn",
+                    "id": "A5079976350"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jorge R. Kizer",
+                    "id": "A5039797196"
+                },
+                {
+                    "name": "Mehrdad Arjomandi",
+                    "id": "A5051483297"
+                }
+            ],
+            "venue": "BMJ Open Respiratory Research"
+        },
+        "W2342494206": {
+            "id": "W2342494206",
+            "title": "Antigen-induced airway hyperresponsiveness and pulmonary inflammation in allergic dogs",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Kian Fan Chung",
+                    "id": "A5036414874"
+                },
+                {
+                    "name": "A. B. Becker",
+                    "id": "A5013143971"
+                },
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Oscar L. Frick",
+                    "id": "A5056580067"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2056014175": {
+            "id": "W2056014175",
+            "title": "In Vivo Demonstration of Nonadrenergic Inhibitory Innervation of the Guinea Pig Trachea",
+            "year": 1980,
+            "authors": [
+                {
+                    "name": "Sarah E. Chesrown",
+                    "id": "A5000621928"
+                },
+                {
+                    "name": "C. S. Venugopalan",
+                    "id": "A5001560731"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jeffrey M. Drazen",
+                    "id": "A5021045413"
+                }
+            ],
+            "venue": "Journal of Clinical Investigation"
+        },
+        "W2025887836": {
+            "id": "W2025887836",
+            "title": "Defense Mechanisms of the Lungs",
+            "year": 1975,
+            "authors": [
+                {
+                    "name": "Allen B. Cohen",
+                    "id": "A5076682523"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Annual Review of Physiology"
+        },
+        "W1842064005": {
+            "id": "W1842064005",
+            "title": "Primary tracheobronchial amyloidosis.",
+            "year": 1972,
+            "authors": [
+                {
+                    "name": "Leonard S. Gottlieb",
+                    "id": "A5105421085"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W1763910762": {
+            "id": "W1763910762",
+            "title": "Nicotine-induced respiratory effects of cigarette smoke in dogs",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Janna Hartiala",
+                    "id": "A5071162321"
+                },
+                {
+                    "name": "Cristina E. Mapp",
+                    "id": "A5108399330"
+                },
+                {
+                    "name": "Adam Mitchell",
+                    "id": "A5102729204"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2005694759": {
+            "id": "W2005694759",
+            "title": "Cutaneous allergic response in atopic dogs: Relationship of cellular and histamine responses",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "Andreas Becker",
+                    "id": "A5021104461"
+                },
+                {
+                    "name": "Kian Fan Chung",
+                    "id": "A5036414874"
+                },
+                {
+                    "name": "Denise McDonald",
+                    "id": "A5020017802"
+                },
+                {
+                    "name": "Oscar L. Frick",
+                    "id": "A5056580067"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Allergy and Clinical Immunology"
+        },
+        "W72277961": {
+            "id": "W72277961",
+            "title": "Effects of mast cell-derived mediators on epithelial cells in canine trachea",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Laura Mccabe",
+                    "id": "A5112804761"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "George D. Leikauf",
+                    "id": "A5088474387"
+                }
+            ],
+            "venue": "American Journal of Physiology-Cell Physiology"
+        },
+        "W2089320857": {
+            "id": "W2089320857",
+            "title": "Effect of beta-adrenergic stimulation on experimental canine anaphylaxis in vivo",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "Tom Mj\u00f6rndal",
+                    "id": "A5024721937"
+                },
+                {
+                    "name": "Sarah E. Chesrown",
+                    "id": "A5000621928"
+                },
+                {
+                    "name": "Martin J. Frey",
+                    "id": "A5111440646"
+                },
+                {
+                    "name": "B. R. Reed",
+                    "id": "A5111687653"
+                },
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Allergy and Clinical Immunology"
+        },
+        "W2092106453": {
+            "id": "W2092106453",
+            "title": "Understanding How Asthmatics Perceive Symptom Distress During Methacholine Challenge",
+            "year": 2002,
+            "authors": [
+                {
+                    "name": "Grace E. Hardie",
+                    "id": "A5111570245"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Susan Janson",
+                    "id": "A5020456888"
+                },
+                {
+                    "name": "Virginia Carrieri\u2010Kohlman",
+                    "id": "A5042796520"
+                },
+                {
+                    "name": "Homer A. Boushey",
+                    "id": "A5016024382"
+                }
+            ],
+            "venue": "Journal of Asthma"
+        },
+        "W2008776897": {
+            "id": "W2008776897",
+            "title": "Mast cell exocytosis: Evidence that granule proteoglycan processing is not coupled to degranulation",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "Stephen J. Ruoss",
+                    "id": "A5040167055"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "George H. Caughey",
+                    "id": "A5025223838"
+                }
+            ],
+            "venue": "Biochemical and Biophysical Research Communications"
+        },
+        "W2176570735": {
+            "id": "W2176570735",
+            "title": "Cyclic AMP and Cyclic GMP in Canine Peripheral Lung: Regulation <i>In Vivo</i>",
+            "year": 1978,
+            "authors": [
+                {
+                    "name": "David Barnett",
+                    "id": "A5080669957"
+                },
+                {
+                    "name": "Sarah E. Chesrown",
+                    "id": "A5000621928"
+                },
+                {
+                    "name": "Arthur F. Zbinden",
+                    "id": "A5076499183"
+                },
+                {
+                    "name": "Merrill Nisam",
+                    "id": "A5088634269"
+                },
+                {
+                    "name": "B. R. Reed",
+                    "id": "A5111687653"
+                },
+                {
+                    "name": "Henry R. Bourne",
+                    "id": "A5105525698"
+                },
+                {
+                    "name": "Kenneth L. Melmon",
+                    "id": "A5036857424"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "American Review of Respiratory Disease"
+        },
+        "W2416566664": {
+            "id": "W2416566664",
+            "title": "Restrictive Lung Disease",
+            "year": 1968,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Physical Therapy"
+        },
+        "W105465094": {
+            "id": "W105465094",
+            "title": "Lung transplantation for pulmonary amyloidosis: a case report.",
+            "year": 1998,
+            "authors": [
+                {
+                    "name": "Lorraine B. Ware",
+                    "id": "A5017253129"
+                },
+                {
+                    "name": "F Keith",
+                    "id": "A5110941143"
+                },
+                {
+                    "name": "Roy L. Gordon",
+                    "id": "A5037325993"
+                },
+                {
+                    "name": "Curt A. Ries",
+                    "id": "A5113530536"
+                },
+                {
+                    "name": "RS Seitz",
+                    "id": "A5029373220"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jeffrey A. Golden",
+                    "id": "A5009572751"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2091141906": {
+            "id": "W2091141906",
+            "title": "Inflammatory Mediators, Tachykinins and Enkephalinase in Airways",
+            "year": 1987,
+            "authors": [
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "D. B. Borson",
+                    "id": "A5069475142"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "J A Nadel",
+                    "id": "A5109312912"
+                }
+            ],
+            "venue": "International Archives of Allergy and Immunology"
+        },
+        "W2158660383": {
+            "id": "W2158660383",
+            "title": "Remote second-hand tobacco exposure in flight attendants is associated with systemic but not pulmonary hypertension.",
+            "year": 2008,
+            "authors": [
+                {
+                    "name": "Xiushui Ren",
+                    "id": "A5020994273"
+                },
+                {
+                    "name": "Pamela Hsu",
+                    "id": "A5011413002"
+                },
+                {
+                    "name": "Fiona L Dulbecco",
+                    "id": "A5045751942"
+                },
+                {
+                    "name": "Kirsten E. Fleischmann",
+                    "id": "A5077292692"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Rita F. Redberg",
+                    "id": "A5089784097"
+                },
+                {
+                    "name": "Nelson B. Schiller",
+                    "id": "A5044541484"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2077791085": {
+            "id": "W2077791085",
+            "title": "Measurement of fibroblast proliferative activity in bronchoalveolar lavage fluid in the analysis of obliterative bronchiolitis among lung transplant recipients",
+            "year": 1999,
+            "authors": [
+                {
+                    "name": "Manabu Jonosono",
+                    "id": "A5046049712"
+                },
+                {
+                    "name": "Kenneth C. Fang",
+                    "id": "A5087044596"
+                },
+                {
+                    "name": "F Keith",
+                    "id": "A5110941143"
+                },
+                {
+                    "name": "Christoph W. Turck",
+                    "id": "A5080063862"
+                },
+                {
+                    "name": "Paul D. Blanc",
+                    "id": "A5081210291"
+                },
+                {
+                    "name": "Timothy S. Hall",
+                    "id": "A5108763851"
+                },
+                {
+                    "name": "Anne K Fukano",
+                    "id": "A5089235990"
+                },
+                {
+                    "name": "Celia Rifkin",
+                    "id": "A5065963555"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "W. Richard Webb",
+                    "id": "A5110319415"
+                },
+                {
+                    "name": "Keith J. Edinburgh",
+                    "id": "A5035742106"
+                },
+                {
+                    "name": "Walter E. Finkbeiner",
+                    "id": "A5045698000"
+                },
+                {
+                    "name": "Jeffrey A. Golden",
+                    "id": "A5009572751"
+                }
+            ],
+            "venue": "The Journal of Heart and Lung Transplantation"
+        },
+        "W2017277627": {
+            "id": "W2017277627",
+            "title": "Transforming Growth Factor-\u03b2 Production by Dog Mastocytoma Cells",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "D W Pennington",
+                    "id": "A5111979993"
+                },
+                {
+                    "name": "P. S. Thomas",
+                    "id": "A5085168560"
+                },
+                {
+                    "name": "Andrew L. Lopez",
+                    "id": "A5006708028"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "CHEST Journal"
+        },
+        "W2092030888": {
+            "id": "W2092030888",
+            "title": "Bronchial Hyperresponsiveness, Word Descriptors, and Ethnicity: Women with Mild Asthma",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Grace E. Hardie",
+                    "id": "A5111570245"
+                },
+                {
+                    "name": "James K. Brown",
+                    "id": "A5112394716"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Asthma"
+        },
+        "W1999914392": {
+            "id": "W1999914392",
+            "title": "Mechanisms Limiting Airflow in Bullous Lung Disease",
+            "year": 1973,
+            "authors": [
+                {
+                    "name": "Arthur F. Gelb",
+                    "id": "A5022458768"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "American Review of Respiratory Disease"
+        },
+        "W2346583686": {
+            "id": "W2346583686",
+            "title": "Airway constriction in experimental asthma in dogs: tantalum bronchographic studies.",
+            "year": 1973,
+            "authors": [
+                {
+                    "name": "G Kessler",
+                    "id": "A5058649763"
+                },
+                {
+                    "name": "James H. Austin",
+                    "id": "A5109969907"
+                },
+                {
+                    "name": "P. D. Graf",
+                    "id": "A5031276473"
+                },
+                {
+                    "name": "G Gamsu",
+                    "id": "A5110088085"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2059319290": {
+            "id": "W2059319290",
+            "title": "Vagally-Mediated Reflex Bronchoconstriction in Allergic Asthma",
+            "year": 1973,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "CHEST Journal"
+        },
+        "W4391051526": {
+            "id": "W4391051526",
+            "title": "Effect of twice daily inhaled albuterol on cardiopulmonary exercise outcomes, dynamic hyperinflation, and symptoms in secondhand tobacco-exposed persons with preserved spirometry and air trapping: a randomized controlled trial",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Siyang Zeng",
+                    "id": "A5004793654"
+                },
+                {
+                    "name": "Melissa Nishihama",
+                    "id": "A5113943578"
+                },
+                {
+                    "name": "Lemlem Weldemichael",
+                    "id": "A5065342945"
+                },
+                {
+                    "name": "Helen Lozier",
+                    "id": "A5028327986"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Mehrdad Arjomandi",
+                    "id": "A5051483297"
+                }
+            ],
+            "venue": "BMC Pulmonary Medicine"
+        },
+        "W1893428819": {
+            "id": "W1893428819",
+            "title": "Inhibition of antigen-induced airway hyperresponsiveness by a thromboxane synthetase inhibitor (OKY-046) in allergic dogs.",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Kian Fan Chung",
+                    "id": "A5036414874"
+                },
+                {
+                    "name": "Hisamichi Aizawa",
+                    "id": "A5019750455"
+                },
+                {
+                    "name": "Allan B. Becker",
+                    "id": "A5013849716"
+                },
+                {
+                    "name": "Oscar L. Frick",
+                    "id": "A5056580067"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "J A Nadel",
+                    "id": "A5109312912"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W120313431": {
+            "id": "W120313431",
+            "title": "Diagnostic utility of fiberoptic bronchoscopy in patients with Pneumocystis carinii pneumonia and the acquired immune deficiency syndrome.",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "D L Coleman",
+                    "id": "A5008207655"
+                },
+                {
+                    "name": "Peter Dodek",
+                    "id": "A5060270776"
+                },
+                {
+                    "name": "John M. Luce",
+                    "id": "A5044874588"
+                },
+                {
+                    "name": "Jeffrey A. Golden",
+                    "id": "A5009572751"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jill Murray",
+                    "id": "A5021529334"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2030521898": {
+            "id": "W2030521898",
+            "title": "Stimulus specificity of the generation of leukotrienes by dog mastocytoma cells.",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "Edward J. Goetzl",
+                    "id": "A5077439065"
+                },
+                {
+                    "name": "Michael Phillips",
+                    "id": "A5086143629"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "The Journal of Experimental Medicine"
+        },
+        "W2406374842": {
+            "id": "W2406374842",
+            "title": "Pulmonary physiologic abnormalities in experimental asthma in dogs.",
+            "year": 1972,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "G Kessler",
+                    "id": "A5058649763"
+                },
+                {
+                    "name": "Donghui Yu",
+                    "id": "A5057344151"
+                },
+                {
+                    "name": "Oscar L. Frick",
+                    "id": "A5056580067"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W1810409014": {
+            "id": "W1810409014",
+            "title": "Histamine release during antigen inhalation in experimental asthma in dogs.",
+            "year": 1975,
+            "authors": [
+                {
+                    "name": "A. Chiesa",
+                    "id": "A5044623266"
+                },
+                {
+                    "name": "D. S. Dain",
+                    "id": "A5015369520"
+                },
+                {
+                    "name": "Greta Meyers",
+                    "id": "A5087638529"
+                },
+                {
+                    "name": "G Kessler",
+                    "id": "A5058649763"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)"
+        },
+        "W2235195695": {
+            "id": "W2235195695",
+            "title": "Isolated canine mastocytoma cells: propagation and characterization of two cell lines",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Rebekah DeVinney",
+                    "id": "A5024072141"
+                },
+                {
+                    "name": "Laura Mccabe",
+                    "id": "A5112804761"
+                },
+                {
+                    "name": "Walter E. Finkbeiner",
+                    "id": "A5045698000"
+                },
+                {
+                    "name": "Darlene J. Elias",
+                    "id": "A5072746078"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "American Journal of Physiology-Cell Physiology"
+        },
+        "W1836196174": {
+            "id": "W1836196174",
+            "title": "Correlation between serial pulmonary function tests and fiberoptic bronchoscopy in patients with Pneumocystis carinii pneumonia and the acquired immune deficiency syndrome.",
+            "year": 1984,
+            "authors": [
+                {
+                    "name": "D L Coleman",
+                    "id": "A5008207655"
+                },
+                {
+                    "name": "Peter Dodek",
+                    "id": "A5060270776"
+                },
+                {
+                    "name": "J A Golden",
+                    "id": "A5113432838"
+                },
+                {
+                    "name": "John M. Luce",
+                    "id": "A5044874588"
+                },
+                {
+                    "name": "Emmel Golden",
+                    "id": "A5033499249"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jill Murray",
+                    "id": "A5021529334"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2282917162": {
+            "id": "W2282917162",
+            "title": "Inhibition of respiratory reflexes by local anesthetic aerosols in dogs and rabbits",
+            "year": 1975,
+            "authors": [
+                {
+                    "name": "D. S. Dain",
+                    "id": "A5015369520"
+                },
+                {
+                    "name": "Homer A. Boushey",
+                    "id": "A5016024382"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2120086554": {
+            "id": "W2120086554",
+            "title": "Chymase and tryptase in dog mastocytoma cells: asynchronous expression as revealed by enzyme cytochemical staining.",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "George H. Caughey",
+                    "id": "A5025223838"
+                },
+                {
+                    "name": "N F Viro",
+                    "id": "A5044265531"
+                },
+                {
+                    "name": "Lynne D. Calonico",
+                    "id": "A5016160424"
+                },
+                {
+                    "name": "Donald M. McDonald",
+                    "id": "A5003462092"
+                },
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Histochemistry & Cytochemistry"
+        },
+        "W2150368202": {
+            "id": "W2150368202",
+            "title": "The mechanism of rapid, shallow breathing after inhaling histamine aerosol in exercising dogs.",
+            "year": 1976,
+            "authors": [
+                {
+                    "name": "Eugene R. Bleecker",
+                    "id": "A5048656238"
+                },
+                {
+                    "name": "D. J. Cotton",
+                    "id": "A5108374085"
+                },
+                {
+                    "name": "Sven Fischer",
+                    "id": "A5012544191"
+                },
+                {
+                    "name": "P. D. Graf",
+                    "id": "A5110192241"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W298464397": {
+            "id": "W298464397",
+            "title": "Pulmonary function in patients with systemic lupus erythematosus.",
+            "year": 1966,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "D. B. Jennings",
+                    "id": "A5054138537"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W1645365487": {
+            "id": "W1645365487",
+            "title": "IgE-dependent and ionophore-induced generation of leukotrienes by dog mastocytoma cells.",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "Michael Phillips",
+                    "id": "A5086143629"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Edward J. Goetzl",
+                    "id": "A5077439065"
+                }
+            ],
+            "venue": "The Journal of Immunology"
+        },
+        "W2225210044": {
+            "id": "W2225210044",
+            "title": "Changes in airway mast cells and histamine caused by antigen aerosol in allergic dogs",
+            "year": 1977,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Greta Meyers",
+                    "id": "A5087638529"
+                },
+                {
+                    "name": "D. S. Dain",
+                    "id": "A5015369520"
+                },
+                {
+                    "name": "R. L. Miller",
+                    "id": "A5075090355"
+                },
+                {
+                    "name": "Henry R. Bourne",
+                    "id": "A5105525698"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2391490195": {
+            "id": "W2391490195",
+            "title": "Physiological and pharmacological properties of canine trachealis muscle in vivo",
+            "year": 1980,
+            "authors": [
+                {
+                    "name": "James K. Brown",
+                    "id": "A5112394716"
+                },
+                {
+                    "name": "A. R. Leff",
+                    "id": "A5111875174"
+                },
+                {
+                    "name": "M Frey",
+                    "id": "A5111408102"
+                },
+                {
+                    "name": "B. R. Reed",
+                    "id": "A5111687653"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W1762563267": {
+            "id": "W1762563267",
+            "title": "Rapid, shallow breathing after Ascaris suum antigen inhalation: role of vagus nerves",
+            "year": 1977,
+            "authors": [
+                {
+                    "name": "D. J. Cotton",
+                    "id": "A5108374085"
+                },
+                {
+                    "name": "Eugene R. Bleecker",
+                    "id": "A5048656238"
+                },
+                {
+                    "name": "Sven Fischer",
+                    "id": "A5012544191"
+                },
+                {
+                    "name": "P. D. Graf",
+                    "id": "A5110192241"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2289572946": {
+            "id": "W2289572946",
+            "title": "Distribution oand pharmacological release of histamine in canine lung in vivo",
+            "year": 1978,
+            "authors": [
+                {
+                    "name": "Merrill Nisam",
+                    "id": "A5088634269"
+                },
+                {
+                    "name": "Aline Zbinden",
+                    "id": "A5027883808"
+                },
+                {
+                    "name": "Sarah E. Chesrown",
+                    "id": "A5000621928"
+                },
+                {
+                    "name": "David Barnett",
+                    "id": "A5080669957"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2895972719": {
+            "id": "W2895972719",
+            "title": "Cholinergic Pharmacology in Asthma",
+            "year": 1973,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Elsevier eBooks"
+        },
+        "W2020922763": {
+            "id": "W2020922763",
+            "title": "Pulmonary-Function Response to Radioisotope Scanning of the Lungs",
+            "year": 1966,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "JAMA"
+        },
+        "W117254318": {
+            "id": "W117254318",
+            "title": "Cigarette smoke-induced bronchoconstriction in dogs: vagal and extravagal mechanisms",
+            "year": 1984,
+            "authors": [
+                {
+                    "name": "Janna Hartiala",
+                    "id": "A5071162321"
+                },
+                {
+                    "name": "C Mapp",
+                    "id": "A5113770471"
+                },
+                {
+                    "name": "Adam Mitchell",
+                    "id": "A5102729204"
+                },
+                {
+                    "name": "Robert L. Shields",
+                    "id": "A5070281511"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2161883422": {
+            "id": "W2161883422",
+            "title": "An ultrastructural analysis of dog mastocytoma cells and normal mast cells",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Lynne D. Calonico",
+                    "id": "A5016160424"
+                },
+                {
+                    "name": "Michael Phillips",
+                    "id": "A5086143629"
+                },
+                {
+                    "name": "Donald M. McDonald",
+                    "id": "A5003462092"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "The Anatomical Record"
+        },
+        "W2231110947": {
+            "id": "W2231110947",
+            "title": "Airway responsiveness to inhaled antigen, histamine, and methacholine in inbred, ragweed-sensitized dogs.",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "C Mapp",
+                    "id": "A5113770471"
+                },
+                {
+                    "name": "Jaakko Hartiala",
+                    "id": "A5019865568"
+                },
+                {
+                    "name": "Oscar L. Frick",
+                    "id": "A5056580067"
+                },
+                {
+                    "name": "Robert L. Shields",
+                    "id": "A5070281511"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W1833559361": {
+            "id": "W1833559361",
+            "title": "Role of neutrophil elastase in allergen-induced lysozyme secretion in the dog trachea",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "Elvan Tabachnik",
+                    "id": "A5038022647"
+                },
+                {
+                    "name": "Antje Schuster",
+                    "id": "A5049690487"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W1486772989": {
+            "id": "W1486772989",
+            "title": "Selective adhesion of mast cells to tracheal epithelial cells in vitro.",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "Shabtai Varsano",
+                    "id": "A5001115037"
+                },
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                },
+                {
+                    "name": "J A Nadel",
+                    "id": "A5109312912"
+                }
+            ],
+            "venue": "The Journal of Immunology"
+        },
+        "W107880846": {
+            "id": "W107880846",
+            "title": "Localization of cAMP in dog and cat trachea: effects of beta-adrenergic agonists",
+            "year": 1984,
+            "authors": [
+                {
+                    "name": "Stephen C. Lazarus",
+                    "id": "A5037106670"
+                },
+                {
+                    "name": "Carol Basbaum",
+                    "id": "A5113732625"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "American Journal of Physiology-Cell Physiology"
+        },
+        "W2229691894": {
+            "id": "W2229691894",
+            "title": "Augmentation of alpha-adrenergic contractions in the trachealis muscle of living dogs",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "James K. Brown",
+                    "id": "A5112394716"
+                },
+                {
+                    "name": "Cleveland G. Shields",
+                    "id": "A5056170902"
+                },
+                {
+                    "name": "C. Jones",
+                    "id": "A5066808544"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W2024175434": {
+            "id": "W2024175434",
+            "title": "Effect of inhaled ozone on lung histamine in conscious guinea pigs",
+            "year": 1987,
+            "authors": [
+                {
+                    "name": "Robert L. Shields",
+                    "id": "A5070281511"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Environmental Research"
+        },
+        "W2152140808": {
+            "id": "W2152140808",
+            "title": "Adrenergic Responsiveness: FEV<sub><b><i>1</i></b></sub>and Symptom Differences in Whites and African Americans with Mild Asthma",
+            "year": 2007,
+            "authors": [
+                {
+                    "name": "Grace E. Hardie",
+                    "id": "A5111570245"
+                },
+                {
+                    "name": "James K. Brown",
+                    "id": "A5112394716"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Asthma"
+        },
+        "W2135162781": {
+            "id": "W2135162781",
+            "title": "Immunologic release of histamine from dog lung: Comparison of in vivo and in vitro responses in the same animal",
+            "year": 1984,
+            "authors": [
+                {
+                    "name": "Martin J. Frey",
+                    "id": "A5111440646"
+                },
+                {
+                    "name": "Sarah E. Chesrown",
+                    "id": "A5000621928"
+                },
+                {
+                    "name": "B. R. Reed",
+                    "id": "A5111687653"
+                },
+                {
+                    "name": "Lee Greenspon",
+                    "id": "A5070622818"
+                },
+                {
+                    "name": "Robert L. Shields",
+                    "id": "A5070281511"
+                },
+                {
+                    "name": "Henry R. Bourne",
+                    "id": "A5105525698"
+                },
+                {
+                    "name": "James K. Brown",
+                    "id": "A5112394716"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Allergy and Clinical Immunology"
+        },
+        "W2417278087": {
+            "id": "W2417278087",
+            "title": "Histamine release and circulating cells after antigen inhalation in allergic dogs",
+            "year": 1987,
+            "authors": [
+                {
+                    "name": "Kian Fan Chung",
+                    "id": "A5036414874"
+                },
+                {
+                    "name": "Molly L. Osborne",
+                    "id": "A5074438306"
+                },
+                {
+                    "name": "R. Corrales",
+                    "id": "A5050835237"
+                },
+                {
+                    "name": "TW Evans",
+                    "id": "A5109964535"
+                },
+                {
+                    "name": "Laura Mccabe",
+                    "id": "A5112804761"
+                },
+                {
+                    "name": "Oscar L. Frick",
+                    "id": "A5056580067"
+                },
+                {
+                    "name": "Jay A. Nadel",
+                    "id": "A5010127199"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "Journal of Applied Physiology"
+        },
+        "W1719928477": {
+            "id": "W1719928477",
+            "title": "A chronic isolated tracheal segment to study airway reflexes in conscious dogs.",
+            "year": 1979,
+            "authors": [
+                {
+                    "name": "P. D. Graf",
+                    "id": "A5110192241"
+                },
+                {
+                    "name": "Sven Fischer",
+                    "id": "A5012544191"
+                },
+                {
+                    "name": "J A Nadel",
+                    "id": "A5109312912"
+                },
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "PubMed"
+        },
+        "W2036457286": {
+            "id": "W2036457286",
+            "title": "Clinical and Physiologic Evaluation of Asthma",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Warren M. Gold",
+                    "id": "A5111588958"
+                }
+            ],
+            "venue": "CHEST Journal"
+        },
+        "W1978835523": {
+            "id": "W1978835523",
+            "title": "The patterning of plant communities and edaphic factors along a high arctic coastline: implications for succession",
+            "year": 1994,
+            "authors": [
+                {
+                    "name": "L. C. Bliss",
+                    "id": "A5012766377"
+                },
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                }
+            ],
+            "venue": "Canadian Journal of Botany"
+        },
+        "W1988297365": {
+            "id": "W1988297365",
+            "title": "Water Limitations and Plant Community Development in a Polar Desert",
+            "year": 1995,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "L. C. Bliss",
+                    "id": "A5012766377"
+                }
+            ],
+            "venue": "Ecology"
+        },
+        "W4412066471": {
+            "id": "W4412066471",
+            "title": "Nonnative English Holly (Ilex aquifolium L.) Associated with Reduced Cover and Diversity of Common Native Understory Plant Species",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Elliott D. Church",
+                    "id": "A5036762300"
+                },
+                {
+                    "name": "David L. Stokes",
+                    "id": "A5022046425"
+                },
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                }
+            ],
+            "venue": "Natural Areas Journal"
+        },
+        "W2317361105": {
+            "id": "W2317361105",
+            "title": "Competition, Morphology and Canopy Structure in Wheat (Triticum aestivum L.) and Wild Oat (Avena fatua L.) Exposed to Enhanced Ultraviolet-B Radiation",
+            "year": 1988,
+            "authors": [
+                {
+                    "name": "Paul W. Barnes",
+                    "id": "A5088998985"
+                },
+                {
+                    "name": "P. Jordan",
+                    "id": "A5038388407"
+                },
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "Stephan D. Flint",
+                    "id": "A5051545392"
+                },
+                {
+                    "name": "M. M. Caldwell",
+                    "id": "A5111596639"
+                }
+            ],
+            "venue": "Functional Ecology"
+        },
+        "W2090431415": {
+            "id": "W2090431415",
+            "title": "A MODULATED LAMP SYSTEM FOR SOLAR UV\u2010B (280\u2010320 nm). SUPPLEMENTATION STUDIES IN THE FIELD",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "M. M. Caldwell",
+                    "id": "A5111596639"
+                },
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "Gary Harris",
+                    "id": "A5112602690"
+                },
+                {
+                    "name": "C. W. Ashurst",
+                    "id": "A5022512351"
+                }
+            ],
+            "venue": "Photochemistry and Photobiology"
+        },
+        "W2081487874": {
+            "id": "W2081487874",
+            "title": "Vascular plant reproduction, establishment, and growth and the effects of cryptogamic crusts within a polar desert ecosystem, Devon Island, N.W.T., Canada",
+            "year": 1999,
+            "authors": [
+                {
+                    "name": "L. C. Bliss",
+                    "id": "A5012766377"
+                },
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                }
+            ],
+            "venue": "Canadian Journal of Botany"
+        },
+        "W2320633732": {
+            "id": "W2320633732",
+            "title": "The effects of the spatial pattern of defoliation on regrowth of a tussock grass",
+            "year": 1990,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "M. M. Caldwell",
+                    "id": "A5111596639"
+                }
+            ],
+            "venue": "Oecologia"
+        },
+        "W1574685461": {
+            "id": "W1574685461",
+            "title": "Physiological ecology of mesic, temperate woody vines",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "Alan H. Teramura",
+                    "id": "A5109986205"
+                },
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "Irwin N. Forseth",
+                    "id": "A5028145338"
+                }
+            ],
+            "venue": "Cambridge University Press eBooks"
+        },
+        "W2474140758": {
+            "id": "W2474140758",
+            "title": "The Influence of Cryptogamic Crusts on the Thermal Environment and Temperature Relations of Plants in a High Arctic Polar Desert, Devon Island, N.W.T., Canada",
+            "year": 1998,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                }
+            ],
+            "venue": "Arctic and Alpine Research"
+        },
+        "W2049040938": {
+            "id": "W2049040938",
+            "title": "The effects of ultraviolet\u2010B radiation on plant competition in terrestrial ecosystems",
+            "year": 1983,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "Martyn M. Caldwell",
+                    "id": "A5112799232"
+                }
+            ],
+            "venue": "Physiologia Plantarum"
+        },
+        "W1572027913": {
+            "id": "W1572027913",
+            "title": "Collaborative Ecological Restoration",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "Kern Ewing",
+                    "id": "A5049673882"
+                },
+                {
+                    "name": "John E. Banks",
+                    "id": "A5084059578"
+                },
+                {
+                    "name": "Martha J. Groom",
+                    "id": "A5058343795"
+                },
+                {
+                    "name": "T. M. Hinckley",
+                    "id": "A5009216818"
+                },
+                {
+                    "name": "David Secord",
+                    "id": "A5077005784"
+                },
+                {
+                    "name": "Daniela Shebitz",
+                    "id": "A5060290277"
+                }
+            ],
+            "venue": "Science"
+        },
+        "W1483513116": {
+            "id": "W1483513116",
+            "title": "Functional influences of cryptobiotic surface crusts in an alpine tundra basin of the Olympic mountains, Washington, U.S.A",
+            "year": 2001,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "Katherine Glew",
+                    "id": "A5058973640"
+                },
+                {
+                    "name": "Lynne Dickson",
+                    "id": "A5043362320"
+                }
+            ],
+            "venue": "Research Exchange (Washington State University)"
+        },
+        "W2588309183": {
+            "id": "W2588309183",
+            "title": "An Analysis of Factors Driving Success in Ecological Restoration Projects by a University-Community Partnership",
+            "year": 2017,
+            "authors": [
+                {
+                    "name": "Joy K. Wood",
+                    "id": "A5015373060"
+                },
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "James L. Fridley",
+                    "id": "A5110120699"
+                },
+                {
+                    "name": "Kern Ewing",
+                    "id": "A5049673882"
+                },
+                {
+                    "name": "Dev Niyogi",
+                    "id": "A5083215200"
+                }
+            ],
+            "venue": "Ecological Restoration"
+        },
+        "W65874136": {
+            "id": "W65874136",
+            "title": "Realizing the Educational Potential of Ecological Restoration",
+            "year": 2011,
+            "authors": [
+                {
+                    "name": "Kern Ewing",
+                    "id": "A5049673882"
+                },
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                }
+            ],
+            "venue": "Island Press/Center for Resource Economics eBooks"
+        },
+        "W2614657453": {
+            "id": "W2614657453",
+            "title": "The effects of the spatial pattern of defoliation on regrowth of a tussock grass",
+            "year": 1989,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "M. M. Caldwell",
+                    "id": "A5111596639"
+                }
+            ],
+            "venue": "Oecologia"
+        },
+        "W2335287459": {
+            "id": "W2335287459",
+            "title": "The effects of the spatial pattern of defoliation on regrowth of a tussock grass",
+            "year": 1989,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                },
+                {
+                    "name": "M. M. Caldwell",
+                    "id": "A5111596639"
+                }
+            ],
+            "venue": "Oecologia"
+        },
+        "W7126012663": {
+            "id": "W7126012663",
+            "title": "The Influence of Cryptogamic Crusts on the Thermal Environment and Temperature Relations of Plants in a High Arctic Polar Desert, Devon Island, N.W.T., Canada",
+            "year": 1998,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                }
+            ],
+            "venue": "Arctic and Alpine Research"
+        },
+        "W2736183522": {
+            "id": "W2736183522",
+            "title": "The Interaction of Ultraviolet-B Radiation Stress and Plant Competition in Agricultural Plant Populations",
+            "year": 2021,
+            "authors": [
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                }
+            ],
+            "venue": "Digital Commons - USU (Utah State University)"
+        },
+        "W4393171533": {
+            "id": "W4393171533",
+            "title": "Nonnative English Holly (Ilex Aquifolium) Reduces Native Forest Understory Plant Cover and Diversity",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Elliott D. Church",
+                    "id": "A5036762300"
+                },
+                {
+                    "name": "David L. Stokes",
+                    "id": "A5022046425"
+                },
+                {
+                    "name": "Warren G. Gold",
+                    "id": "A5011326518"
+                }
+            ],
+            "venue": "SSRN Electronic Journal"
+        },
+        "W2005965768": {
+            "id": "W2005965768",
+            "title": "Determinants of Skeletal Muscle Catabolism After Severe Burn",
+            "year": 2000,
+            "authors": [
+                {
+                    "name": "David W. Hart",
+                    "id": "A5112393202"
+                },
+                {
+                    "name": "Steven E. Wolf",
+                    "id": "A5041106533"
+                },
+                {
+                    "name": "David L. Chinkes",
+                    "id": "A5088819443"
+                },
+                {
+                    "name": "Dennis C. Gore",
+                    "id": "A5110353413"
+                },
+                {
+                    "name": "Ronald P. Mlcak",
+                    "id": "A5022284552"
+                },
+                {
+                    "name": "Robert B. Beauford",
+                    "id": "A5087352178"
+                },
+                {
+                    "name": "Michael K. Obeng",
+                    "id": "A5112076063"
+                },
+                {
+                    "name": "Sophia Lal",
+                    "id": "A5112075599"
+                },
+                {
+                    "name": "Warren F. Gold",
+                    "id": "A5031451998"
+                },
+                {
+                    "name": "Robert R. Wolfe",
+                    "id": "A5060298854"
+                },
+                {
+                    "name": "David N. Herndon",
+                    "id": "A5102795860"
+                }
+            ],
+            "venue": "Annals of Surgery"
+        },
+        "W2029066231": {
+            "id": "W2029066231",
+            "title": "Effects of Burn Wound Excision on Bacterial Colonization and Invasion",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Juan P. Barret",
+                    "id": "A5043397075"
+                },
+                {
+                    "name": "David N. Herndon",
+                    "id": "A5102795860"
+                }
+            ],
+            "venue": "Plastic & Reconstructive Surgery"
+        }
+    }
+}

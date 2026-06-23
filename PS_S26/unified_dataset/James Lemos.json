@@ -1,0 +1,46 @@
+{
+    "author_name": {
+        "name": "James Lemos",
+        "clusters_count": 2
+    },
+    "author_data": {
+        "A5088169586": {
+            "gold_id/master_key": "James_Lemos_1",
+            "ids": [
+                "A5088169586"
+            ],
+            "name": "James C. Lemos",
+            "name_first": "James",
+            "name_middle": "C.",
+            "name_last": "Lemos",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 2,
+            "works": []
+        },
+        "A5072480994": {
+            "gold_id/master_key": "James_Lemos_2",
+            "ids": [
+                "A5072480994"
+            ],
+            "name": "James Lindolph Roosevelt Lemos",
+            "name_first": "James",
+            "name_middle": "Lindolph Roosevelt",
+            "name_last": "Lemos",
+            "field": null,
+            "fields": null,
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 3,
+            "works": [
+                "W2060880254",
+                "W3019998122",
+                "W3032215462"
+            ]
+        }
+    }
+}

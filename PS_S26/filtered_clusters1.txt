@@ -1,0 +1,245 @@
+
+Balla Rajakumar (ON HOLD)
+approved_clusters = 0000-0003-0788-1499,
+review_clusters = 0000-0002-3344-5159,
+
+Ronald Rieder (N/A)
+review_clusters = A5020182220,
+A5113639421,
+A5100050481,
+
+Robert Couch
+approved_clusters = couch_robert_1,
+couch_robert_0,
+couch_robert_5,
+review_clusters = couch_robert_11,
+couch_robert_12,
+couch_robert_14,
+couch_robert_3,
+couch_robert_10,
+couch_robert_15,
+couch_robert_13,
+couch_robert_2,
+couch_robert_9,
+couch_robert_6,
+couch_robert_4,
+couch_robert_7,
+couch_robert_8,
+
+rejected: 6, 11, 2, 4, 9, 14, 15, 10, 13, 8, 12, 7
+
+Don Nelson (N/A)
+review_clusters = A5092439785,
+A5109621795,
+A5009991312,
+A5092433014,
+A5018413034,
+A5110238646,
+A5113804302,
+A5092440142,
+A5041434933,
+A5092435165,
+A5082889207,
+A5092433136,
+A5092439978,
+A5103404828,
+A5092439774,
+A5092439779,
+A5092440163,
+A5112624451,
+A5092440093,
+
+Orlando Gutierrez (N/A)
+review_clusters = A5112172312,
+A5124546300,
+A5105266882,
+
+Claude Piantadosi
+approved_clusters = piantadosi_claude_0,
+review_clusters = piantadosi_claude_1,
+rejected: 1
+
+Stephen Desiderio (N/A)
+review_clusters = A5024522056,
+A5130074475,
+A5026873741,
+
+Anna Diehl (N/A)
+review_clusters = A5043697912,
+A5109410573,
+A5020766248,
+
+Louise Laurent
+approved_clusters = laurent_louise_5,
+laurent_louise_11,
+laurent_louise_6,
+laurent_louise_0,
+laurent_louise_2,
+laurent_louise_1,
+laurent_louise_3,
+laurent_louise_7,
+laurent_louise_8,
+review_clusters = laurent_louise_9,
+laurent_louise_4,
+laurent_louise_10,
+rejected: 9, 4, 10
+moved up: 7, 8
+
+Douglas Sawyer (N/A)
+review_clusters = A5004226219,
+A5020112525,
+A5036035157,
+A5046334122,
+A5074702417,
+
+William Tap
+approved_clusters = tap_william_0,
+tap_william_5,
+tap_william_2,
+tap_william_11,
+tap_william_7,
+tap_william_4,
+tap_william_10,
+review_clusters = tap_william_3,
+tap_william_8,
+tap_william_6,
+tap_william_1,
+tap_william_9,
+rejected: 3, 8, 1, 6, 9
+moved up: 4, 10
+
+Sanford Shattil
+approved_clusters = shattil_sanford_1,
+shattil_sanford_0,
+
+Maria Basil
+approved_clusters = basil_maria_2,
+basil_maria_0,
+basil_maria_1,
+
+Joseph Goldstein (N/A)
+review_clusters = A5110060593,
+A5111477111,
+A5103439743,
+A5014037091,
+A5103287226,
+A5122028011,
+A5028972013,
+A5033663954,
+A5058164552,
+A5022443911,
+A5108365849,
+A5125538192,
+A5111810731,
+A5004671650,
+
+Stephen Gottschalk (N/A)
+review_clusters = A5124952857,
+A5126439172,
+A5030927701,
+A5105750346,
+A5123877345,
+A5110403085,
+A5127377750,
+A5112427116,
+A5056105964,
+A5126579058,
+A5126254749,
+A5091781236,
+A5093712567,
+A5111020669,
+A5124855231,
+A5117164770,
+A5122734450,
+
+Kenneth Mandl
+approved_clusters = mandl_kenneth_0,
+mandl_kenneth_8,
+mandl_kenneth_2,
+mandl_kenneth_10,
+mandl_kenneth_9,
+mandl_kenneth_3,
+mandl_kenneth_5,
+mandl_kenneth_4,
+review_clusters = mandl_kenneth_6,
+mandl_kenneth_11,
+mandl_kenneth_1,
+mandl_kenneth_7,
+mandl_kenneth_12,
+rejected: 6, 11, 1, 7, 12
+moved up: 9, 3, 5, 4
+
+William Hwang
+approved_clusters = hwang_william_1,
+hwang_william_4,
+hwang_william_6,
+hwang_william_0,
+hwang_william_2,
+review_clusters = hwang_william_10,
+hwang_william_7,
+hwang_william_8,
+hwang_william_9,
+hwang_william_5,
+hwang_william_3,
+hwang_william_11,
+debating: 0, 1 and 6, 4, 2
+rejected: 10, 7, 8, 9, 3, 11
+
+Margaret Koziel (N/A)
+review_clusters = A5001614009,
+A5112577365,
+A5099878087,
+
+Susan Wall (N/A)
+review_clusters = A5010418402,
+A5077234343,
+A5089207217,
+A5104051568,
+A5020922619,
+A5001359550,
+A5077054401,
+A5112409617,
+
+Peter Cram
+approved_clusters = cram_peter_0,
+cram_peter_1,
+
+James Lemos (N/A)
+review_clusters = A5072480994,
+A5088169586,
+
+Norman Edelman
+approved_clusters = gold_person_1,
+gold_person_2,
+
+Stephen Baum (N/A)
+review_clusters = A5099831375,
+A5017974148,
+A5022012813,
+A5074953235,
+A5105470224,
+A5079560156,
+
+Robert Eaton
+approved_clusters = eaton_robert_4,
+eaton_robert_1,
+eaton_robert_0,
+review_clusters = eaton_robert_6,
+eaton_robert_7,
+eaton_robert_16,
+eaton_robert_13,
+eaton_robert_10,
+eaton_robert_5,
+eaton_robert_3,
+eaton_robert_12,
+eaton_robert_14,
+eaton_robert_9,
+eaton_robert_15,
+eaton_robert_2,
+eaton_robert_11,
+eaton_robert_8,
+
+Joseph Bloomer
+approved_clusters = bloomer_joseph_0,
+review_clusters = bloomer_joseph_1,
+rejected: 1

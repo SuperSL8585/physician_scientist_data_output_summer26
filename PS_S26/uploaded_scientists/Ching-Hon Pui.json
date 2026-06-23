@@ -1,0 +1,1503 @@
+{
+    "author_name": {
+        "name": "Ching-Hon Pui",
+        "clusters_count": 1
+    },
+    "author_data": {
+        "A5111629964": {
+            "gold_id/master_key": "ching-hon_pui_1",
+            "ids": [
+                "A5111629964",
+                "A5112078671",
+                "A5096760205",
+                "A5125574347",
+                "A5130674680",
+                "A5122155135",
+                "A5125727809"
+            ],
+            "name": "Ching-Hon Pui",
+            "name_first": "Ching-Hon",
+            "name_middle": "",
+            "name_last": "Pui",
+            "field": null,
+            "fields": [
+                "Cancer Research",
+                "Leukemia",
+                "Pediatric Oncology"
+            ],
+            "email": null,
+            "linkedin": null,
+            "socials": [],
+            "works_count": 29,
+            "works": [
+                "W2059999488",
+                "W2005044605",
+                "W2126838987",
+                "W2114785755",
+                "W4405045208",
+                "W2043685977",
+                "W1967887001",
+                "W2050480305",
+                "W1972868941",
+                "W1989409851",
+                "W1963788182",
+                "W2079758133",
+                "W4417013496",
+                "W4417018301",
+                "W4417018426",
+                "W4417021199",
+                "W7123409187",
+                "W1989604055",
+                "W1999616653",
+                "W1989387647",
+                "W2488430529",
+                "W7128479339",
+                "W7140858555",
+                "W7118700004",
+                "W7118759453",
+                "W7128739535",
+                "W7134255031",
+                "W7136679350",
+                "W7140858555"
+            ]
+        }
+    },
+    "works_data": {
+        "W2059999488": {
+            "id": "W2059999488",
+            "title": "Treating Childhood Acute Lymphoblastic Leukemia without Cranial Irradiation",
+            "year": 2009,
+            "authors": [
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "Dario Campana",
+                    "id": "A5065331155"
+                },
+                {
+                    "name": "Deqing Pei",
+                    "id": "A5112528708"
+                },
+                {
+                    "name": "W. Paul Bowman",
+                    "id": "A5050942040"
+                },
+                {
+                    "name": "John T. Sandlund",
+                    "id": "A5109238125"
+                },
+                {
+                    "name": "Sue C. Kaste",
+                    "id": "A5112466226"
+                },
+                {
+                    "name": "Raul C. Ribeiro",
+                    "id": "A5086250633"
+                },
+                {
+                    "name": "Jeffrey E. Rubnitz",
+                    "id": "A5065634145"
+                },
+                {
+                    "name": "Susana C. Raimondi",
+                    "id": "A5012776569"
+                },
+                {
+                    "name": "Mihaela Onciu",
+                    "id": "A5023870317"
+                },
+                {
+                    "name": "Elaine Coustan\u2010Smith",
+                    "id": "A5037616829"
+                },
+                {
+                    "name": "Larry E. Kun",
+                    "id": "A5042463331"
+                },
+                {
+                    "name": "Sima Jeha",
+                    "id": "A5044030725"
+                },
+                {
+                    "name": "Cheng Cheng",
+                    "id": "A5100349406"
+                },
+                {
+                    "name": "Scott C. Howard",
+                    "id": "A5011622752"
+                },
+                {
+                    "name": "Vickey Simmons",
+                    "id": "A5069859737"
+                },
+                {
+                    "name": "Amy Bayles",
+                    "id": "A5067011992"
+                },
+                {
+                    "name": "Monika L. Metzger",
+                    "id": "A5019058700"
+                },
+                {
+                    "name": "James M. Boyett",
+                    "id": "A5110213508"
+                },
+                {
+                    "name": "Wing Leung",
+                    "id": "A5062964407"
+                },
+                {
+                    "name": "Rupert Handgretinger",
+                    "id": "A5035626095"
+                },
+                {
+                    "name": "James R. Downing",
+                    "id": "A5015143631"
+                },
+                {
+                    "name": "William E. Evans",
+                    "id": "A5034189317"
+                },
+                {
+                    "name": "Mary V. Relling",
+                    "id": "A5009866488"
+                }
+            ],
+            "venue": "New England Journal of Medicine"
+        },
+        "W2005044605": {
+            "id": "W2005044605",
+            "title": "Outcome of childhood acute lymphoblastic leukaemia in resource-poor countries",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Monika L. Metzger",
+                    "id": "A5019058700"
+                },
+                {
+                    "name": "Scott C. Howard",
+                    "id": "A5011622752"
+                },
+                {
+                    "name": "Ligia F\u00fa",
+                    "id": "A5057856170"
+                },
+                {
+                    "name": "Armando Pe\u00f1a",
+                    "id": "A5109922961"
+                },
+                {
+                    "name": "Rene Stefan",
+                    "id": "A5071340046"
+                },
+                {
+                    "name": "Michael L. Hancock",
+                    "id": "A5114251062"
+                },
+                {
+                    "name": "Zhe Zhang",
+                    "id": "A5100442938"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "Judy Wilimas",
+                    "id": "A5002643261"
+                },
+                {
+                    "name": "Raul C. Ribeiro",
+                    "id": "A5086250633"
+                }
+            ],
+            "venue": "The Lancet"
+        },
+        "W2126838987": {
+            "id": "W2126838987",
+            "title": "Results of Therapy for Acute Lymphoblastic Leukemia in Black and White Children",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                }
+            ],
+            "venue": "JAMA"
+        },
+        "W2114785755": {
+            "id": "W2114785755",
+            "title": "PACSIN2 polymorphism influences TPMT activity and mercaptopurine-related gastrointestinal toxicity",
+            "year": 2012,
+            "authors": [
+                {
+                    "name": "Gabriele Stocco",
+                    "id": "A5022483928"
+                },
+                {
+                    "name": "Wenjian Yang",
+                    "id": "A5035759509"
+                },
+                {
+                    "name": "Kristine R. Crews",
+                    "id": "A5085620590"
+                },
+                {
+                    "name": "William E. Thierfelder",
+                    "id": "A5009750006"
+                },
+                {
+                    "name": "Giuliana Decorti",
+                    "id": "A5090239706"
+                },
+                {
+                    "name": "Margherita Londero",
+                    "id": "A5060766461"
+                },
+                {
+                    "name": "Raffaella Franca",
+                    "id": "A5012156711"
+                },
+                {
+                    "name": "Marco Rabusin",
+                    "id": "A5048282703"
+                },
+                {
+                    "name": "Maria Grazia Valsecchi",
+                    "id": "A5083575870"
+                },
+                {
+                    "name": "Deqing Pei",
+                    "id": "A5112528708"
+                },
+                {
+                    "name": "Cheng Cheng",
+                    "id": "A5100349406"
+                },
+                {
+                    "name": "Steven W. Paugh",
+                    "id": "A5080486902"
+                },
+                {
+                    "name": "Laura B. Ramsey",
+                    "id": "A5049622640"
+                },
+                {
+                    "name": "B Diouf",
+                    "id": "A5030632668"
+                },
+                {
+                    "name": "J. Robert McCorkle",
+                    "id": "A5042904830"
+                },
+                {
+                    "name": "Terreia S. Jones",
+                    "id": "A5056451577"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "Mary V. Relling",
+                    "id": "A5009866488"
+                },
+                {
+                    "name": "William E. Evans",
+                    "id": "A5034189317"
+                }
+            ],
+            "venue": "Human Molecular Genetics"
+        },
+        "W4405045208": {
+            "id": "W4405045208",
+            "title": "Safety and Efficacy of Bicistronic CD19/CD22 CAR T Cell Therapy in Childhood B Cell Acute Lymphoblastic Leukemia",
+            "year": 2024,
+            "authors": [
+                {
+                    "name": "Xinyu Wan",
+                    "id": "A5063719189"
+                },
+                {
+                    "name": "Wenjie Li",
+                    "id": "A5100408994"
+                },
+                {
+                    "name": "Jiaoyang Cai",
+                    "id": "A5063641621"
+                },
+                {
+                    "name": "Xiaomin Yang",
+                    "id": "A5015512627"
+                },
+                {
+                    "name": "Liu Yang",
+                    "id": "A5103600458"
+                },
+                {
+                    "name": "H. J. Yang",
+                    "id": "A5100378741"
+                },
+                {
+                    "name": "Tianyi Wang",
+                    "id": "A5100399620"
+                },
+                {
+                    "name": "Yue Li",
+                    "id": "A5051325364"
+                },
+                {
+                    "name": "Zichao Zhou",
+                    "id": "A5007856751"
+                },
+                {
+                    "name": "Xiaoxi Lu",
+                    "id": "A5048193262"
+                },
+                {
+                    "name": "Zhiwei Xie",
+                    "id": "A5012763139"
+                },
+                {
+                    "name": "Jingbo Shao",
+                    "id": "A5021699990"
+                },
+                {
+                    "name": "Meng Su",
+                    "id": "A5101646110"
+                },
+                {
+                    "name": "Jing Zhang",
+                    "id": "A5115589370"
+                },
+                {
+                    "name": "Juan Qian",
+                    "id": "A5055981613"
+                },
+                {
+                    "name": "Kang An",
+                    "id": "A5100603589"
+                },
+                {
+                    "name": "Chengjuan Luo",
+                    "id": "A5103908291"
+                },
+                {
+                    "name": "Lixia Ding",
+                    "id": "A5043524433"
+                },
+                {
+                    "name": "Lili Song",
+                    "id": "A5102915872"
+                },
+                {
+                    "name": "Wenhua Shi",
+                    "id": "A5101441306"
+                },
+                {
+                    "name": "Jun Lu",
+                    "id": "A5101811156"
+                },
+                {
+                    "name": "Cheng Cheng",
+                    "id": "A5100349428"
+                },
+                {
+                    "name": "Yanjing Tang",
+                    "id": "A5042198150"
+                },
+                {
+                    "name": "Xuefeng Luo",
+                    "id": "A5063050701"
+                },
+                {
+                    "name": "Jingyu Li",
+                    "id": "A5101988190"
+                },
+                {
+                    "name": "Jianhua Ma",
+                    "id": "A5070820936"
+                },
+                {
+                    "name": "Benshang Li",
+                    "id": "A5064136744"
+                },
+                {
+                    "name": "Huabin Hu",
+                    "id": "A5045919942"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                }
+            ],
+            "venue": "Blood"
+        },
+        "W2043685977": {
+            "id": "W2043685977",
+            "title": "Sequential administration of methotrexate and asparaginase in relapsed or refractory pediatric acute myeloid leukemia",
+            "year": 2013,
+            "authors": [
+                {
+                    "name": "Jassada Buaboonnam",
+                    "id": "A5069687533"
+                },
+                {
+                    "name": "Xueyuan Cao",
+                    "id": "A5006746068"
+                },
+                {
+                    "name": "Jennifer L. Pauley",
+                    "id": "A5114112680"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "Raul C. Ribeiro",
+                    "id": "A5086250633"
+                },
+                {
+                    "name": "Jeffrey E. Rubnitz",
+                    "id": "A5065634145"
+                },
+                {
+                    "name": "Hiroto Inaba",
+                    "id": "A5075936752"
+                }
+            ],
+            "venue": "Pediatric Blood & Cancer"
+        },
+        "W1967887001": {
+            "id": "W1967887001",
+            "title": "Headache types, related morbidity, and quality of life in survivors of childhood acute lymphoblastic leukemia: A prospective cross sectional study",
+            "year": 2014,
+            "authors": [
+                {
+                    "name": "Zsila Sadighi",
+                    "id": "A5034912564"
+                },
+                {
+                    "name": "Kirsten K. Ness",
+                    "id": "A5037634832"
+                },
+                {
+                    "name": "Melissa M. Hudson",
+                    "id": "A5089743648"
+                },
+                {
+                    "name": "E. Brannon Morris",
+                    "id": "A5006539659"
+                },
+                {
+                    "name": "Davonna S. Ledet",
+                    "id": "A5042041434"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "Scott C. Howard",
+                    "id": "A5011622752"
+                },
+                {
+                    "name": "Kevin R. Krull",
+                    "id": "A5087384700"
+                },
+                {
+                    "name": "Emily Browne",
+                    "id": "A5082596414"
+                },
+                {
+                    "name": "Debbie Crom",
+                    "id": "A5109534527"
+                },
+                {
+                    "name": "Pamela S. Hinds",
+                    "id": "A5009818166"
+                },
+                {
+                    "name": "Liang Zhu",
+                    "id": "A5100758547"
+                },
+                {
+                    "name": "Deo Kumar Srivastava",
+                    "id": "A5030921044"
+                },
+                {
+                    "name": "Raja B. Khan",
+                    "id": "A5054044044"
+                }
+            ],
+            "venue": "European Journal of Paediatric Neurology"
+        },
+        "W2050480305": {
+            "id": "W2050480305",
+            "title": "ELECTIVE TESTICULAR BIOPSY DURING CHEMOTHERAPY FOR CHILDHOOD LEUKAEMIA IS OF NO CLINICAL VALUE",
+            "year": 1985,
+            "authors": [
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "W. Paul Bowman",
+                    "id": "A5013047937"
+                },
+                {
+                    "name": "Minnie Abromowitch",
+                    "id": "A5085317690"
+                },
+                {
+                    "name": "Gary V. Dahl",
+                    "id": "A5110474857"
+                },
+                {
+                    "name": "Bhaskar N. Rao",
+                    "id": "A5110570909"
+                },
+                {
+                    "name": "Judith Ochs",
+                    "id": "A5109241065"
+                },
+                {
+                    "name": "Gaston K. Rivera",
+                    "id": "A5113604069"
+                }
+            ],
+            "venue": "The Lancet"
+        },
+        "W1972868941": {
+            "id": "W1972868941",
+            "title": "Progress in the treatment of adolescents with acute lymphoblastic leukemia",
+            "year": 1993,
+            "authors": [
+                {
+                    "name": "Gaston K. Rivera",
+                    "id": "A5113604069"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "Victor M. Santana",
+                    "id": "A5101482304"
+                },
+                {
+                    "name": "Michael L. Hancock",
+                    "id": "A5114251062"
+                },
+                {
+                    "name": "Hazem H. Mahmoud",
+                    "id": "A5113641620"
+                },
+                {
+                    "name": "John T. Sandlund",
+                    "id": "A5109238125"
+                },
+                {
+                    "name": "Raul C. Ribeiro",
+                    "id": "A5086250633"
+                },
+                {
+                    "name": "Wayne L. Furman",
+                    "id": "A5034374604"
+                },
+                {
+                    "name": "Neyssa Marina",
+                    "id": "A5085873078"
+                },
+                {
+                    "name": "William M. Crist",
+                    "id": "A5110156241"
+                }
+            ],
+            "venue": "Cancer"
+        },
+        "W1989409851": {
+            "id": "W1989409851",
+            "title": "Deficient innate immunity, thymopoiesis, and gene expression response to radiation in survivors of childhood acute lymphoblastic leukemia",
+            "year": 2010,
+            "authors": [
+                {
+                    "name": "Wing Leung",
+                    "id": "A5062964407"
+                },
+                {
+                    "name": "Geoffrey Neale",
+                    "id": "A5006819204"
+                },
+                {
+                    "name": "Fred G. Behm",
+                    "id": "A5110306828"
+                },
+                {
+                    "name": "Rekha Iyengar",
+                    "id": "A5109064366"
+                },
+                {
+                    "name": "David Finkelstein",
+                    "id": "A5060443104"
+                },
+                {
+                    "name": "Michael B. Kastan",
+                    "id": "A5021559507"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                }
+            ],
+            "venue": "Cancer Epidemiology"
+        },
+        "W1963788182": {
+            "id": "W1963788182",
+            "title": "Epipodophyllotoxins in the treatment of childhood cancer",
+            "year": 1994,
+            "authors": [
+                {
+                    "name": "Gaston K. Rivera",
+                    "id": "A5113604069"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "Victor M. Santana",
+                    "id": "A5101482304"
+                },
+                {
+                    "name": "Charles B. Pratt",
+                    "id": "A5113548826"
+                },
+                {
+                    "name": "William M. Crist",
+                    "id": "A5111603958"
+                }
+            ],
+            "venue": "Cancer Chemotherapy and Pharmacology"
+        },
+        "W2079758133": {
+            "id": "W2079758133",
+            "title": "Unfavorable presenting clinical and laboratory features are associated with calla-negative non-t, non-b lymphoblastic leukemia in children",
+            "year": 1986,
+            "authors": [
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "Dorothy L. Williams",
+                    "id": "A5110016421"
+                },
+                {
+                    "name": "Susana C. Raimondi",
+                    "id": "A5012776569"
+                },
+                {
+                    "name": "Susan L. Melvin",
+                    "id": "A5108385014"
+                },
+                {
+                    "name": "Frederick G. Behm",
+                    "id": "A5108357016"
+                },
+                {
+                    "name": "A. Thomas Look",
+                    "id": "A5113567213"
+                },
+                {
+                    "name": "Gary V. Dahl",
+                    "id": "A5110474857"
+                },
+                {
+                    "name": "Gaston K. Rivera",
+                    "id": "A5113604069"
+                },
+                {
+                    "name": "David K. Kalwinsky",
+                    "id": "A5110404999"
+                },
+                {
+                    "name": "Joseph Mirro",
+                    "id": "A5017212847"
+                },
+                {
+                    "name": "Richard K. Dodge",
+                    "id": "A5112041281"
+                },
+                {
+                    "name": "Sharon B. Murphy",
+                    "id": "A5113793881"
+                }
+            ],
+            "venue": "Leukemia Research"
+        },
+        "W4417013496": {
+            "id": "W4417013496",
+            "title": "Impact of noncoding tandem repeat sequence on TPMT function and thiopurine metabolism in children with ALL",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Jason Xu",
+                    "id": "A5023760520"
+                },
+                {
+                    "name": "Wenjian Yang",
+                    "id": "A5012700026"
+                },
+                {
+                    "name": "Kristine R. Crews",
+                    "id": "A5085620590"
+                },
+                {
+                    "name": "Alejandro R. Molinelli",
+                    "id": "A5054376988"
+                },
+                {
+                    "name": "Sima Jeha",
+                    "id": "A5044030725"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5111629964"
+                },
+                {
+                    "name": "Seth E. Karol",
+                    "id": "A5005274385"
+                },
+                {
+                    "name": "Hiroto Inaba",
+                    "id": "A5075936752"
+                },
+                {
+                    "name": "Jun Yang",
+                    "id": "A5061426227"
+                }
+            ],
+            "venue": "Blood"
+        },
+        "W4417018301": {
+            "id": "W4417018301",
+            "title": "Relapsed acute lymphoblastic leukemia treated with venetoclax and navitoclax: Results of the raven study in children and young adults with relapsed/ refractory ALL",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Seth E. Karol",
+                    "id": "A5005274385"
+                },
+                {
+                    "name": "Maria Luisa Sulis",
+                    "id": "A5018962418"
+                },
+                {
+                    "name": "Yinmei Zhou",
+                    "id": "A5044548428"
+                },
+                {
+                    "name": "Satoshi Yoshimura",
+                    "id": "A5051015395"
+                },
+                {
+                    "name": "Wenjian Yang",
+                    "id": "A5012700026"
+                },
+                {
+                    "name": "Qingsong Gao",
+                    "id": "A5015935509"
+                },
+                {
+                    "name": "Matthew Rees",
+                    "id": "A5066455924"
+                },
+                {
+                    "name": "Hiroto Inaba",
+                    "id": "A5075936752"
+                },
+                {
+                    "name": "Raul C. Ribeiro",
+                    "id": "A5104053193"
+                },
+                {
+                    "name": "Cheng Cheng",
+                    "id": "A5100349408"
+                },
+                {
+                    "name": "Charles G. Mullighan",
+                    "id": "A5048744038"
+                },
+                {
+                    "name": "Jun Yang",
+                    "id": "A5061426227"
+                },
+                {
+                    "name": "Ching\u2010Hon Pui",
+                    "id": "A5109192820"
+                }
+            ],
+            "venue": "Blood"
+        },
+        "W4417018426": {
+            "id": "W4417018426",
+            "title": "ALL-pharmacotyping data portal: An open-source platform for exploring genomics of leukemia drug susceptibility and resistance",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Karishma Gangwani",
+                    "id": "A5025653023"
+                },
+                {
+                    "name": "Satoshi Yoshimura",
+                    "id": "A5051015395"
+                },
+                {
+                    "name": "Zhenhua Li",
+                    "id": "A5100357939"
+                },
+                {
+                    "name": "Robin Paul",
+                    "id": "A5079873020"
+                },
+                {
+                    "name": "Wenjian Yang",
+                    "id": "A5012700026"
+                },
+                {
+                    "name": "Congyu Lu",
+                    "id": "A5054943660"
+                },
+                {
+                    "name": "Jian Wang",
+                    "id": "A5100370521"
+                },
+                {
+                    "name": "Andrew Willems",
+                    "id": "A5031352602"
+                },
+                {
+                    "name": "Gavriel Y. Matt",
+                    "id": "A5064464558"
+                },
+                {
+                    "name": "Edgar Sioson",
+                    "id": "A5039171423"
+                },
+                {
+                    "name": "Colleen Reilly",
+                    "id": "A5010065681"
+                },
+                {
+                    "name": "Airen Zald\u00edvar Peraza",
+                    "id": "A5093455902"
+                },
+                {
+                    "name": "Aleksandar Aci\u0107",
+                    "id": "A5059267122"
+                },
+                {
+                    "name": "Shawn Lee",
+                    "id": "A5048454024"
+                },
+                {
+                    "name": "Jun Yang",
+                    "id": "A5061426227"
+                },
+                {
+                    "name": "Xin Zhou",
+                    "id": "A5101814981"
+                }
+            ],
+            "venue": "Blood"
+        },
+        "W4417021199": {
+            "id": "W4417021199",
+            "title": "Increased yield of recurrent structural variants (SVs) in Ph-like B-cell acute lymphoblastic leukemia (B-ALL) using a streamlined clinical whole-genome sequencing (WGS) assay",
+            "year": 2025,
+            "authors": [
+                {
+                    "name": "Andrew Hughes",
+                    "id": "A5040363513"
+                },
+                {
+                    "name": "Feiyu Du",
+                    "id": "A5062339083"
+                },
+                {
+                    "name": "Michele O\u2019Laughlin",
+                    "id": "A5000448084"
+                },
+                {
+                    "name": "Georg A. Sprenger",
+                    "id": "A5111739737"
+                },
+                {
+                    "name": "Mohamed Mahgoub",
+                    "id": "A5028231544"
+                },
+                {
+                    "name": "Nidhi Davarapalli",
+                    "id": "A5119685842"
+                },
+                {
+                    "name": "Heidi Struthers",
+                    "id": "A5080672736"
+                },
+                {
+                    "name": "Haley Abel",
+                    "id": "A5061624565"
+                },
+                {
+                    "name": "Christopher S. Manring",
+                    "id": "A5016760764"
+                },
+                {
+                    "name": "Richard C. Harvey",
+                    "id": "A5070576060"
+                },
+                {
+                    "name": "Caner Saygin",
+                    "id": "A5003321703"
+                },
+                {
+                    "name": "Jun Yin",
+                    "id": "A5101473205"
+                },
+                {
+                    "name": "Jun Yang",
+                    "id": "A5061426227"
+                },
+                {
+                    "name": "Daniel J. DeAngelo",
+                    "id": "A5082924494"
+                },
+                {
+                    "name": "Shira Dinner",
+                    "id": "A5066185867"
+                },
+                {
+                    "name": "Richard M. Stone",
+                    "id": "A5071023119"
+                },
+                {
+                    "name": "Marina Konopleva",
+                    "id": "A5022647201"
+                },
+                {
+                    "name": "Ann\u2010Kathrin Eisfeld",
+                    "id": "A5086647663"
+                },
+                {
+                    "name": "Molly C. Schroeder",
+                    "id": "A5070084158"
+                },
+                {
+                    "name": "Eric J. Duncavage",
+                    "id": "A5108413029"
+                },
+                {
+                    "name": "Anjali S. Advani",
+                    "id": "A5082944296"
+                },
+                {
+                    "name": "Wendy Stock",
+                    "id": "A5005939966"
+                },
+                {
+                    "name": "Geoffrey L. Uy",
+                    "id": "A5101423957"
+                },
+                {
+                    "name": "David H. Spencer",
+                    "id": "A5062422889"
+                }
+            ],
+            "venue": "Blood"
+        },
+        "W7123409187": {
+            "id": "W7123409187",
+            "title": "Abstract A021: CLK inhibition induces mis-splicing of SOX8 in alveolar rhabdomyosarcoma",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Vincent Terta",
+                    "id": "A5028723710"
+                },
+                {
+                    "name": "Qiong Wu",
+                    "id": "A5012460069"
+                },
+                {
+                    "name": "Jun Yang",
+                    "id": "A5061426227"
+                }
+            ],
+            "venue": "Cancer Research"
+        },
+        "W1989604055": {
+            "id": "W1989604055",
+            "title": "ALK-Positive Anaplastic Large Cell Lymphoma With Leukemic Peripheral Blood Involvement Is a Clinicopathologic Entity With an Unfavorable Prognosis: Report of Three Cases and Review of the Literature",
+            "year": 2003,
+            "authors": [
+                {
+                    "name": "Mihaela Onciu",
+                    "id": "A5023870317"
+                },
+                {
+                    "name": "Frederick G. Behm",
+                    "id": "A5109831466"
+                },
+                {
+                    "name": "Susana C. Raimondi",
+                    "id": "A5012776569"
+                },
+                {
+                    "name": "S. E. H. Moore",
+                    "id": "A5110230247"
+                },
+                {
+                    "name": "Emma L. Harwood",
+                    "id": "A5053603211"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5112078671"
+                },
+                {
+                    "name": "John T. Sandlund",
+                    "id": "A5109238125"
+                }
+            ],
+            "venue": "American Journal of Clinical Pathology"
+        },
+        "W1999616653": {
+            "id": "W1999616653",
+            "title": "Somnolence, hypotension, and metabolic acidosis following high-dose teniposide treatment in children with leukemia",
+            "year": 1991,
+            "authors": [
+                {
+                    "name": "Howard L. McLeod",
+                    "id": "A5111620433"
+                },
+                {
+                    "name": "Donald K. Baker",
+                    "id": "A5009874216"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5112078671"
+                },
+                {
+                    "name": "John H. Rodman",
+                    "id": "A5109051529"
+                }
+            ],
+            "venue": "Cancer Chemotherapy and Pharmacology"
+        },
+        "W1989387647": {
+            "id": "W1989387647",
+            "title": "Acute Leukemias with the t(4;11)(q21;q23)",
+            "year": 1992,
+            "authors": [
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5112078671"
+                }
+            ],
+            "venue": "Leukemia & lymphoma/Leukemia and lymphoma"
+        },
+        "W2488430529": {
+            "id": "W2488430529",
+            "title": "Treatment of Acute Leukemias",
+            "year": 2002,
+            "authors": [
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5096760205"
+                }
+            ],
+            "venue": "Humana Press eBooks"
+        },
+        "W7128479339": {
+            "id": "W7128479339",
+            "title": "Long-Read Whole-Transcriptome Sequencing and Selective Gene Panel Profiling Enable Sensitive Detection of Fusion Oncogenes in Pediatric B-Cell Acute Lymphoblastic Leukemia",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "John Lin",
+                    "id": "A5125545018"
+                },
+                {
+                    "name": "Kofi B. Opoku",
+                    "id": "A5098907811"
+                },
+                {
+                    "name": "Mark R. Litzow",
+                    "id": "A5125546270"
+                },
+                {
+                    "name": "Elisabeth Paietta",
+                    "id": "A5125561554"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5125574347"
+                },
+                {
+                    "name": "Sima C. Jeha",
+                    "id": "A5103422963"
+                },
+                {
+                    "name": "Kathryn G. Roberts",
+                    "id": "A5125523434"
+                },
+                {
+                    "name": "Charles G. Mullighan",
+                    "id": "A5125519319"
+                },
+                {
+                    "name": "Thomas B. Alexander",
+                    "id": "A5125592006"
+                },
+                {
+                    "name": "Jeremy R. Wang",
+                    "id": "A5125570859"
+                }
+            ],
+            "venue": "Journal of Molecular Diagnostics"
+        },
+        "W399016010": {
+            "id": "W399016010",
+            "title": "26SL4 ALL: Success Story and Beyond",
+            "year": 2006,
+            "authors": [
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5112718130"
+                }
+            ],
+            "venue": "\u5c0f\u5150\u304c\u3093 : \u5c0f\u5150\u60aa\u6027\u816b\u760d\u7814\u7a76\u4f1a\u8a18\u9332"
+        },
+        "W7140858555": {
+            "id": "W7140858555",
+            "title": "Association of neuropathy, sarcopenia and\u00a0physical function in acute lymphoblastic leukemia survivors with chemotherapy alone",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Martin Kaj Fridh",
+                    "id": "A5130650229"
+                },
+                {
+                    "name": "Mengqi Xing",
+                    "id": "A5049608373"
+                },
+                {
+                    "name": "Sedigheh Mirzaei",
+                    "id": "A5130690691"
+                },
+                {
+                    "name": "David Mizrahi",
+                    "id": "A5079426234"
+                },
+                {
+                    "name": "Hanne B\u00e6kgaard Larsen",
+                    "id": "A5114173965"
+                },
+                {
+                    "name": "Stephanie B. Dixon",
+                    "id": "A5130659461"
+                },
+                {
+                    "name": "Nicholas S. Phillips",
+                    "id": "A5053211194"
+                },
+                {
+                    "name": "Kevin R. Krull",
+                    "id": "A5130690510"
+                },
+                {
+                    "name": "Hiroto Inaba",
+                    "id": "A5121373838"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5130674680"
+                },
+                {
+                    "name": "Seth E. Karol",
+                    "id": "A5130669168"
+                },
+                {
+                    "name": "Angela Delaney",
+                    "id": "A5130717722"
+                },
+                {
+                    "name": "Sue C. Kaste",
+                    "id": "A5130655012"
+                },
+                {
+                    "name": "Melissa M. Hudson",
+                    "id": "A5130692256"
+                },
+                {
+                    "name": "Kirsten K. Ness",
+                    "id": "A5130680101"
+                }
+            ],
+            "venue": "Journal of Cancer Survivorship"
+        },
+        "W7118700004": {
+            "id": "W7118700004",
+            "title": "Genetic landscape of pediatric acute myeloid leukemia in Taiwan",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Zhongshan Cheng",
+                    "id": "A5122262474"
+                },
+                {
+                    "name": "Sung\u2010Liang Yu",
+                    "id": "A5000918218"
+                },
+                {
+                    "name": "Chih-Hsiang Yu",
+                    "id": "A5122087961"
+                },
+                {
+                    "name": "Ti-Cheng Chang",
+                    "id": "A5040860323"
+                },
+                {
+                    "name": "Ya-Hsuan Chang",
+                    "id": "A5113775382"
+                },
+                {
+                    "name": "Shiann-Tarng Jou",
+                    "id": "A5122277651"
+                },
+                {
+                    "name": "Meng-Yao L\u00fc",
+                    "id": "A5066645481"
+                },
+                {
+                    "name": "Kai-Hsin Lin",
+                    "id": "A5115592326"
+                },
+                {
+                    "name": "Chang Hsiu-Hao",
+                    "id": "A5103826227"
+                },
+                {
+                    "name": "Shu-Wei Chou",
+                    "id": "A5053405311"
+                },
+                {
+                    "name": "Ze-Shiang Lin",
+                    "id": "A5004851467"
+                },
+                {
+                    "name": "C C Kuo",
+                    "id": "A5111455205"
+                },
+                {
+                    "name": "Phooi-Theng Liew",
+                    "id": "A5122094315"
+                },
+                {
+                    "name": "Chia-Jui Du",
+                    "id": "A5042539707"
+                },
+                {
+                    "name": "Chien\u2010Yu Lin",
+                    "id": "A5014525711"
+                },
+                {
+                    "name": "Yu-Ling Ni",
+                    "id": "A5074923758"
+                },
+                {
+                    "name": "Hsuan\u2010Yu Chen",
+                    "id": "A5102752602"
+                },
+                {
+                    "name": "Dong-Tsamn Lin",
+                    "id": "A5115589427"
+                },
+                {
+                    "name": "S C Lin",
+                    "id": "A5106944595"
+                },
+                {
+                    "name": "Gang Wu",
+                    "id": "A5121947442"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5122155135"
+                },
+                {
+                    "name": "Yichen Yang",
+                    "id": "A5050253927"
+                }
+            ],
+            "venue": "Scientific Reports"
+        },
+        "W7118759453": {
+            "id": "W7118759453",
+            "title": "Impact of urban features on land surface temperature across the diurnal cycle under LCZ framework",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Yishan Zhou",
+                    "id": "A5122225206"
+                },
+                {
+                    "name": "Yichen Yang",
+                    "id": "A5050253927"
+                },
+                {
+                    "name": "Haitao Wang",
+                    "id": "A5122114532"
+                }
+            ],
+            "venue": "Urban Climate"
+        },
+        "W7128739535": {
+            "id": "W7128739535",
+            "title": "Body mass index during and early after therapy for pediatric acute lymphoblastic leukemia is associated with obesity in survivors",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Kunanya Suwannaying",
+                    "id": "A5080189139"
+                },
+                {
+                    "name": "Grace C. Zhou",
+                    "id": "A5125750028"
+                },
+                {
+                    "name": "Nawachai Lertvivatpong",
+                    "id": "A5019520884"
+                },
+                {
+                    "name": "Asmita Neupane",
+                    "id": "A5047918651"
+                },
+                {
+                    "name": "Kateryna Petrykey",
+                    "id": "A5043333818"
+                },
+                {
+                    "name": "Tomoko Yoshida",
+                    "id": "A5081776349"
+                },
+                {
+                    "name": "Jessica L. Baedke",
+                    "id": "A5037630206"
+                },
+                {
+                    "name": "Piya Rujkijyanont",
+                    "id": "A5125708476"
+                },
+                {
+                    "name": "Carmen L. Wilson",
+                    "id": "A5055482046"
+                },
+                {
+                    "name": "Stephanie B. Dixon",
+                    "id": "A5125712428"
+                },
+                {
+                    "name": "Angela Delaney",
+                    "id": "A5125775017"
+                },
+                {
+                    "name": "Yadav Sapkota",
+                    "id": "A5036451685"
+                },
+                {
+                    "name": "SC Kaste",
+                    "id": "A5111586055"
+                },
+                {
+                    "name": "Gregory T. Armstrong",
+                    "id": "A5125689615"
+                },
+                {
+                    "name": "Ching-Hon Pui",
+                    "id": "A5125727809"
+                },
+                {
+                    "name": "Melissa M. Hudson",
+                    "id": "A5125751369"
+                },
+                {
+                    "name": "Deokumar Srivastava",
+                    "id": "A5125728972"
+                },
+                {
+                    "name": "Kirsten K. Ness",
+                    "id": "A5125732988"
+                },
+                {
+                    "name": "Hiroto Inaba",
+                    "id": "A5121373838"
+                }
+            ],
+            "venue": "Haematologica"
+        },
+        "W7134255031": {
+            "id": "W7134255031",
+            "title": "Nutritional Assessment of Children and Adolescents with Cancer in Various Resource Settings",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Kunanya Suwannaying",
+                    "id": "A5080189139"
+                },
+                {
+                    "name": "Piya Rujkijyanont",
+                    "id": "A5128451230"
+                },
+                {
+                    "name": "Hiroto Inaba",
+                    "id": "A5121373838"
+                }
+            ],
+            "venue": "Cancers"
+        },
+        "W7136679350": {
+            "id": "W7136679350",
+            "title": "Blinatumomab\u2010Associated Psychosis in an Adolescent With B\u2010Cell Acute Lymphoblastic Leukemia",
+            "year": 2026,
+            "authors": [
+                {
+                    "name": "Eesha A. Zaheer",
+                    "id": "A5129618758"
+                },
+                {
+                    "name": "Ashley Holland",
+                    "id": "A5038129242"
+                },
+                {
+                    "name": "Andrew Elliott",
+                    "id": "A5129579782"
+                },
+                {
+                    "name": "Emily Hanzlik",
+                    "id": "A5031299169"
+                },
+                {
+                    "name": "Hiroto Inaba",
+                    "id": "A5121373838"
+                }
+            ],
+            "venue": "Pediatric Blood & Cancer"
+        }
+    }
+}
