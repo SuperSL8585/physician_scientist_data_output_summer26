@@ -95,7 +95,7 @@ def move_scientists(unfinished_scientists, source_dir, target_dir):
                 print(f"Moved {file_path.stem} to target")
     else:
         rows = execute_command(
-            'SELECT researcher_name FROM researchers_master_50_first')
+            'SELECT researcher_name FROM researchers_master_50')
         finished_scientists = [row[0] for row in rows if row[0]]
         for file_path in source_dir.iterdir():
             if file_path.stem in finished_scientists:
@@ -143,15 +143,17 @@ def filter_clusters_by_works(dataset_path):
 
 def write_filter_results(name, approved_clusters, review_clusters):
     with open("filtered_clusters.txt", "a") as file:
-        file.write(f"\n{name}\n")
+        file.write(f"{name}")
         if approved_clusters:
             file.write("approved_clusters = ")
             for item in approved_clusters:
-                file.write(f"{item},\n")
+                file.write(f"{item}, ")
+        print("\n")
         if review_clusters:
             file.write("review_clusters = ")
             for item in review_clusters:
-                file.write(f"{item}, \n")
+                file.write(f"{item}, ")
+        print("\n")
 
 
 def researcher_upload_by_cluster_set(dataset_path, researcher_name, cluster_set):
@@ -176,8 +178,8 @@ def input_clusters_for_upload(dataset_path):
         try:
             researcher_name = input(
                 'Researcher you want to upload with capitalized first and last name: ')
-            cluster_set = input(
-                'Set of clusters you want to upload for given researcher: ')
+            cluster_set = '{' + input(
+                'Set of clusters you want to upload for given researcher: ') + '}'
             cluster_set = set(cluster_set[1:-1].split(", "))
             researcher_upload_by_cluster_set(
                 dataset_path, researcher_name, cluster_set)
@@ -199,5 +201,7 @@ target_dir = Path('uploaded_scientists')
 #     print(name)
 # move_scientists(needs_manual_check, source_dir, target_dir)
 # filter_clusters_by_works(source_dir)
+
+
 # input_clusters_for_upload(source_dir)
 move_scientists(False, source_dir, target_dir)

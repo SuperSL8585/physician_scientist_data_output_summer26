@@ -39,6 +39,16 @@ def get_all_oa_ids():
     return oa_ids
 
 
+def get_oa_ids_not_in_pubs():
+    """
+    Gets a list of all oa ids not in the publications table
+    """
+    rows = execute_command(
+        'SELECT oa_author_id FROM researcher_aliases_50 EXCEPT SELECT researcher_id FROM publications_sum26;')
+    oa_ids = [row[0] for row in rows if row[0]]
+    return oa_ids
+
+
 # MAIN
-oa_ids = get_all_oa_ids()
+oa_ids = get_oa_ids_not_in_pubs()
 print(oa_ids)
