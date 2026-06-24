@@ -3,6 +3,7 @@ import psycopg2
 import json
 from pathlib import Path
 import shutil
+import csv
 
 DB_URL = "postgresql://selina04_mit_edu:ynoGrfDJ4hnEyXkqO0IGFw@livid-dibbler-6457.g8z.gcp-us-east1.cockroachlabs.cloud:26257/test?sslmode=require"
 
@@ -36,9 +37,9 @@ def file_opener(dataset_path, researcher_name):
             return researcher_name, cluster_count, author_data, works_data
 
 
-def upload_to_cockroach(researcher_name, oa_ids):
+def upload_to_cockroach_oa(researcher_name, oa_ids):
     """
-    Uploads researcher into cockroach researchers_master_50 and researcher_aliases_50 tables
+    Uploads researcher into cockroach researchers_master_50 and researcher_oa_50 tables
     """
     execute_command(
         "INSERT INTO researchers_master_50 (researcher_name) VALUES (%s) ON CONFLICT DO NOTHING",
@@ -47,12 +48,27 @@ def upload_to_cockroach(researcher_name, oa_ids):
 
     for oa_id in oa_ids:
         execute_command(
-            "INSERT INTO researcher_aliases_50 (researcher_name, oa_author_id) VALUES (%s, %s) ON CONFLICT DO NOTHING",
+            "INSERT INTO researcher_oa_50 (researcher_name, oa_author_id) VALUES (%s, %s) ON CONFLICT DO NOTHING",
             (researcher_name, oa_id,), commit=True
         )
 
     print(
-        f"Successfully ingested {len(oa_ids)} valid IDs for {researcher_name}.")
+        f"Successfully uploaded {len(oa_ids)} valid IDs for {researcher_name}.")
+
+
+def upload_to_cockroack_dim(dataset_path):
+    """
+    Uploads disambiguated dim ids from a csv file assuming researcher names were already uploaded
+    """
+    with open(dataset_path, 'r', encoding='utf-8') as file:
+        csv_reader = csv.DictReader(file)
+
+        for row in csv_reader:
+            name = row['name']
+            dim_id = row['disambiguated_id']
+            execute_command('INSERT INTO researcher_dim_50 (researcher_name, dim_author_id) VALUES (%s, %s) ON CONFLICT DO NOTHING',
+                            (name, dim_id,), commit=True)
+            print(f'Successfully uploaded id: {dim_id} for {name}')
 
 
 def researcher_upload_single_cluster(dataset_path, needs_manual_check):
@@ -71,7 +87,7 @@ def researcher_upload_single_cluster(dataset_path, needs_manual_check):
                 for cluster_key, cluster_info in author_data.items():
                     oa_ids.extend(cluster_info['ids'])
 
-                upload_to_cockroach(researcher_name, oa_ids)
+                upload_to_cockroach_oa(researcher_name, oa_ids)
 
             else:
                 needs_manual_check.append(researcher_name)
@@ -166,12 +182,16 @@ def researcher_upload_by_cluster_set(dataset_path, researcher_name, cluster_set)
         oa_ids = []
         if cluster_key in cluster_set:
             oa_ids.extend(cluster_info['ids'])
-            upload_to_cockroach(researcher_name, oa_ids)
+            upload_to_cockroach_oa(researcher_name, oa_ids)
 
 
 def input_clusters_for_upload(dataset_path):
     """
     Prompts user for researcher name and a set of clusters for upload
+
+    Input in the following format:
+    First Prompt: First_name Last_name (Ex. Alex Kopin)
+    Second Prompt: Cluster name you want to use, has 2 forms (Ex. A5082620506 or tap_william_0)
     """
     continuing = True
     while continuing:
@@ -192,16 +212,32 @@ def input_clusters_for_upload(dataset_path):
             continuing = False
 
 
+# =================================
 # MAIN
-source_dir = Path('unified_dataset')
-target_dir = Path('uploaded_scientists')
+# =================================
+
+# ----------------------------------
+# 1. Setup Source and target folders
+# ----------------------------------
+source_dir = Path('dimensionsAI_NameIds.csv')
+# target_dir = Path('uploaded_scientists')
+
+# ----------------------------------
+# 2. Quick Upload for researchers with single clusters
+# ----------------------------------
 # needs_manual_check = researcher_upload_single_cluster(source_dir, [])
 # print('\nPlease check:')
 # for name in needs_manual_check:
 #     print(name)
 # move_scientists(needs_manual_check, source_dir, target_dir)
-# filter_clusters_by_works(source_dir)
 
-
+# ----------------------------------
+# 3. Upload for other researchers by picking clusters
+# ----------------------------------
 # input_clusters_for_upload(source_dir)
-move_scientists(False, source_dir, target_dir)
+# move_scientists(False, source_dir, target_dir)
+
+# ----------------------------------
+# 4. Upload for dimensions ids
+# ----------------------------------
+upload_to_cockroack_dim(source_dir)
