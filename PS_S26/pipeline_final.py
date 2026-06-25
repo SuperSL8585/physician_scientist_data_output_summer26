@@ -11,6 +11,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 DB_URL = "postgresql://selina04_mit_edu:ynoGrfDJ4hnEyXkqO0IGFw@livid-dibbler-6457.g8z.gcp-us-east1.cockroachlabs.cloud:26257/test?sslmode=require"
 
+
 def execute_command(query, params=None, commit=False):
     connection = psycopg2.connect(DB_URL)
     cursor = connection.cursor()
@@ -27,6 +28,7 @@ def execute_command(query, params=None, commit=False):
 # ============================================================
 # WEIGHTS
 # ============================================================
+
 
 WEIGHT_REGULATORY = 0.30
 WEIGHT_PATIENT_REACH = 0.30
@@ -53,6 +55,7 @@ CLINICAL_DESCRIPTORS = frozenset({
     "Cross-Sectional Studies", "Clinical Protocols",
 })
 
+
 def is_clinical_paper(mesh_json_text):
     if not mesh_json_text or mesh_json_text in ("[]", "null", ""):
         return False
@@ -74,6 +77,7 @@ def is_clinical_paper(mesh_json_text):
         if has_humans and has_clinical_signal:
             return True
     return False
+
 
 def get_clinical_citation_score(researcher_oa_id, cutoff_year=2026):
     if not researcher_oa_id:
@@ -108,6 +112,7 @@ def get_clinical_citation_score(researcher_oa_id, cutoff_year=2026):
 # ============================================================
 # GUIDELINE CITATIONS
 # ============================================================
+
 
 def get_guideline_count_for_doi(doi):
     """Check guideline cache first, then hit PubMed API if not cached."""
@@ -154,13 +159,15 @@ def get_guideline_count_for_doi(doi):
         ids_str = ','.join(citing[:100])
         fetch_url = f'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id={ids_str}&rettype=xml&retmode=xml&email=amsim@mit.edu'
         xml = requests.get(fetch_url).text
-        count = xml.count('Practice Guideline') + xml.count('<PublicationType>Guideline')
+        count = xml.count('Practice Guideline') + \
+            xml.count('<PublicationType>Guideline')
         time.sleep(0.1)
 
         _cache_guideline(clean_doi, pmid, count)
         return count
     except:
         return 0
+
 
 def _cache_guideline(doi, pmid, count):
     try:
@@ -175,6 +182,7 @@ def _cache_guideline(doi, pmid, count):
             )
     except:
         pass
+
 
 def get_guideline_citation_score(researcher_oa_id, cutoff_year=2026, limit=30):
     """Get total guideline citations for a researcher's top cited papers."""
@@ -205,6 +213,8 @@ def get_guideline_citation_score(researcher_oa_id, cutoff_year=2026, limit=30):
 # ============================================================
 # TRIAL DATA — WITH DATABASE CACHING
 # ============================================================
+
+
 def get_clinical_trials_new(researcher_id, researcher_oa_id=None, cutoff_year=2026):
     results = []
 
@@ -238,6 +248,7 @@ def get_clinical_trials_new(researcher_id, researcher_oa_id=None, cutoff_year=20
 
     return unique
 
+
 def cache_trial_data(nct_id, phase, enrollment_count):
     try:
         execute_command(
@@ -247,6 +258,7 @@ def cache_trial_data(nct_id, phase, enrollment_count):
         )
     except:
         pass
+
 
 def get_trial_data_from_nct(nct_id):
     try:
@@ -269,7 +281,8 @@ def get_trial_data_from_nct(nct_id):
         phase = phases[0] if phases else None
         enrollment_count = enrollment.get('count', 0)
 
-        interventions = data['protocolSection'].get('armsInterventionsModule', {}).get('interventions', [])
+        interventions = data['protocolSection'].get(
+            'armsInterventionsModule', {}).get('interventions', [])
         exclude_patterns = {
             'placebo', 'vehicle', 'control', 'saline', 'sham',
             'standard care', 'usual care', 'regimen', 'agonist',
@@ -300,6 +313,7 @@ def get_trial_data_from_nct(nct_id):
 # ============================================================
 # FDA APPROVAL CHECK
 # ============================================================
+
 
 def check_fda_approval(drug_name):
     if not drug_name:
@@ -356,7 +370,8 @@ def check_fda_approval(drug_name):
             if result:
                 execute_command(
                     "INSERT INTO fda_cache (drug_name, approval_type, approval_date, approval_year, sponsor) VALUES (%s, %s, %s, %s, %s)",
-                    (drug_name, result['approval_type'], result['approval_date'], result['approval_year'], result['sponsor']),
+                    (drug_name, result['approval_type'], result['approval_date'],
+                     result['approval_year'], result['sponsor']),
                     commit=True
                 )
             else:
@@ -374,12 +389,14 @@ def check_fda_approval(drug_name):
 # SCORING FUNCTIONS
 # ============================================================
 
+
 def score_regulatory_milestone(phase, fda_result=None, role="lead_pi", start_year=None):
     base_scores = {
         "full_approval_orig": 100, "full_approval_suppl": 60,
         "PHASE3": 40, "PHASE4": 40, "PHASE2": 20, "PHASE1": 10, "NA": 5,
     }
-    role_modifiers = {"lead_pi": 1.0, "co_investigator": 0.5, "contributing_author": 0.25}
+    role_modifiers = {"lead_pi": 1.0,
+                      "co_investigator": 0.5, "contributing_author": 0.25}
 
     years_ago = (2026 - int(str(start_year)[:4])) if start_year else 5
     time_decay = 1.0 if years_ago <= 5 else (0.75 if years_ago <= 10 else 0.5)
@@ -397,6 +414,7 @@ def score_regulatory_milestone(phase, fda_result=None, role="lead_pi", start_yea
 
     return round(base * modifier * time_decay, 2), "scored"
 
+
 def score_patient_reach(phase, enrollment):
     if not enrollment:
         return 0
@@ -411,8 +429,10 @@ def score_patient_reach(phase, enrollment):
 # MAIN SCORING FUNCTION
 # ============================================================
 
+
 def calculate_researcher_score(researcher_id, researcher_name, researcher_oa_id, cutoff_year=2026):
-    trials = get_clinical_trials_new(researcher_id, researcher_oa_id=researcher_oa_id, cutoff_year=cutoff_year)
+    trials = get_clinical_trials_new(
+        researcher_id, researcher_oa_id=researcher_oa_id, cutoff_year=cutoff_year)
 
     total_regulatory_score = 0
     total_patient_reach_score = 0
@@ -421,7 +441,8 @@ def calculate_researcher_score(researcher_id, researcher_name, researcher_oa_id,
 
     for t in trials:
         title, brief_title, start_date, nct_id = t
-        phase, enrollment, enrollment_type, drug_names = get_trial_data_from_nct(nct_id)
+        phase, enrollment, enrollment_type, drug_names = get_trial_data_from_nct(
+            nct_id)
 
         fda_result = None
         for drug_name in drug_names:
@@ -464,6 +485,7 @@ def calculate_researcher_score(researcher_id, researcher_name, researcher_oa_id,
 # NORMALIZATION
 # ============================================================
 
+
 def normalize(scores, key):
     values = [s[key] for s in scores.values()]
     min_val = min(values)
@@ -472,6 +494,7 @@ def normalize(scores, key):
         return {name: 0 for name in scores}
     return {name: round((s[key] - min_val) / (max_val - min_val) * 100, 2)
             for name, s in scores.items()}
+
 
 # ============================================================
 # MAIN
@@ -495,15 +518,16 @@ researchers = execute_command("""
 """)
 
 
-
 print(f"Running pipeline on {len(researchers)} researchers...\n")
 
 scores = {}
+
 
 def process_researcher(r):
     name, specialty, dim_id, oa_id = r
     print(f"Processing: {name}...")
     return name, calculate_researcher_score(dim_id, name, oa_id)
+
 
 with ThreadPoolExecutor(max_workers=3) as executor:
     futures = {executor.submit(process_researcher, r): r for r in researchers}
@@ -524,8 +548,7 @@ for name in scores:
         (reg_norm[name] * WEIGHT_REGULATORY) +
         (reach_norm[name] * WEIGHT_PATIENT_REACH) +
         (clin_norm[name] * WEIGHT_CLINICAL_CITATIONS) +
-        (guideline_norm[name] * WEIGHT_GUIDELINE_CITATIONS)
-    , 2)
+        (guideline_norm[name] * WEIGHT_GUIDELINE_CITATIONS), 2)
     final_scores[name] = total
 
 print("\n=== FINAL SCORES (normalized) ===")

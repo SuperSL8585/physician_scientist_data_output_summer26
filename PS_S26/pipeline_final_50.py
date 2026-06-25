@@ -4,6 +4,7 @@ import json
 import time
 from urllib.parse import quote
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import ast
 
 # ============================================================
 # DATABASE CONNECTION
@@ -79,35 +80,41 @@ def is_clinical_paper(mesh_json_text):
     return False
 
 
-def get_clinical_citation_score(researcher_oa_id, cutoff_year=2026):
-    if not researcher_oa_id:
+def get_clinical_citation_score(researcher_oa_ids, cutoff_year=2026):
+    if not researcher_oa_ids:
         return 0, 0, 0
     try:
         connection = psycopg2.connect(DB_URL)
         cursor = connection.cursor()
-        cursor.execute(
-            """SELECT mesh, cited_by_count
-               FROM publications_new7
-               WHERE researcher_id = %s
-               AND publication_year <= %s
-               AND publication_year >= 1990""",
-            (researcher_oa_id, cutoff_year)
-        )
         pub_count = 0
         total_citations = 0
-        for mesh_text, cbc in cursor.fetchall():
-            if is_clinical_paper(mesh_text):
-                pub_count += 1
-                try:
-                    total_citations += int(cbc) if cbc else 0
-                except (TypeError, ValueError):
-                    pass
+
+        for oa_id in researcher_oa_ids:
+            cursor.execute(
+                """SELECT mesh, cited_by_count
+                FROM publications_sum26
+                WHERE researcher_id = %s
+                AND publication_year <= %s
+                AND publication_year >= '1990'""",
+                (oa_id, str(cutoff_year))
+            )
+            for mesh_text, cbc in cursor.fetchall():
+                if is_clinical_paper(mesh_text):
+                    pub_count += 1
+                    try:
+                        total_citations += int(cbc) if cbc else 0
+                    except (TypeError, ValueError):
+                        print("Error occured in mesh text block")
+                        pass
+
         cursor.close()
         connection.close()
         weighted = total_citations * CITATION_WEIGHT
-        return pub_count, total_citations, weighted
+        return pub_count, total_citations, weighted, False
     except Exception as e:
-        return 0, 0, 0
+        print('Error returnined on clinical citation score')
+        # 4th value is True when error occurs
+        return 0, 0, 0, True
 
 # ============================================================
 # GUIDELINE CITATIONS
@@ -184,59 +191,65 @@ def _cache_guideline(doi, pmid, count):
         pass
 
 
-def get_guideline_citation_score(researcher_oa_id, cutoff_year=2026, limit=30):
+def get_guideline_citation_score(researcher_oa_ids, cutoff_year=2026, limit=30):
     """Get total guideline citations for a researcher's top cited papers."""
-    if not researcher_oa_id:
+    if not researcher_oa_ids:
         return 0
 
     try:
-        rows = execute_command(
-            """SELECT doi FROM publications_new7
-               WHERE researcher_id = %s
-               AND doi IS NOT NULL
-               AND publication_year >= 1990
-               AND publication_year <= %s
-               ORDER BY cited_by_count DESC
-               LIMIT %s""",
-            (researcher_oa_id, cutoff_year, limit)
-        )
-        dois = [row[0] for row in rows if row[0]]
+        dois = []
+        for oa_id in researcher_oa_ids:
+            rows = execute_command(
+                """SELECT doi FROM publications_sum26
+                WHERE researcher_id = %s
+                AND doi IS NOT NULL
+                AND publication_year >= '1990'
+                AND publication_year <= %s
+                ORDER BY cited_by_count DESC
+                LIMIT %s""",
+                (oa_id, str(cutoff_year), limit)
+            )
+            dois.extend([row[0] for row in rows if row[0]])
+
     except:
-        return 0
+        print('Error returned on guideline citations')
+        # 2nd value is True when error occurs
+        return 0, True
 
     total = 0
     for doi in dois:
         total += get_guideline_count_for_doi(doi)
 
-    return total
+    return total, False
 
 # ============================================================
 # TRIAL DATA — WITH DATABASE CACHING
 # ============================================================
 
 
-def get_clinical_trials_new(researcher_id, researcher_oa_id=None, cutoff_year=2026):
+def get_clinical_trials_new(researcher_id, researcher_oa_ids=None, cutoff_year=2026):
     results = []
 
     # check by dim_id first
     if researcher_id:
         rows = execute_command(
             f"""SELECT title, brief_title, start_date, id
-                FROM clinical_trials_new7
+                FROM clinical_trials_sum26
                 WHERE researcher_id = '{researcher_id}'
                 AND (start_date IS NULL OR CAST(SUBSTRING(start_date, 1, 4) AS INT) <= {cutoff_year})"""
         )
         results.extend(rows)
 
     # also check by oa_id as fallback
-    if researcher_oa_id:
-        rows = execute_command(
-            f"""SELECT title, brief_title, start_date, id
-                FROM clinical_trials_new7
-                WHERE researcher_id = '{researcher_oa_id}'
-                AND (start_date IS NULL OR CAST(SUBSTRING(start_date, 1, 4) AS INT) <= {cutoff_year})"""
-        )
-        results.extend(rows)
+    if researcher_oa_ids:
+        for oa_id in researcher_oa_ids:
+            rows = execute_command(
+                f"""SELECT title, brief_title, start_date, id
+                    FROM clinical_trials_sum26
+                    WHERE researcher_id = '{oa_id}'
+                    AND (start_date IS NULL OR CAST(SUBSTRING(start_date, 1, 4) AS INT) <= {cutoff_year})"""
+            )
+            results.extend(rows)
 
     # deduplicate by NCT ID
     seen = set()
@@ -252,7 +265,7 @@ def get_clinical_trials_new(researcher_id, researcher_oa_id=None, cutoff_year=20
 def cache_trial_data(nct_id, phase, enrollment_count):
     try:
         execute_command(
-            "UPDATE clinical_trials_new7 SET phase = %s, enrollment_count = %s WHERE id = %s",
+            "UPDATE clinical_trials_sum26 SET phase = %s, enrollment_count = %s WHERE id = %s",
             (phase, enrollment_count, nct_id),
             commit=True
         )
@@ -263,7 +276,7 @@ def cache_trial_data(nct_id, phase, enrollment_count):
 def get_trial_data_from_nct(nct_id):
     try:
         rows = execute_command(
-            "SELECT phase, enrollment_count FROM clinical_trials_new7 WHERE id = %s",
+            "SELECT phase, enrollment_count FROM clinical_trials_sum26 WHERE id = %s",
             (nct_id,)
         )
         if rows and rows[0][0] is not None and rows[0][1] is not None:
@@ -430,9 +443,9 @@ def score_patient_reach(phase, enrollment):
 # ============================================================
 
 
-def calculate_researcher_score(researcher_id, researcher_name, researcher_oa_id, cutoff_year=2026):
+def calculate_researcher_score(researcher_id, researcher_name, researcher_oa_ids, cutoff_year=2026):
     trials = get_clinical_trials_new(
-        researcher_id, researcher_oa_id=researcher_oa_id, cutoff_year=cutoff_year)
+        researcher_id, researcher_oa_ids=researcher_oa_ids, cutoff_year=cutoff_year)
 
     total_regulatory_score = 0
     total_patient_reach_score = 0
@@ -461,13 +474,18 @@ def calculate_researcher_score(researcher_id, researcher_name, researcher_oa_id,
         total_patient_reach_score += patient_score
         total_patients += enrollment if enrollment else 0
 
-    clin_pub_count, clin_raw_citations, clin_weighted = get_clinical_citation_score(
-        researcher_oa_id, cutoff_year=cutoff_year
+    clin_pub_count, clin_raw_citations, clin_weighted, failed_at_clinical = get_clinical_citation_score(
+        researcher_oa_ids, cutoff_year=cutoff_year
     )
 
-    guideline_score = get_guideline_citation_score(
-        researcher_oa_id, cutoff_year=cutoff_year, limit=30
+    guideline_score, failed_at_guideline = get_guideline_citation_score(
+        researcher_oa_ids, cutoff_year=cutoff_year, limit=30
     )
+
+    if failed_at_clinical:
+        print(f"{researcher_name} experienced an error at Clinical Citations")
+    if failed_at_guideline:
+        print(f"{researcher_name} experienced an error at Guideline Citations")
 
     return {
         "trial_count": len(trials),
@@ -499,22 +517,16 @@ def normalize(scores, key):
 # ============================================================
 # MAIN
 # ============================================================
+
 researchers = execute_command("""
-    SELECT r.first_m_last_name, r.specialty, r.unique_dim_id, r.unique_oa_id
-    FROM researchers_new7 r
-    WHERE r.first_m_last_name IN (
-        'Jasmohan Bajaj', 'Peter Crompton', 'Juan Wisnivesky',
-        'Beth Kirkpatrick', 'Wonder Drake', 'Maximilian Diehn',
-        'Shyamasundaran Kottilil', 'Vineet Arora', 'Jeffrey Curtis',
-        'Aaron Cypess', 'Aida Habtezion', 'Karl Bilimoria',
-        'Reshma Jagsi', 'Alessia Fornoni', 'Bernhard Kühn',
-        'Keith Choate', 'Catherine Blish', 'Sarat Chandarlapaty',
-        'Robert Baloh', 'Alexander Krupnick', 'Ash Alizadeh',
-        'Rasheed Gbadegesin', 'Andrew Auerbach', 'Conrad Weihl',
-        'Agata Smogorzewska', 'Anna Greka', 'Soumya Raychaudhuri',
-        'Trever Bivona', 'Margaret Feeney', 'Euan Ashley'
-    )
-    AND r.unique_oa_id IS NOT NULL
+    SELECT
+    m.researcher_name,
+    ARRAY_AGG(DISTINCT d.dim_author_id) as dim_ids,
+    ARRAY_AGG(DISTINCT a.oa_author_id) as oa_ids
+    FROM researchers_master_50 m
+    LEFT JOIN researcher_dim_50 d ON m.researcher_name = d.researcher_name
+    LEFT JOIN researcher_oa_50 a ON m.researcher_name = a.researcher_name
+    GROUP BY m.researcher_name;
 """)
 
 
@@ -524,9 +536,10 @@ scores = {}
 
 
 def process_researcher(r):
-    name, specialty, dim_id, oa_id = r
+    name, dim_id, oa_ids = r
     print(f"Processing: {name}...")
-    return name, calculate_researcher_score(dim_id, name, oa_id)
+    dim_id = dim_id[0]
+    return name, calculate_researcher_score(dim_id, name, oa_ids)
 
 
 with ThreadPoolExecutor(max_workers=3) as executor:
@@ -563,7 +576,7 @@ print("\nSaving scores to database...")
 for name in scores:
     s = scores[name]
     execute_command(
-        """INSERT INTO impact_scores
+        """INSERT INTO impact_scores_50
            (researcher_name, regulatory, patient_reach, clinical_citations, real_world_score)
            VALUES (%s, %s, %s, %s, %s)
            ON CONFLICT (researcher_name) DO UPDATE SET
@@ -576,4 +589,5 @@ for name in scores:
          s['clinical_citations_weighted'], final_scores[name]),
         commit=True
     )
+    print(f"{name} is saved into Cockroach!")
 print("Scores saved.")
