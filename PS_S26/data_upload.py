@@ -4,6 +4,8 @@ import json
 from pathlib import Path
 import shutil
 import csv
+import pandas as pd
+import requests
 
 DB_URL = "postgresql://selina04_mit_edu:ynoGrfDJ4hnEyXkqO0IGFw@livid-dibbler-6457.g8z.gcp-us-east1.cockroachlabs.cloud:26257/test?sslmode=require"
 
@@ -69,6 +71,90 @@ def upload_to_cockroack_dim(dataset_path):
             execute_command('INSERT INTO researcher_dim_50 (researcher_name, dim_author_id) VALUES (%s, %s) ON CONFLICT DO NOTHING',
                             (name, dim_id,), commit=True)
             print(f'Successfully uploaded id: {dim_id} for {name}')
+
+
+def insert_specialties(csv_name):
+    """
+    Obtains the specialties of physician scientists in the researchers_master_50 table and inserts them to Cockroach
+    """
+    df = pd.read_csv(csv_name, encoding='latin1')
+    rows = execute_command("SELECT researcher_name FROM researchers_master_50")
+    researcher_names = [row[0] for row in rows if row[0]]
+    specialties = {}
+    no_match = []
+    mult_matches = []
+    df_first = df['first_name']
+    df_last = df['last_name']
+    for researcher in researcher_names:
+        researcher_name = researcher
+        split_names = researcher.split()
+        first_name = split_names[0]
+        last_name = split_names[1]
+        match = df[(df_first == first_name) & (df_last == last_name)]
+
+        if match.empty:
+            no_match.append(researcher_name)
+
+        else:
+            specialties = match['original specialization'].tolist()
+            if len(specialties) == 1:
+                execute_command(
+                    "UPDATE researchers_master_50 SET specialty = %s WHERE researcher_name = %s",
+                    (specialties[0], researcher_name),
+                    commit=True
+                )
+                print(f'{researcher_name} has {specialties[0]} uploaded')
+            elif specialties[0] == []:
+                no_match.append(researcher_name)
+            else:
+                mult_matches.append(researcher_name)
+    return no_match, mult_matches
+
+
+def insert_h_index(researchers):
+    """
+    Queries a researcher's h index from open alex and inserts the h index into cockroach
+    researchers: a list of researcher names to query
+    """
+    def get_oa_data(oa_id):
+        query_id = f'https://api.openalex.org/authors/{oa_id}'
+
+        try:
+            response = requests.get(query_id)
+
+            if response.status_code == 200:
+                data = response.json()
+                stats = data.get('summary_stats', {})
+                h_index = stats.get('h_index', 0)
+                return h_index
+
+        except:
+            print(f'Error quering for {researcher}')
+
+    def find_best_oa(oa_list):
+        best_h = 0
+        for id in oa_list:
+            try:
+                id_h = get_oa_data(id)
+                if id_h > best_h:
+                    best_h = id_h
+            except:
+                pass
+        return best_h
+
+    for researcher in researchers:
+        oa_ids_rows = execute_command(
+            "SELECT oa_author_id FROM researcher_oa_50 WHERE researcher_name = %s", (researcher,))
+        oa_ids = [row[0] for row in oa_ids_rows if row[0]]
+        if len(oa_ids) == 1:
+            h_index = get_oa_data(oa_ids[0])
+        else:
+            h_index = find_best_oa(oa_ids)
+
+        execute_command("UPDATE researchers_master_50 SET h_index = %s WHERE researcher_name = %s",
+                        (int(h_index), researcher),
+                        commit=True)
+        print(f'{researcher} successfully uploaded with h-index {h_index}')
 
 
 def researcher_upload_single_cluster(dataset_path, needs_manual_check):
@@ -240,4 +326,19 @@ source_dir = Path('dimensionsAI_NameIds.csv')
 # ----------------------------------
 # 4. Upload for dimensions ids
 # ----------------------------------
-upload_to_cockroack_dim(source_dir)
+# upload_to_cockroack_dim(source_dir)
+
+# ----------------------------------
+# 5. Inserting specialties
+# ----------------------------------
+# no_match, mult_matches = insert_specialties('original_names.csv')
+# print(f'The following scientists have no match: {no_match}')
+# print(f'The following scientists have multiple matches: {mult_matches}')
+
+# ----------------------------------
+# 6. Inserting h-index for analysis
+# ----------------------------------
+name_rows = execute_command(
+    "SELECT researcher_name FROM researchers_master_50")
+names = [row[0] for row in name_rows if row[0]]
+insert_h_index(names)
