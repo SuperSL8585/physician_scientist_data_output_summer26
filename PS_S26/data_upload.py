@@ -305,7 +305,7 @@ def input_clusters_for_upload(dataset_path):
 # ----------------------------------
 # 1. Setup Source and target folders
 # ----------------------------------
-source_dir = Path('dimensionsAI_NameIds.csv')
+source_dir = Path('unfied_dataset')
 # target_dir = Path('uploaded_scientists')
 
 # ----------------------------------
