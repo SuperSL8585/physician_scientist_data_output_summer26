@@ -70,5 +70,5 @@ def get_all_dim_ids():
 
 
 # MAIN
-ids = get_all_dim_ids()
-print(ids)
+# names = get_all_names()
+# print(names)
