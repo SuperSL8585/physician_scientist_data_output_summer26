@@ -459,7 +459,7 @@ def calculate_researcher_score(researcher_id, researcher_name, researcher_oa_ids
 
     trials = get_clinical_trials_new(
         table_names, researcher_id, researcher_oa_ids=researcher_oa_ids, cutoff_year=cutoff_year)
-    print(f'Got clinical trials from {researcher_name}')
+    print(f'Got {trials} clinical trials from {researcher_name}')
 
     total_regulatory_score = 0
     total_patient_reach_score = 0
@@ -568,7 +568,7 @@ researchers_30 = execute_command("""
     AND r.unique_oa_id IS NOT NULL
 """)
 
-all_researchers = researchers_50 + researchers_30
+all_researchers = researchers_30 + researchers_50
 
 
 print(f"Running pipeline on {len(all_researchers)} researchers...\n")
